@@ -1,6 +1,6 @@
 {
-  "last_updated": "26 September 2026, 12:52:37 AM",
-  "last_updated_iso": "2026-09-25T18:52:37.630Z",
+  "last_updated": "26 September 2026, 03:53:30 AM",
+  "last_updated_iso": "2026-09-25T21:53:30.098Z",
   "new_since_last_sync": 0,
   "total_events": 161,
   "events": [
@@ -277,6 +277,7 @@
           "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1790335083-0-0-80dbc9dc07d51ef54164efb41bad4aeb"
         },
         {
+          "display_name": "Global Server - 4",
           "drmLicenseUrl": "",
           "drmScheme": "widevine",
           "headers": {
@@ -290,9 +291,11 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "Global Server - 4",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c5-hd/chunks.m3u8?is_vip=false&token=1790448459-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-95bbb612d4f7d4981e2c148b23862aa7",
           "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c5-hd/chunks.m3u8?is_vip=false&token=1790448459-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-95bbb612d4f7d4981e2c148b23862aa7"
         },
         {
+          "display_name": "Global Server - 5",
           "drmLicenseUrl": "",
           "drmScheme": "widevine",
           "headers": {
@@ -306,7 +309,26 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "Global Server - 5",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c5/chunks.m3u8?is_vip=false&token=1790448460-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ae53828a75627dc601d21953ce1f2225",
           "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c5/chunks.m3u8?is_vip=false&token=1790448460-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ae53828a75627dc601d21953ce1f2225"
+        },
+        {
+          "display_name": "Global Server - 6",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 6",
+          "stream_link": "https://www.rtmpcdn.com/live/dd713707-0e3c-4608-a515-71f8ae0968d0.m3u8",
+          "url": "https://www.rtmpcdn.com/live/dd713707-0e3c-4608-a515-71f8ae0968d0.m3u8"
         }
       ],
       "hotMatch": "yes",
@@ -404,6 +426,7 @@
           "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1790335083-0-0-80dbc9dc07d51ef54164efb41bad4aeb"
         },
         {
+          "display_name": "Global Server - 4",
           "drmLicenseUrl": "",
           "drmScheme": "widevine",
           "headers": {
@@ -417,9 +440,11 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "Global Server - 4",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c5-hd/chunks.m3u8?is_vip=false&token=1790448459-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-95bbb612d4f7d4981e2c148b23862aa7",
           "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c5-hd/chunks.m3u8?is_vip=false&token=1790448459-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-95bbb612d4f7d4981e2c148b23862aa7"
         },
         {
+          "display_name": "Global Server - 5",
           "drmLicenseUrl": "",
           "drmScheme": "widevine",
           "headers": {
@@ -433,7 +458,26 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "Global Server - 5",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c5/chunks.m3u8?is_vip=false&token=1790448460-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ae53828a75627dc601d21953ce1f2225",
           "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c5/chunks.m3u8?is_vip=false&token=1790448460-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ae53828a75627dc601d21953ce1f2225"
+        },
+        {
+          "display_name": "Global Server - 6",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 6",
+          "stream_link": "https://www.rtmpcdn.com/live/dd713707-0e3c-4608-a515-71f8ae0968d0.m3u8",
+          "url": "https://www.rtmpcdn.com/live/dd713707-0e3c-4608-a515-71f8ae0968d0.m3u8"
         }
       ],
       "logo1": "https://img.sofascore.com/api/v1/team/4707/image",
@@ -556,6 +600,60 @@
           "name": "Global Server - 3",
           "stream_link": "https://pull.niur.live/live/stream-9912145_lhd.m3u8?txSecret=1ed243c39cf8dad4b29016bdc9275749&txTime=6ab69ebb",
           "url": "https://pull.niur.live/live/stream-9912145_lhd.m3u8?txSecret=1ed243c39cf8dad4b29016bdc9275749&txTime=6ab69ebb"
+        },
+        {
+          "display_name": "Global Server - 4",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 4",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c4-hd/chunks.m3u8?is_vip=false&token=1790448477-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1203013016c82ca507e80e802f54ea10",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c4-hd/chunks.m3u8?is_vip=false&token=1790448477-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1203013016c82ca507e80e802f54ea10"
+        },
+        {
+          "display_name": "Global Server - 5",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 5",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c4/chunks.m3u8?is_vip=false&token=1790448478-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5a0a656a96930de2c1217f6cb5d91069",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c4/chunks.m3u8?is_vip=false&token=1790448478-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5a0a656a96930de2c1217f6cb5d91069"
+        },
+        {
+          "display_name": "Global Server - 6",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 6",
+          "stream_link": "https://www.rtmpcdn.com/live/5379da79-901c-4cc2-b511-47cdd1f2b9c0.m3u8",
+          "url": "https://www.rtmpcdn.com/live/5379da79-901c-4cc2-b511-47cdd1f2b9c0.m3u8"
         }
       ],
       "hotMatch": "yes",
@@ -669,6 +767,60 @@
           "name": "Global Server - 3",
           "stream_link": "https://pull.niur.live/live/stream-9912145_lhd.m3u8?txSecret=1ed243c39cf8dad4b29016bdc9275749&txTime=6ab69ebb",
           "url": "https://pull.niur.live/live/stream-9912145_lhd.m3u8?txSecret=1ed243c39cf8dad4b29016bdc9275749&txTime=6ab69ebb"
+        },
+        {
+          "display_name": "Global Server - 4",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 4",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c4-hd/chunks.m3u8?is_vip=false&token=1790448477-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1203013016c82ca507e80e802f54ea10",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c4-hd/chunks.m3u8?is_vip=false&token=1790448477-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1203013016c82ca507e80e802f54ea10"
+        },
+        {
+          "display_name": "Global Server - 5",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 5",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c4/chunks.m3u8?is_vip=false&token=1790448478-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5a0a656a96930de2c1217f6cb5d91069",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c4/chunks.m3u8?is_vip=false&token=1790448478-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5a0a656a96930de2c1217f6cb5d91069"
+        },
+        {
+          "display_name": "Global Server - 6",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 6",
+          "stream_link": "https://www.rtmpcdn.com/live/5379da79-901c-4cc2-b511-47cdd1f2b9c0.m3u8",
+          "url": "https://www.rtmpcdn.com/live/5379da79-901c-4cc2-b511-47cdd1f2b9c0.m3u8"
         }
       ],
       "logo1": "https://img.sofascore.com/api/v1/team/4700/image",
@@ -773,6 +925,60 @@
           "name": "Global Server - 3",
           "stream_link": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=d2c12c6b48390ee7ae92f57c98a03ab2&txTime=6ab6f1b3",
           "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=d2c12c6b48390ee7ae92f57c98a03ab2&txTime=6ab6f1b3"
+        },
+        {
+          "display_name": "Global Server - 4",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 4",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c3-hd/chunks.m3u8?is_vip=false&token=1790448474-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-058e9b9e258929b7c300cfe056cb5799",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c3-hd/chunks.m3u8?is_vip=false&token=1790448474-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-058e9b9e258929b7c300cfe056cb5799"
+        },
+        {
+          "display_name": "Global Server - 5",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://iframe.rumsport8.live",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 5",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c3/chunks.m3u8?is_vip=false&token=1790448475-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7f7ef66d36ef498129d63517784168b2",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c3/chunks.m3u8?is_vip=false&token=1790448475-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7f7ef66d36ef498129d63517784168b2"
+        },
+        {
+          "display_name": "Global Server - 6",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 6",
+          "stream_link": "https://www.rtmpcdn.com/live/7db4ab96-ad90-45cc-984b-cd9fa1effa14.m3u8",
+          "url": "https://www.rtmpcdn.com/live/7db4ab96-ad90-45cc-984b-cd9fa1effa14.m3u8"
         }
       ],
       "hotMatch": "no",
@@ -868,6 +1074,60 @@
           "name": "Global Server - 3",
           "stream_link": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=d2c12c6b48390ee7ae92f57c98a03ab2&txTime=6ab6f1b3",
           "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=d2c12c6b48390ee7ae92f57c98a03ab2&txTime=6ab6f1b3"
+        },
+        {
+          "display_name": "Global Server - 4",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 4",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c3-hd/chunks.m3u8?is_vip=false&token=1790448474-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-058e9b9e258929b7c300cfe056cb5799",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c3-hd/chunks.m3u8?is_vip=false&token=1790448474-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-058e9b9e258929b7c300cfe056cb5799"
+        },
+        {
+          "display_name": "Global Server - 5",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://iframe.rumsport8.live",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 5",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c3/chunks.m3u8?is_vip=false&token=1790448475-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7f7ef66d36ef498129d63517784168b2",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c3/chunks.m3u8?is_vip=false&token=1790448475-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7f7ef66d36ef498129d63517784168b2"
+        },
+        {
+          "display_name": "Global Server - 6",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 6",
+          "stream_link": "https://www.rtmpcdn.com/live/7db4ab96-ad90-45cc-984b-cd9fa1effa14.m3u8",
+          "url": "https://www.rtmpcdn.com/live/7db4ab96-ad90-45cc-984b-cd9fa1effa14.m3u8"
         }
       ],
       "logo1": "https://img.sofascore.com/api/v1/team/4709/image",
@@ -898,7 +1158,8 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "sonyliv-aq",
-          "url": ""
+          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive2509/ENG/master.m3u8?hdnea=exp=1790405438~acl=/*~id=27556377153504775397498679107426~hmac=f6d5fead2eb962bc7d95fde3448291acae84d27dfae7c2489dd60018334fcfc7",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive2509/ENG/master.m3u8?hdnea=exp=1790405438~acl=/*~id=27556377153504775397498679107426~hmac=f6d5fead2eb962bc7d95fde3448291acae84d27dfae7c2489dd60018334fcfc7"
         },
         {
           "display_name": "Tapmad - Aq",
@@ -953,6 +1214,60 @@
           "name": "Global Server - 2",
           "stream_link": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1790335083-0-0-c84afd4f7fc1b3c2b160149e32abe85a",
           "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1790335083-0-0-c84afd4f7fc1b3c2b160149e32abe85a"
+        },
+        {
+          "display_name": "Global Server - 3",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 3",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c2/chunks.m3u8?is_vip=false&token=1790448470-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-17e9b2e78ab689a964047270f1af4094",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c2/chunks.m3u8?is_vip=false&token=1790448470-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-17e9b2e78ab689a964047270f1af4094"
+        },
+        {
+          "display_name": "Global Server - 4",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 4",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c2-hd/chunks.m3u8?is_vip=false&token=1790448471-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9e1f2971a812eff8495d861a9ba4fe1e",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c2-hd/chunks.m3u8?is_vip=false&token=1790448471-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9e1f2971a812eff8495d861a9ba4fe1e"
+        },
+        {
+          "display_name": "Global Server - 5",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 5",
+          "stream_link": "https://www.rtmpcdn.com/live/caf0994c-efb4-442e-932c-8abf4681ef8e.m3u8",
+          "url": "https://www.rtmpcdn.com/live/caf0994c-efb4-442e-932c-8abf4681ef8e.m3u8"
         }
       ],
       "hotMatch": "no",
@@ -974,7 +1289,8 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "sonyliv-aq",
-          "url": ""
+          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive2509/ENG/master.m3u8?hdnea=exp=1790405438~acl=/*~id=27556377153504775397498679107426~hmac=f6d5fead2eb962bc7d95fde3448291acae84d27dfae7c2489dd60018334fcfc7",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive2509/ENG/master.m3u8?hdnea=exp=1790405438~acl=/*~id=27556377153504775397498679107426~hmac=f6d5fead2eb962bc7d95fde3448291acae84d27dfae7c2489dd60018334fcfc7"
         },
         {
           "display_name": "Tapmad - Aq",
@@ -1029,6 +1345,60 @@
           "name": "Global Server - 2",
           "stream_link": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1790335083-0-0-c84afd4f7fc1b3c2b160149e32abe85a",
           "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1790335083-0-0-c84afd4f7fc1b3c2b160149e32abe85a"
+        },
+        {
+          "display_name": "Global Server - 3",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 3",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c2/chunks.m3u8?is_vip=false&token=1790448470-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-17e9b2e78ab689a964047270f1af4094",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c2/chunks.m3u8?is_vip=false&token=1790448470-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-17e9b2e78ab689a964047270f1af4094"
+        },
+        {
+          "display_name": "Global Server - 4",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 4",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c2-hd/chunks.m3u8?is_vip=false&token=1790448471-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9e1f2971a812eff8495d861a9ba4fe1e",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c2-hd/chunks.m3u8?is_vip=false&token=1790448471-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9e1f2971a812eff8495d861a9ba4fe1e"
+        },
+        {
+          "display_name": "Global Server - 5",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 5",
+          "stream_link": "https://www.rtmpcdn.com/live/caf0994c-efb4-442e-932c-8abf4681ef8e.m3u8",
+          "url": "https://www.rtmpcdn.com/live/caf0994c-efb4-442e-932c-8abf4681ef8e.m3u8"
         }
       ],
       "logo1": "https://img.sofascore.com/api/v1/team/4703/image",
@@ -1115,6 +1485,78 @@
           "name": "Global Server - 2",
           "stream_link": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1790335143-0-0-4e5cc82dfcc21f9218b4d8f90a2820e1",
           "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1790335143-0-0-4e5cc82dfcc21f9218b4d8f90a2820e1"
+        },
+        {
+          "display_name": "Global Server - 3",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 3",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c1-hd/chunks.m3u8?is_vip=false&token=1790448466-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5d5a7cedc783d1692b5344f116b46a38",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c1-hd/chunks.m3u8?is_vip=false&token=1790448466-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5d5a7cedc783d1692b5344f116b46a38"
+        },
+        {
+          "display_name": "Global Server - 4",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 4",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c1/chunks.m3u8?is_vip=false&token=1790448467-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d37bdc06f28612fbfe23208097509d9c",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c1/chunks.m3u8?is_vip=false&token=1790448467-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d37bdc06f28612fbfe23208097509d9c"
+        },
+        {
+          "display_name": "Global Server - 5",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 5",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c1-fhd/chunks.m3u8?is_vip=false&token=1790448467-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-24fe972901ca5312a5811d6bca9ffd8f",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c1-fhd/chunks.m3u8?is_vip=false&token=1790448467-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-24fe972901ca5312a5811d6bca9ffd8f"
+        },
+        {
+          "display_name": "Global Server - 6",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 6",
+          "stream_link": "https://www.rtmpcdn.com/live/97549ec0-bc8d-4970-ac61-af1cf3312f22.m3u8",
+          "url": "https://www.rtmpcdn.com/live/97549ec0-bc8d-4970-ac61-af1cf3312f22.m3u8"
         }
       ],
       "hotMatch": "no",
@@ -1192,6 +1634,78 @@
           "name": "Global Server - 2",
           "stream_link": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1790335143-0-0-4e5cc82dfcc21f9218b4d8f90a2820e1",
           "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1790335143-0-0-4e5cc82dfcc21f9218b4d8f90a2820e1"
+        },
+        {
+          "display_name": "Global Server - 3",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 3",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c1-hd/chunks.m3u8?is_vip=false&token=1790448466-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5d5a7cedc783d1692b5344f116b46a38",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c1-hd/chunks.m3u8?is_vip=false&token=1790448466-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5d5a7cedc783d1692b5344f116b46a38"
+        },
+        {
+          "display_name": "Global Server - 4",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 4",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c1/chunks.m3u8?is_vip=false&token=1790448467-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d37bdc06f28612fbfe23208097509d9c",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c1/chunks.m3u8?is_vip=false&token=1790448467-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d37bdc06f28612fbfe23208097509d9c"
+        },
+        {
+          "display_name": "Global Server - 5",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 5",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c1-fhd/chunks.m3u8?is_vip=false&token=1790448467-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-24fe972901ca5312a5811d6bca9ffd8f",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c1-fhd/chunks.m3u8?is_vip=false&token=1790448467-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-24fe972901ca5312a5811d6bca9ffd8f"
+        },
+        {
+          "display_name": "Global Server - 6",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 6",
+          "stream_link": "https://www.rtmpcdn.com/live/97549ec0-bc8d-4970-ac61-af1cf3312f22.m3u8",
+          "url": "https://www.rtmpcdn.com/live/97549ec0-bc8d-4970-ac61-af1cf3312f22.m3u8"
         }
       ],
       "logo1": "https://img.sofascore.com/api/v1/team/4688/image",
@@ -1280,6 +1794,7 @@
           "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1790335143-0-0-4442b79a6b057ebe977e6a2e5fc38231"
         },
         {
+          "display_name": "Global Server - 3",
           "drmLicenseUrl": "",
           "drmScheme": "widevine",
           "headers": {
@@ -1293,9 +1808,11 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "Global Server - 3",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c0-hd/chunks.m3u8?is_vip=false&token=1790448463-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d14ee93a1f48b6812ef7e62fca6c00fb",
           "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c0-hd/chunks.m3u8?is_vip=false&token=1790448463-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d14ee93a1f48b6812ef7e62fca6c00fb"
         },
         {
+          "display_name": "Global Server - 4",
           "drmLicenseUrl": "",
           "drmScheme": "widevine",
           "headers": {
@@ -1309,7 +1826,26 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "Global Server - 4",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c0/chunks.m3u8?is_vip=false&token=1790448463-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1e1859402c3c21820a992f6907f9d576",
           "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c0/chunks.m3u8?is_vip=false&token=1790448463-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1e1859402c3c21820a992f6907f9d576"
+        },
+        {
+          "display_name": "Global Server - 5",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 5",
+          "stream_link": "https://www.rtmpcdn.com/live/875dc817-28d2-4f7e-9804-051297192fb7.m3u8",
+          "url": "https://www.rtmpcdn.com/live/875dc817-28d2-4f7e-9804-051297192fb7.m3u8"
         }
       ],
       "hotMatch": "no",
@@ -1389,6 +1925,7 @@
           "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1790335143-0-0-4442b79a6b057ebe977e6a2e5fc38231"
         },
         {
+          "display_name": "Global Server - 3",
           "drmLicenseUrl": "",
           "drmScheme": "widevine",
           "headers": {
@@ -1402,9 +1939,11 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "Global Server - 3",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c0-hd/chunks.m3u8?is_vip=false&token=1790448463-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d14ee93a1f48b6812ef7e62fca6c00fb",
           "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c0-hd/chunks.m3u8?is_vip=false&token=1790448463-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d14ee93a1f48b6812ef7e62fca6c00fb"
         },
         {
+          "display_name": "Global Server - 4",
           "drmLicenseUrl": "",
           "drmScheme": "widevine",
           "headers": {
@@ -1418,7 +1957,26 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "Global Server - 4",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c0/chunks.m3u8?is_vip=false&token=1790448463-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1e1859402c3c21820a992f6907f9d576",
           "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9c0/chunks.m3u8?is_vip=false&token=1790448463-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1e1859402c3c21820a992f6907f9d576"
+        },
+        {
+          "display_name": "Global Server - 5",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 5",
+          "stream_link": "https://www.rtmpcdn.com/live/875dc817-28d2-4f7e-9804-051297192fb7.m3u8",
+          "url": "https://www.rtmpcdn.com/live/875dc817-28d2-4f7e-9804-051297192fb7.m3u8"
         }
       ],
       "logo1": "https://img.sofascore.com/api/v1/team/7139/image",
@@ -1433,12 +1991,91 @@
     },
     {
       "id": "903",
+      "buttons": [
+        {
+          "display_name": "Server - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 1",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a63/chunks.m3u8?is_vip=false&token=1790448528-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c3572dde211965e2127d5956edc92d28",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a63/chunks.m3u8?is_vip=false&token=1790448528-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c3572dde211965e2127d5956edc92d28"
+        },
+        {
+          "display_name": "Server - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 2",
+          "stream_link": "https://www.rtmpcdn.com/live/4c83a480-06a7-4ab1-a8a0-ca20cde631a6.m3u8",
+          "url": "https://www.rtmpcdn.com/live/4c83a480-06a7-4ab1-a8a0-ca20cde631a6.m3u8"
+        }
+      ],
+      "hotMatch": "no",
       "league": "Football | Africa Cup of Nations Qualification",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
+      "link_live": [
+        {
+          "display_name": "Server - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 1",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a63/chunks.m3u8?is_vip=false&token=1790448528-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c3572dde211965e2127d5956edc92d28",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a63/chunks.m3u8?is_vip=false&token=1790448528-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c3572dde211965e2127d5956edc92d28"
+        },
+        {
+          "display_name": "Server - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 2",
+          "stream_link": "https://www.rtmpcdn.com/live/4c83a480-06a7-4ab1-a8a0-ca20cde631a6.m3u8",
+          "url": "https://www.rtmpcdn.com/live/4c83a480-06a7-4ab1-a8a0-ca20cde631a6.m3u8"
+        }
+      ],
       "logo1": "https://img.sofascore.com/api/v1/team/4758/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4692/image",
       "matchDate": "26/09/2026",
+      "matchFormat": "",
       "matchTime": "1:00 AM",
+      "noti_sent": true,
       "sportCategory": "Football",
       "team1": "Egypt",
       "team2": "Angola",
@@ -1446,12 +2083,91 @@
     },
     {
       "id": "904",
+      "buttons": [
+        {
+          "display_name": "Server - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 1",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a66/chunks.m3u8?is_vip=false&token=1790448537-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-33b6f4b3b2a90fe254e8e7da5508d8d1",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a66/chunks.m3u8?is_vip=false&token=1790448537-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-33b6f4b3b2a90fe254e8e7da5508d8d1"
+        },
+        {
+          "display_name": "Server - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 2",
+          "stream_link": "https://www.rtmpcdn.com/live/05b65a40-5e2b-4478-ae28-4b6acc5a7a99.m3u8",
+          "url": "https://www.rtmpcdn.com/live/05b65a40-5e2b-4478-ae28-4b6acc5a7a99.m3u8"
+        }
+      ],
+      "hotMatch": "no",
       "league": "Football | Africa Cup of Nations Qualification",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
+      "link_live": [
+        {
+          "display_name": "Server - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 1",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a66/chunks.m3u8?is_vip=false&token=1790448537-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-33b6f4b3b2a90fe254e8e7da5508d8d1",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a66/chunks.m3u8?is_vip=false&token=1790448537-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-33b6f4b3b2a90fe254e8e7da5508d8d1"
+        },
+        {
+          "display_name": "Server - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 2",
+          "stream_link": "https://www.rtmpcdn.com/live/05b65a40-5e2b-4478-ae28-4b6acc5a7a99.m3u8",
+          "url": "https://www.rtmpcdn.com/live/05b65a40-5e2b-4478-ae28-4b6acc5a7a99.m3u8"
+        }
+      ],
       "logo1": "https://img.sofascore.com/api/v1/team/4691/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4720/image",
       "matchDate": "26/09/2026",
+      "matchFormat": "",
       "matchTime": "1:00 AM",
+      "noti_sent": true,
       "sportCategory": "Football",
       "team1": "Algeria",
       "team2": "Zambia",
@@ -1459,14 +2175,91 @@
     },
     {
       "id": "905",
+      "buttons": [
+        {
+          "display_name": "Server - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 1",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a64/chunks.m3u8?is_vip=false&token=1790448522-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b757c772a3a831a6347f31bc7e387c4b",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a64/chunks.m3u8?is_vip=false&token=1790448522-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b757c772a3a831a6347f31bc7e387c4b"
+        },
+        {
+          "display_name": "Server - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 2",
+          "stream_link": "https://www.rtmpcdn.com/live/2b24f899-f079-4d3c-80a1-68f6044029c5.m3u8",
+          "url": "https://www.rtmpcdn.com/live/2b24f899-f079-4d3c-80a1-68f6044029c5.m3u8"
+        }
+      ],
       "hotMatch": "yes",
       "league": "Football | Africa Cup of Nations Qualification",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
+      "link_live": [
+        {
+          "display_name": "Server - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 1",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a64/chunks.m3u8?is_vip=false&token=1790448522-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b757c772a3a831a6347f31bc7e387c4b",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a64/chunks.m3u8?is_vip=false&token=1790448522-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b757c772a3a831a6347f31bc7e387c4b"
+        },
+        {
+          "display_name": "Server - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 2",
+          "stream_link": "https://www.rtmpcdn.com/live/2b24f899-f079-4d3c-80a1-68f6044029c5.m3u8",
+          "url": "https://www.rtmpcdn.com/live/2b24f899-f079-4d3c-80a1-68f6044029c5.m3u8"
+        }
+      ],
       "logo1": "https://img.sofascore.com/api/v1/team/4778/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4761/image",
       "matchDate": "26/09/2026",
       "matchFormat": "",
       "matchTime": "1:00 AM",
+      "noti_sent": true,
       "sportCategory": "Football",
       "team1": "Morocco",
       "team2": "Gabon",
@@ -1474,12 +2267,91 @@
     },
     {
       "id": "906",
+      "buttons": [
+        {
+          "display_name": "Server - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 1",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a67/chunks.m3u8?is_vip=false&token=1790448534-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fc5f264e5013fd00aa5525aa447d3b66",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a67/chunks.m3u8?is_vip=false&token=1790448534-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fc5f264e5013fd00aa5525aa447d3b66"
+        },
+        {
+          "display_name": "Server - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 2",
+          "stream_link": "https://www.rtmpcdn.com/live/29557de5-4e27-45dd-8652-8a61e83d497a.m3u8",
+          "url": "https://www.rtmpcdn.com/live/29557de5-4e27-45dd-8652-8a61e83d497a.m3u8"
+        }
+      ],
+      "hotMatch": "no",
       "league": "Football | Africa Cup of Nations Qualification",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
+      "link_live": [
+        {
+          "display_name": "Server - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 1",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a67/chunks.m3u8?is_vip=false&token=1790448534-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fc5f264e5013fd00aa5525aa447d3b66",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a67/chunks.m3u8?is_vip=false&token=1790448534-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fc5f264e5013fd00aa5525aa447d3b66"
+        },
+        {
+          "display_name": "Server - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 2",
+          "stream_link": "https://www.rtmpcdn.com/live/29557de5-4e27-45dd-8652-8a61e83d497a.m3u8",
+          "url": "https://www.rtmpcdn.com/live/29557de5-4e27-45dd-8652-8a61e83d497a.m3u8"
+        }
+      ],
       "logo1": "https://img.sofascore.com/api/v1/team/4749/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4744/image",
       "matchDate": "26/09/2026",
+      "matchFormat": "",
       "matchTime": "1:00 AM",
+      "noti_sent": true,
       "sportCategory": "Football",
       "team1": "Burkina Faso",
       "team2": "Benin",
@@ -1487,12 +2359,91 @@
     },
     {
       "id": "907",
+      "buttons": [
+        {
+          "display_name": "Server - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 1",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a65/chunks.m3u8?is_vip=false&token=1790448525-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3977064886e584115c92f0b6a0db294d",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a65/chunks.m3u8?is_vip=false&token=1790448525-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3977064886e584115c92f0b6a0db294d"
+        },
+        {
+          "display_name": "Server - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 2",
+          "stream_link": "https://www.rtmpcdn.com/live/3e61ecee-cf52-40a1-b4a9-dc78b06bdc13.m3u8",
+          "url": "https://www.rtmpcdn.com/live/3e61ecee-cf52-40a1-b4a9-dc78b06bdc13.m3u8"
+        }
+      ],
+      "hotMatch": "no",
       "league": "Football | Africa Cup of Nations Qualification",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
+      "link_live": [
+        {
+          "display_name": "Server - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 1",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a65/chunks.m3u8?is_vip=false&token=1790448525-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3977064886e584115c92f0b6a0db294d",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a65/chunks.m3u8?is_vip=false&token=1790448525-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3977064886e584115c92f0b6a0db294d"
+        },
+        {
+          "display_name": "Server - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 2",
+          "stream_link": "https://www.rtmpcdn.com/live/3e61ecee-cf52-40a1-b4a9-dc78b06bdc13.m3u8",
+          "url": "https://www.rtmpcdn.com/live/3e61ecee-cf52-40a1-b4a9-dc78b06bdc13.m3u8"
+        }
+      ],
       "logo1": "https://img.sofascore.com/api/v1/team/4831/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4753/image",
       "matchDate": "26/09/2026",
+      "matchFormat": "",
       "matchTime": "1:00 AM",
+      "noti_sent": true,
       "sportCategory": "Football",
       "team1": "Mali",
       "team2": "Cape Verde",
