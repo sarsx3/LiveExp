@@ -1,0 +1,47 @@
+name: Sync Firebase Data
+
+# ==============================================================
+# এই workflow প্রতি ৫ মিনিট পর পর অটোমেটিক রান হবে
+# এবং Firebase থেকে ডাটা এনে data/output.json ফাইলে সেভ করবে।
+# পরিবর্তন থাকলে সেটা অটোমেটিক commit + push হয়ে যাবে।
+# ==============================================================
+
+on:
+  schedule:
+    # প্রতি ৫ মিনিট পর পর (GitHub cron UTC টাইমে হিসাব করে)
+    - cron: "*/5 * * * *"
+  workflow_dispatch: # চাইলে ম্যানুয়ালিও "Run workflow" বাটন দিয়ে চালানো যাবে
+
+permissions:
+  contents: write # repo তে push করার permission
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: ⚙️ Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: 🔄 Fetch data from Firebase
+        env:
+          FIREBASE_DB_URL: ${{ secrets.FIREBASE_DB_URL }}
+          FIREBASE_AUTH_TOKEN: ${{ secrets.FIREBASE_AUTH_TOKEN }}
+        run: node scripts/fetch-data.js
+
+      - name: 📝 Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/output.json
+          if git diff --cached --quiet; then
+            echo "✅ কোনো পরিবর্তন নেই, commit করার দরকার নেই।"
+          else
+            git commit -m "🔄 Auto-sync data: $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+            git push
+          fi
