@@ -1,8 +1,8 @@
 {
-  "last_updated": "26 September 2026, 11:33:08 PM",
-  "last_updated_iso": "2026-09-26T17:33:08.190Z",
-  "new_since_last_sync": 0,
-  "total_events": 139,
+  "last_updated": "27 September 2026, 02:06:22 AM",
+  "last_updated_iso": "2026-09-26T20:06:22.926Z",
+  "new_since_last_sync": 1,
+  "total_events": 132,
   "events": [
     {
       "id": "2",
@@ -67,7 +67,7 @@
       "sportCategory": "Football",
       "team1": "Indonesia",
       "team2": "Bangladesh",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "7",
@@ -80,7 +80,7 @@
       "sportCategory": "Football",
       "team1": "Malaysia",
       "team2": "Singapore",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "8",
@@ -93,7 +93,7 @@
       "sportCategory": "Football",
       "team1": "Vietnam",
       "team2": "Pakistan",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "9",
@@ -106,1062 +106,6 @@
       "sportCategory": "Football",
       "team1": "Thailand",
       "team2": "Philippines",
-      "visibility": "unpublic"
-    },
-    {
-      "id": "923",
-      "buttons": [
-        {
-          "display_name": "Alkass Sports - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Alkass Sports - aq",
-          "stream_link": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
-          "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8"
-        },
-        {
-          "display_name": "Oman Sports - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Oman Sports - aq",
-          "stream_link": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
-          "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
-        },
-        {
-          "display_name": "Al Iraqiya Sports - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Al Iraqiya Sports - aq",
-          "stream_link": "https://scontent.fdac24-2.fna.fbcdn.net/hvideo-ncg-vll/_nc_cat-1/_nc_sr_t-4/v/rASfGsFyAH6tuWMa_VCe2dK4VYtPpBm49Bd-QZ3PFilnxjw/_nc_ohc-kprLAZv85JcQ7kNvwEPcufT/live-dash/dash-abr-ibr-audio/1686872332803532.mpd?_nc_eui2=AeGm4W39bj8tbzLK7t5Kcv2zqh75uldTR6WqHvm6V1NHpd5dBwVl2Apx2NMDDuudoZNH8VNDgFP2bNucmk-QMO-9&_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AQJlqrbJj2rfIKy-AL0eX7lwbubLhMNqoUBKaWN5gMiKKA&oe=6AB9B330",
-          "url": "https://scontent.fdac24-2.fna.fbcdn.net/hvideo-ncg-vll/_nc_cat-1/_nc_sr_t-4/v/rASfGsFyAH6tuWMa_VCe2dK4VYtPpBm49Bd-QZ3PFilnxjw/_nc_ohc-kprLAZv85JcQ7kNvwEPcufT/live-dash/dash-abr-ibr-audio/1686872332803532.mpd?_nc_eui2=AeGm4W39bj8tbzLK7t5Kcv2zqh75uldTR6WqHvm6V1NHpd5dBwVl2Apx2NMDDuudoZNH8VNDgFP2bNucmk-QMO-9&_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AQJlqrbJj2rfIKy-AL0eX7lwbubLhMNqoUBKaWN5gMiKKA&oe=6AB9B330"
-        },
-        {
-          "display_name": "gb - 1",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 1",
-          "stream_link": "https://www.rtmpcdn.com/live/d7149645-7a0c-403c-80cb-7336c17795dd.m3u8",
-          "url": "https://www.rtmpcdn.com/live/d7149645-7a0c-403c-80cb-7336c17795dd.m3u8"
-        }
-      ],
-      "hotMatch": "no",
-      "league": "Football | Arabian Gulf Cup",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v15/Competitions/light/5452",
-      "link_live": [
-        {
-          "display_name": "Alkass Sports - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Alkass Sports - aq",
-          "stream_link": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
-          "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8"
-        },
-        {
-          "display_name": "Oman Sports - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Oman Sports - aq",
-          "stream_link": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
-          "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
-        },
-        {
-          "display_name": "Al Iraqiya Sports - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Al Iraqiya Sports - aq",
-          "stream_link": "https://scontent.fdac24-2.fna.fbcdn.net/hvideo-ncg-vll/_nc_cat-1/_nc_sr_t-4/v/rASfGsFyAH6tuWMa_VCe2dK4VYtPpBm49Bd-QZ3PFilnxjw/_nc_ohc-kprLAZv85JcQ7kNvwEPcufT/live-dash/dash-abr-ibr-audio/1686872332803532.mpd?_nc_eui2=AeGm4W39bj8tbzLK7t5Kcv2zqh75uldTR6WqHvm6V1NHpd5dBwVl2Apx2NMDDuudoZNH8VNDgFP2bNucmk-QMO-9&_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AQJlqrbJj2rfIKy-AL0eX7lwbubLhMNqoUBKaWN5gMiKKA&oe=6AB9B330",
-          "url": "https://scontent.fdac24-2.fna.fbcdn.net/hvideo-ncg-vll/_nc_cat-1/_nc_sr_t-4/v/rASfGsFyAH6tuWMa_VCe2dK4VYtPpBm49Bd-QZ3PFilnxjw/_nc_ohc-kprLAZv85JcQ7kNvwEPcufT/live-dash/dash-abr-ibr-audio/1686872332803532.mpd?_nc_eui2=AeGm4W39bj8tbzLK7t5Kcv2zqh75uldTR6WqHvm6V1NHpd5dBwVl2Apx2NMDDuudoZNH8VNDgFP2bNucmk-QMO-9&_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AQJlqrbJj2rfIKy-AL0eX7lwbubLhMNqoUBKaWN5gMiKKA&oe=6AB9B330"
-        },
-        {
-          "display_name": "gb - 1",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 1",
-          "stream_link": "https://www.rtmpcdn.com/live/d7149645-7a0c-403c-80cb-7336c17795dd.m3u8",
-          "url": "https://www.rtmpcdn.com/live/d7149645-7a0c-403c-80cb-7336c17795dd.m3u8"
-        }
-      ],
-      "logo1": "https://img.sofascore.com/api/v1/team/5368/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4767/image",
-      "matchDate": "26/09/2026",
-      "matchFormat": "",
-      "matchTime": "9:55 PM",
-      "noti_sent": true,
-      "sportCategory": "Football",
-      "team1": "Kuwait",
-      "team2": "Iraq",
-      "visibility": "public"
-    },
-    {
-      "id": "925",
-      "buttons": [
-        {
-          "display_name": "sonyliv-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "sonyliv-aq",
-          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022320/unl_sanm2609/ENG/master.m3u8?hdnea=exp=1790479273~acl=/*~id=32565364222749902648191732712964~hmac=aaad7356cf62bcf708da13d0e4f9e3df9013fd09d420ecc121ab65bb8a6d3adc",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2022320/unl_sanm2609/ENG/master.m3u8?hdnea=exp=1790479273~acl=/*~id=32565364222749902648191732712964~hmac=aaad7356cf62bcf708da13d0e4f9e3df9013fd09d420ecc121ab65bb8a6d3adc"
-        },
-        {
-          "display_name": "tapmad-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "https://www.tapmad.com",
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "tapmad-aq",
-          "stream_link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
-          "display_name": "gb - 1",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 1",
-          "stream_link": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790427436-0-0-add63d9e9eccd1f24f75ab1c34164536",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790427436-0-0-add63d9e9eccd1f24f75ab1c34164536"
-        },
-        {
-          "display_name": "gb - 2",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 2",
-          "stream_link": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1790430424-0-0-339737f28e454d65179d11cf4a9ec0cc",
-          "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1790430424-0-0-339737f28e454d65179d11cf4a9ec0cc"
-        },
-        {
-          "display_name": "gb - 3",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 3",
-          "stream_link": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=a55e476ad7f7f4ffae5a4697b5da787b&txTime=6ab81328",
-          "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=a55e476ad7f7f4ffae5a4697b5da787b&txTime=6ab81328"
-        },
-        {
-          "display_name": "gb - 4",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 4",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba655-hd/chunks.m3u8?is_vip=false&token=1790524064-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3d1ae2d3973872f38de61c3c2058e50f",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba655-hd/chunks.m3u8?is_vip=false&token=1790524064-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3d1ae2d3973872f38de61c3c2058e50f"
-        },
-        {
-          "display_name": "gb - 5",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 5",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba655/chunks.m3u8?is_vip=false&token=1790524064-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4ba999af96f6bdb53d97eab586f3b02f",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba655/chunks.m3u8?is_vip=false&token=1790524064-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4ba999af96f6bdb53d97eab586f3b02f"
-        },
-        {
-          "display_name": "bein sports 3",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "bein sports 3",
-          "stream_link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        }
-      ],
-      "hotMatch": "no",
-      "league": "Football | UEFA Nations League",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
-      "link_live": [
-        {
-          "display_name": "sonyliv-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "sonyliv-aq",
-          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022320/unl_sanm2609/ENG/master.m3u8?hdnea=exp=1790479273~acl=/*~id=32565364222749902648191732712964~hmac=aaad7356cf62bcf708da13d0e4f9e3df9013fd09d420ecc121ab65bb8a6d3adc",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2022320/unl_sanm2609/ENG/master.m3u8?hdnea=exp=1790479273~acl=/*~id=32565364222749902648191732712964~hmac=aaad7356cf62bcf708da13d0e4f9e3df9013fd09d420ecc121ab65bb8a6d3adc"
-        },
-        {
-          "display_name": "tapmad-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "https://www.tapmad.com",
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "tapmad-aq",
-          "stream_link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
-          "display_name": "gb - 1",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 1",
-          "stream_link": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790427436-0-0-add63d9e9eccd1f24f75ab1c34164536",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790427436-0-0-add63d9e9eccd1f24f75ab1c34164536"
-        },
-        {
-          "display_name": "gb - 2",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 2",
-          "stream_link": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1790430424-0-0-339737f28e454d65179d11cf4a9ec0cc",
-          "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1790430424-0-0-339737f28e454d65179d11cf4a9ec0cc"
-        },
-        {
-          "display_name": "gb - 3",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 3",
-          "stream_link": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=a55e476ad7f7f4ffae5a4697b5da787b&txTime=6ab81328",
-          "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=a55e476ad7f7f4ffae5a4697b5da787b&txTime=6ab81328"
-        },
-        {
-          "display_name": "gb - 4",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 4",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba655-hd/chunks.m3u8?is_vip=false&token=1790524064-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3d1ae2d3973872f38de61c3c2058e50f",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba655-hd/chunks.m3u8?is_vip=false&token=1790524064-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3d1ae2d3973872f38de61c3c2058e50f"
-        },
-        {
-          "display_name": "gb - 5",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 5",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba655/chunks.m3u8?is_vip=false&token=1790524064-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4ba999af96f6bdb53d97eab586f3b02f",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba655/chunks.m3u8?is_vip=false&token=1790524064-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4ba999af96f6bdb53d97eab586f3b02f"
-        },
-        {
-          "display_name": "bein sports 3",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "bein sports 3",
-          "stream_link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        }
-      ],
-      "logo1": "https://img.sofascore.com/api/v1/team/4833/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4712/image",
-      "matchDate": "26/09/2026",
-      "matchFormat": "",
-      "matchTime": "10:00 PM",
-      "noti_sent": true,
-      "sportCategory": "Football",
-      "team1": "San Marino",
-      "team2": "Finland",
-      "visibility": "public"
-    },
-    {
-      "id": "926",
-      "buttons": [
-        {
-          "display_name": "sonyliv-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "sonyliv-aq",
-          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/unl_faro2609/ENG/master.m3u8?hdnea=exp=1790479249~acl=/*~id=31584768229725726133231462609101~hmac=68f71ffa04e4ffb61d9ec1b9ac8b808afd74188335d46c8b34be0f5f8a9d0ffb",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2022317/unl_faro2609/ENG/master.m3u8?hdnea=exp=1790479249~acl=/*~id=31584768229725726133231462609101~hmac=68f71ffa04e4ffb61d9ec1b9ac8b808afd74188335d46c8b34be0f5f8a9d0ffb"
-        },
-        {
-          "display_name": "Tapmad - Aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "https://www.tapmad.com",
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Tapmad - Aq",
-          "stream_link": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-        },
-        {
-          "display_name": "gb - 1",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 1",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba656-hd/chunks.m3u8?is_vip=false&token=1790524060-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4417379baf134b7515aa4a74c40da078",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba656-hd/chunks.m3u8?is_vip=false&token=1790524060-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4417379baf134b7515aa4a74c40da078"
-        },
-        {
-          "display_name": "gb - 2",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 2",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba656/chunks.m3u8?is_vip=false&token=1790524061-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-aacbdab516d73eb72b2e10b700f8b129",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba656/chunks.m3u8?is_vip=false&token=1790524061-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-aacbdab516d73eb72b2e10b700f8b129"
-        }
-      ],
-      "hotMatch": "no",
-      "league": "Football | UEFA Nations League",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
-      "link_live": [
-        {
-          "display_name": "sonyliv-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "sonyliv-aq",
-          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/unl_faro2609/ENG/master.m3u8?hdnea=exp=1790479249~acl=/*~id=31584768229725726133231462609101~hmac=68f71ffa04e4ffb61d9ec1b9ac8b808afd74188335d46c8b34be0f5f8a9d0ffb",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2022317/unl_faro2609/ENG/master.m3u8?hdnea=exp=1790479249~acl=/*~id=31584768229725726133231462609101~hmac=68f71ffa04e4ffb61d9ec1b9ac8b808afd74188335d46c8b34be0f5f8a9d0ffb"
-        },
-        {
-          "display_name": "Tapmad - Aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "https://www.tapmad.com",
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Tapmad - Aq",
-          "stream_link": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-        },
-        {
-          "display_name": "gb - 1",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 1",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba656-hd/chunks.m3u8?is_vip=false&token=1790524060-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4417379baf134b7515aa4a74c40da078",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba656-hd/chunks.m3u8?is_vip=false&token=1790524060-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4417379baf134b7515aa4a74c40da078"
-        },
-        {
-          "display_name": "gb - 2",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 2",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba656/chunks.m3u8?is_vip=false&token=1790524061-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-aacbdab516d73eb72b2e10b700f8b129",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba656/chunks.m3u8?is_vip=false&token=1790524061-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-aacbdab516d73eb72b2e10b700f8b129"
-        }
-      ],
-      "logo1": "https://img.sofascore.com/api/v1/team/4760/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4772/image",
-      "matchDate": "26/09/2026",
-      "matchFormat": "",
-      "matchTime": "10:00 PM",
-      "noti_sent": true,
-      "sportCategory": "Football",
-      "team1": "Faroe Islands",
-      "team2": "Kazakhstan",
-      "visibility": "public"
-    },
-    {
-      "id": "927",
-      "buttons": [
-        {
-          "display_name": "sonyliv-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "sonyliv-aq",
-          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037139/unl_Bulg2609/ENG/master.m3u8?hdnea=exp=1790479284~acl=/*~id=48595213654201266712189403134792~hmac=40734f0a044bafd0e34c0a42509305b7b3b30607574d0833bc305c55f229b91b",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2037139/unl_Bulg2609/ENG/master.m3u8?hdnea=exp=1790479284~acl=/*~id=48595213654201266712189403134792~hmac=40734f0a044bafd0e34c0a42509305b7b3b30607574d0833bc305c55f229b91b"
-        },
-        {
-          "display_name": "tapmad-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "https://www.tapmad.com",
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "tapmad-aq",
-          "stream_link": "https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
-          "url": "https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-        },
-        {
-          "display_name": "gb - 1",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 1",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba654-hd/chunks.m3u8?is_vip=false&token=1790524052-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-cece49e71a4687f99f76bd855b8edac9",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba654-hd/chunks.m3u8?is_vip=false&token=1790524052-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-cece49e71a4687f99f76bd855b8edac9"
-        },
-        {
-          "display_name": "gb - 1",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 1",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba654-fhd/chunks.m3u8?is_vip=false&token=1790524053-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ee75a58c4c6679beef5c4eeaf8ce8f18",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba654-fhd/chunks.m3u8?is_vip=false&token=1790524053-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ee75a58c4c6679beef5c4eeaf8ce8f18"
-        },
-        {
-          "display_name": "gb - 3",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 3",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba654/chunks.m3u8?is_vip=false&token=1790524053-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-be06a89dd859282a40d48ff6a1d70d92",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba654/chunks.m3u8?is_vip=false&token=1790524053-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-be06a89dd859282a40d48ff6a1d70d92"
-        }
-      ],
-      "hotMatch": "no",
-      "league": "Football | UEFA Nations League",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
-      "link_live": [
-        {
-          "display_name": "sonyliv-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "sonyliv-aq",
-          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037139/unl_Bulg2609/ENG/master.m3u8?hdnea=exp=1790479284~acl=/*~id=48595213654201266712189403134792~hmac=40734f0a044bafd0e34c0a42509305b7b3b30607574d0833bc305c55f229b91b",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2037139/unl_Bulg2609/ENG/master.m3u8?hdnea=exp=1790479284~acl=/*~id=48595213654201266712189403134792~hmac=40734f0a044bafd0e34c0a42509305b7b3b30607574d0833bc305c55f229b91b"
-        },
-        {
-          "display_name": "tapmad-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "https://www.tapmad.com",
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "tapmad-aq",
-          "stream_link": "https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
-          "url": "https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-        },
-        {
-          "display_name": "gb - 1",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 1",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba654-hd/chunks.m3u8?is_vip=false&token=1790524052-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-cece49e71a4687f99f76bd855b8edac9",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba654-hd/chunks.m3u8?is_vip=false&token=1790524052-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-cece49e71a4687f99f76bd855b8edac9"
-        },
-        {
-          "display_name": "gb - 1",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 1",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba654-fhd/chunks.m3u8?is_vip=false&token=1790524053-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ee75a58c4c6679beef5c4eeaf8ce8f18",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba654-fhd/chunks.m3u8?is_vip=false&token=1790524053-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ee75a58c4c6679beef5c4eeaf8ce8f18"
-        },
-        {
-          "display_name": "gb - 3",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 3",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba654/chunks.m3u8?is_vip=false&token=1790524053-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-be06a89dd859282a40d48ff6a1d70d92",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba654/chunks.m3u8?is_vip=false&token=1790524053-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-be06a89dd859282a40d48ff6a1d70d92"
-        }
-      ],
-      "logo1": "https://img.sofascore.com/api/v1/team/4716/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4478/image",
-      "matchDate": "26/09/2026",
-      "matchFormat": "",
-      "matchTime": "10:00 PM",
-      "noti_sent": true,
-      "sportCategory": "Football",
-      "team1": "Bulgaria",
-      "team2": "Luxembourg",
-      "visibility": "public"
-    },
-    {
-      "id": "931",
-      "buttons": [
-        {
-          "display_name": "gb - 1",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 1",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba73b-fhd/chunks.m3u8?is_vip=false&token=1790525917-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-43e94e72ed4c36cccb22c5e14e19231d",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba73b-fhd/chunks.m3u8?is_vip=false&token=1790525917-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-43e94e72ed4c36cccb22c5e14e19231d"
-        },
-        {
-          "display_name": "gb - 2",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 2",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba73b/chunks.m3u8?is_vip=false&token=1790525918-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-19ae91a9b2fb4af177c3ad44157c2cfd",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba73b/chunks.m3u8?is_vip=false&token=1790525918-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-19ae91a9b2fb4af177c3ad44157c2cfd"
-        }
-      ],
-      "hotMatch": "no",
-      "league": "Football | LaLiga 2",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "link_live": [
-        {
-          "display_name": "gb - 1",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 1",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba73b-fhd/chunks.m3u8?is_vip=false&token=1790525917-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-43e94e72ed4c36cccb22c5e14e19231d",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba73b-fhd/chunks.m3u8?is_vip=false&token=1790525917-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-43e94e72ed4c36cccb22c5e14e19231d"
-        },
-        {
-          "display_name": "gb - 2",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 2",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba73b/chunks.m3u8?is_vip=false&token=1790525918-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-19ae91a9b2fb4af177c3ad44157c2cfd",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba73b/chunks.m3u8?is_vip=false&token=1790525918-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-19ae91a9b2fb4af177c3ad44157c2cfd"
-        }
-      ],
-      "logo1": "https://img.sofascore.com/api/v1/team/24336/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/24335/image",
-      "matchDate": "26/09/2026",
-      "matchFormat": "",
-      "matchTime": "10:30 PM",
-      "noti_sent": true,
-      "sportCategory": "Football",
-      "team1": "Celta Vigo B",
-      "team2": "Sabadell",
-      "visibility": "public"
-    },
-    {
-      "id": "932",
-      "buttons": [
-        {
-          "display_name": "gb - 1",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 1",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba734-fhd/chunks.m3u8?is_vip=false&token=1790525930-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-bc104a65a296fb3d54f0911ccc9ea620",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba734-fhd/chunks.m3u8?is_vip=false&token=1790525930-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-bc104a65a296fb3d54f0911ccc9ea620"
-        },
-        {
-          "display_name": "gb - 2",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 2",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba734-fancode/chunks.m3u8?is_vip=false&token=1790525930-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4c51edf1f2eecb8cfbe6c66ddebcb76a",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba734-fancode/chunks.m3u8?is_vip=false&token=1790525930-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4c51edf1f2eecb8cfbe6c66ddebcb76a"
-        },
-        {
-          "display_name": "gb - 3",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 3",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba734/chunks.m3u8?is_vip=false&token=1790525930-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9033c57d77fe51775cb6b87fe4a7e84e",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba734/chunks.m3u8?is_vip=false&token=1790525930-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9033c57d77fe51775cb6b87fe4a7e84e"
-        }
-      ],
-      "hotMatch": "no",
-      "league": "Football | LaLiga 2",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "link_live": [
-        {
-          "display_name": "gb - 1",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 1",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba734-fhd/chunks.m3u8?is_vip=false&token=1790525930-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-bc104a65a296fb3d54f0911ccc9ea620",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba734-fhd/chunks.m3u8?is_vip=false&token=1790525930-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-bc104a65a296fb3d54f0911ccc9ea620"
-        },
-        {
-          "display_name": "gb - 2",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 2",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba734-fancode/chunks.m3u8?is_vip=false&token=1790525930-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4c51edf1f2eecb8cfbe6c66ddebcb76a",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba734-fancode/chunks.m3u8?is_vip=false&token=1790525930-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4c51edf1f2eecb8cfbe6c66ddebcb76a"
-        },
-        {
-          "display_name": "gb - 3",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 3",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba734/chunks.m3u8?is_vip=false&token=1790525930-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9033c57d77fe51775cb6b87fe4a7e84e",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba734/chunks.m3u8?is_vip=false&token=1790525930-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9033c57d77fe51775cb6b87fe4a7e84e"
-        }
-      ],
-      "logo1": "https://img.sofascore.com/api/v1/team/2822/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4488/image",
-      "matchDate": "26/09/2026",
-      "matchFormat": "",
-      "matchTime": "10:30 PM",
-      "noti_sent": true,
-      "sportCategory": "Football",
-      "team1": "Tenerife",
-      "team2": "Cadiz",
       "visibility": "public"
     },
     {
@@ -1180,20 +124,7 @@
       "visibility": "public"
     },
     {
-      "id": "952",
-      "league": "Football | Arabian Gulf Cup",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v15/Competitions/light/5452",
-      "logo1": "https://img.sofascore.com/api/v1/team/4787/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4834/image",
-      "matchDate": "27/09/2026",
-      "matchTime": "12:00 AM",
-      "sportCategory": "Football",
-      "team1": "Oman",
-      "team2": "Saudi Arabia",
-      "visibility": "public"
-    },
-    {
-      "id": "954",
+      "id": "955",
       "buttons": [
         {
           "display_name": "sonyliv-aq",
@@ -1210,11 +141,11 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "sonyliv-aq",
-          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/unl_esto2609/ENG/master.m3u8?hdnea=exp=1790479249~acl=/*~id=31584768229725726133231462609101~hmac=68f71ffa04e4ffb61d9ec1b9ac8b808afd74188335d46c8b34be0f5f8a9d0ffb",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2022316/unl_esto2609/ENG/master.m3u8?hdnea=exp=1790479249~acl=/*~id=31584768229725726133231462609101~hmac=68f71ffa04e4ffb61d9ec1b9ac8b808afd74188335d46c8b34be0f5f8a9d0ffb"
+          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/UNL_Czec2609/ENG/master.m3u8?hdnea=exp=1790490038~acl=/*~id=58376343107197139481593502871829~hmac=4a70986e55354ce0acfa0b9c8e99e1cdeaf13bd1d79f541a6c57bbc3c0531772",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UNL_Czec2609/ENG/master.m3u8?hdnea=exp=1790490038~acl=/*~id=58376343107197139481593502871829~hmac=4a70986e55354ce0acfa0b9c8e99e1cdeaf13bd1d79f541a6c57bbc3c0531772"
         },
         {
-          "display_name": "Tapmad - Aq",
+          "display_name": "tapmad-aq",
           "drmLicenseUrl": "",
           "drmScheme": "widevine",
           "headers": {
@@ -1227,9 +158,9 @@
             "Referer": "https://www.tapmad.com/",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
-          "name": "Tapmad - Aq",
-          "stream_link": "https://seriealeague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8",
-          "url": "https://seriealeague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
+          "name": "tapmad-aq",
+          "stream_link": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
         },
         {
           "display_name": "gb - 1",
@@ -1242,12 +173,12 @@
             "Connection": "keep-alive",
             "Cookie": "",
             "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
+            "Referer": "",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "gb - 1",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba657-hd/chunks.m3u8?is_vip=false&token=1790524057-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-19c22e9edeeafad7e8416a18db5abee9",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba657-hd/chunks.m3u8?is_vip=false&token=1790524057-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-19c22e9edeeafad7e8416a18db5abee9"
+          "stream_link": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001790428008-0-0-0f02b7a86672fbae6f81c8b3ce4474c0",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001790428008-0-0-0f02b7a86672fbae6f81c8b3ce4474c0"
         },
         {
           "display_name": "gb - 2",
@@ -1260,12 +191,102 @@
             "Connection": "keep-alive",
             "Cookie": "",
             "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
+            "Referer": "",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "gb - 2",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba657/chunks.m3u8?is_vip=false&token=1790524058-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7922f854012ce7e7c2d491f9559a505e",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba657/chunks.m3u8?is_vip=false&token=1790524058-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7922f854012ce7e7c2d491f9559a505e"
+          "stream_link": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=b31b4d25820e1eb06251a3058c395d55&txTime=6ab813a0",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=b31b4d25820e1eb06251a3058c395d55&txTime=6ab813a0"
+        },
+        {
+          "display_name": "gb - 3",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 3",
+          "stream_link": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1790430544-0-0-b2e7be94c3b40c7ce5357861ab60d211",
+          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1790430544-0-0-b2e7be94c3b40c7ce5357861ab60d211"
+        },
+        {
+          "display_name": "gb - 4",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 4",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a1-hd/chunks.m3u8?is_vip=false&token=1790533964-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9ea815128a895e288dd10a67aabd767e",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a1-hd/chunks.m3u8?is_vip=false&token=1790533964-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9ea815128a895e288dd10a67aabd767e"
+        },
+        {
+          "display_name": "gb - 5",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 5",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a1/chunks.m3u8?is_vip=false&token=1790533965-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1e1f2039ca4a6aaf330ca4ecb236a04f",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a1/chunks.m3u8?is_vip=false&token=1790533965-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1e1f2039ca4a6aaf330ca4ecb236a04f"
+        },
+        {
+          "display_name": "gb - 6",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 6",
+          "stream_link": "https://www.rtmpcdn.com/live/233db093-4047-4227-841b-beb62a459717.m3u8",
+          "url": "https://www.rtmpcdn.com/live/233db093-4047-4227-841b-beb62a459717.m3u8"
+        },
+        {
+          "display_name": "bein sports - aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "bein sports - aq",
+          "stream_link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
         }
       ],
       "hotMatch": "no",
@@ -1287,8 +308,495 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "sonyliv-aq",
-          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/unl_esto2609/ENG/master.m3u8?hdnea=exp=1790479249~acl=/*~id=31584768229725726133231462609101~hmac=68f71ffa04e4ffb61d9ec1b9ac8b808afd74188335d46c8b34be0f5f8a9d0ffb",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2022316/unl_esto2609/ENG/master.m3u8?hdnea=exp=1790479249~acl=/*~id=31584768229725726133231462609101~hmac=68f71ffa04e4ffb61d9ec1b9ac8b808afd74188335d46c8b34be0f5f8a9d0ffb"
+          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/UNL_Czec2609/ENG/master.m3u8?hdnea=exp=1790490038~acl=/*~id=58376343107197139481593502871829~hmac=4a70986e55354ce0acfa0b9c8e99e1cdeaf13bd1d79f541a6c57bbc3c0531772",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UNL_Czec2609/ENG/master.m3u8?hdnea=exp=1790490038~acl=/*~id=58376343107197139481593502871829~hmac=4a70986e55354ce0acfa0b9c8e99e1cdeaf13bd1d79f541a6c57bbc3c0531772"
+        },
+        {
+          "display_name": "tapmad-aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "stream_link": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+        },
+        {
+          "display_name": "gb - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 1",
+          "stream_link": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001790428008-0-0-0f02b7a86672fbae6f81c8b3ce4474c0",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001790428008-0-0-0f02b7a86672fbae6f81c8b3ce4474c0"
+        },
+        {
+          "display_name": "gb - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 2",
+          "stream_link": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=b31b4d25820e1eb06251a3058c395d55&txTime=6ab813a0",
+          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=b31b4d25820e1eb06251a3058c395d55&txTime=6ab813a0"
+        },
+        {
+          "display_name": "gb - 3",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 3",
+          "stream_link": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1790430544-0-0-b2e7be94c3b40c7ce5357861ab60d211",
+          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1790430544-0-0-b2e7be94c3b40c7ce5357861ab60d211"
+        },
+        {
+          "display_name": "gb - 4",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 4",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a1-hd/chunks.m3u8?is_vip=false&token=1790533964-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9ea815128a895e288dd10a67aabd767e",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a1-hd/chunks.m3u8?is_vip=false&token=1790533964-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9ea815128a895e288dd10a67aabd767e"
+        },
+        {
+          "display_name": "gb - 5",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 5",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a1/chunks.m3u8?is_vip=false&token=1790533965-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1e1f2039ca4a6aaf330ca4ecb236a04f",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a1/chunks.m3u8?is_vip=false&token=1790533965-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1e1f2039ca4a6aaf330ca4ecb236a04f"
+        },
+        {
+          "display_name": "gb - 6",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 6",
+          "stream_link": "https://www.rtmpcdn.com/live/233db093-4047-4227-841b-beb62a459717.m3u8",
+          "url": "https://www.rtmpcdn.com/live/233db093-4047-4227-841b-beb62a459717.m3u8"
+        },
+        {
+          "display_name": "bein sports - aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "bein sports - aq",
+          "stream_link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        }
+      ],
+      "logo1": "https://img.sofascore.com/api/v1/team/4714/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4715/image",
+      "matchDate": "27/09/2026",
+      "matchFormat": "",
+      "matchTime": "12:45 AM",
+      "noti_sent": true,
+      "sportCategory": "Football",
+      "team1": "Czechia",
+      "team2": "Croatia",
+      "visibility": "public"
+    },
+    {
+      "id": "956",
+      "buttons": [
+        {
+          "display_name": "sonyliv-aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022322/UNL_engv2609/ENG/master.m3u8?hdnea=exp=1790490038~acl=/*~id=58376343107197139481593502871829~hmac=4a70986e55354ce0acfa0b9c8e99e1cdeaf13bd1d79f541a6c57bbc3c0531772",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2022322/UNL_engv2609/ENG/master.m3u8?hdnea=exp=1790490038~acl=/*~id=58376343107197139481593502871829~hmac=4a70986e55354ce0acfa0b9c8e99e1cdeaf13bd1d79f541a6c57bbc3c0531772"
+        },
+        {
+          "display_name": "tapmad-aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "stream_link": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+        },
+        {
+          "display_name": "gb - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 1",
+          "stream_link": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790428026-0-0-c8bc28d4308f14b2517ef781826bcd0b",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790428026-0-0-c8bc28d4308f14b2517ef781826bcd0b"
+        },
+        {
+          "display_name": "gb - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 2",
+          "stream_link": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1790430603-0-0-faa125c31dfaf23bf15ec4c5eda1df9e",
+          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1790430603-0-0-faa125c31dfaf23bf15ec4c5eda1df9e"
+        },
+        {
+          "display_name": "gb - 3",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 3",
+          "stream_link": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1790430604-0-0-0f93ac6b25813e723c7b2d6d34c03ecc",
+          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1790430604-0-0-0f93ac6b25813e723c7b2d6d34c03ecc"
+        },
+        {
+          "display_name": "gb - 4",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 4",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a5-hd/chunks.m3u8?is_vip=false&token=1790533968-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-eecce271609fc87837d9ec5b9ec230d3",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a5-hd/chunks.m3u8?is_vip=false&token=1790533968-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-eecce271609fc87837d9ec5b9ec230d3"
+        },
+        {
+          "display_name": "gb - 5",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 5",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a5-fhd/chunks.m3u8?is_vip=false&token=1790533968-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7fa47a69089170a355cb8df007fb58d4",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a5-fhd/chunks.m3u8?is_vip=false&token=1790533968-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7fa47a69089170a355cb8df007fb58d4"
+        },
+        {
+          "display_name": "gb - 6",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 6",
+          "url": ""
+        }
+      ],
+      "hotMatch": "yes",
+      "league": "Football | UEFA Nations League",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
+      "league_name": "Football | UEFA Nations League",
+      "link_live": [
+        {
+          "display_name": "sonyliv-aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022322/UNL_engv2609/ENG/master.m3u8?hdnea=exp=1790490038~acl=/*~id=58376343107197139481593502871829~hmac=4a70986e55354ce0acfa0b9c8e99e1cdeaf13bd1d79f541a6c57bbc3c0531772",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2022322/UNL_engv2609/ENG/master.m3u8?hdnea=exp=1790490038~acl=/*~id=58376343107197139481593502871829~hmac=4a70986e55354ce0acfa0b9c8e99e1cdeaf13bd1d79f541a6c57bbc3c0531772"
+        },
+        {
+          "display_name": "tapmad-aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "stream_link": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+        },
+        {
+          "display_name": "gb - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 1",
+          "stream_link": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790428026-0-0-c8bc28d4308f14b2517ef781826bcd0b",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790428026-0-0-c8bc28d4308f14b2517ef781826bcd0b"
+        },
+        {
+          "display_name": "gb - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 2",
+          "stream_link": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1790430603-0-0-faa125c31dfaf23bf15ec4c5eda1df9e",
+          "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1790430603-0-0-faa125c31dfaf23bf15ec4c5eda1df9e"
+        },
+        {
+          "display_name": "gb - 3",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 3",
+          "stream_link": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1790430604-0-0-0f93ac6b25813e723c7b2d6d34c03ecc",
+          "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1790430604-0-0-0f93ac6b25813e723c7b2d6d34c03ecc"
+        },
+        {
+          "display_name": "gb - 4",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 4",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a5-hd/chunks.m3u8?is_vip=false&token=1790533968-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-eecce271609fc87837d9ec5b9ec230d3",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a5-hd/chunks.m3u8?is_vip=false&token=1790533968-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-eecce271609fc87837d9ec5b9ec230d3"
+        },
+        {
+          "display_name": "gb - 5",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 5",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a5-fhd/chunks.m3u8?is_vip=false&token=1790533968-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7fa47a69089170a355cb8df007fb58d4",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a5-fhd/chunks.m3u8?is_vip=false&token=1790533968-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7fa47a69089170a355cb8df007fb58d4"
+        },
+        {
+          "display_name": "gb - 6",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 6",
+          "url": ""
+        }
+      ],
+      "localteam_name": "England",
+      "logo1": "https://img.sofascore.com/api/v1/team/4713/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4698/image",
+      "matchDate": "27/09/2026",
+      "matchFormat": "",
+      "matchTime": "12:45 AM",
+      "name": "England vs Spain",
+      "noti_sent": true,
+      "sportCategory": "Football",
+      "team1": "England",
+      "team2": "Spain",
+      "visibility": "public",
+      "visitorteam_name": "Spain"
+    },
+    {
+      "id": "957",
+      "buttons": [
+        {
+          "display_name": "sonyliv-aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2609/ENG/master.m3u8?hdnea=exp=1790490038~acl=/*~id=58376343107197139481593502871829~hmac=4a70986e55354ce0acfa0b9c8e99e1cdeaf13bd1d79f541a6c57bbc3c0531772",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2609/ENG/master.m3u8?hdnea=exp=1790490038~acl=/*~id=58376343107197139481593502871829~hmac=4a70986e55354ce0acfa0b9c8e99e1cdeaf13bd1d79f541a6c57bbc3c0531772"
         },
         {
           "display_name": "Tapmad - Aq",
@@ -1305,8 +813,8 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "Tapmad - Aq",
-          "stream_link": "https://seriealeague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8",
-          "url": "https://seriealeague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
+          "stream_link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         },
         {
           "display_name": "gb - 1",
@@ -1319,12 +827,12 @@
             "Connection": "keep-alive",
             "Cookie": "",
             "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
+            "Referer": "",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "gb - 1",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba657-hd/chunks.m3u8?is_vip=false&token=1790524057-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-19c22e9edeeafad7e8416a18db5abee9",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba657-hd/chunks.m3u8?is_vip=false&token=1790524057-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-19c22e9edeeafad7e8416a18db5abee9"
+          "stream_link": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001790428046-0-0-fe40c05ed3f22bd0303ac68f960636ff",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001790428046-0-0-fe40c05ed3f22bd0303ac68f960636ff"
         },
         {
           "display_name": "gb - 2",
@@ -1337,65 +845,241 @@
             "Connection": "keep-alive",
             "Cookie": "",
             "Origin": "",
-            "Referer": "https://iframe.rumsport8.live/",
+            "Referer": "",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "gb - 2",
-          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba657/chunks.m3u8?is_vip=false&token=1790524058-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7922f854012ce7e7c2d491f9559a505e",
-          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba657/chunks.m3u8?is_vip=false&token=1790524058-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7922f854012ce7e7c2d491f9559a505e"
+          "stream_link": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1790436424-0-0-7325797b657cfd94bbb2e05839bf75f7",
+          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1790436424-0-0-7325797b657cfd94bbb2e05839bf75f7"
+        },
+        {
+          "display_name": "gb - 3",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 3",
+          "stream_link": "https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=85ec414a14054470d7bb1c3de7c77823&txTime=6ab82a98",
+          "url": "https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=85ec414a14054470d7bb1c3de7c77823&txTime=6ab82a98"
+        },
+        {
+          "display_name": "gb - 4",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 4",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a2-hd/chunks.m3u8?is_vip=false&token=1790533954-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b42927ac0222c8af642dca8b1a714645",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a2-hd/chunks.m3u8?is_vip=false&token=1790533954-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b42927ac0222c8af642dca8b1a714645"
+        },
+        {
+          "display_name": "gb - 5",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 5",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a2/chunks.m3u8?is_vip=false&token=1790533955-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-df13aca7cbd8cf25e21bd3123fcd8861",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a2/chunks.m3u8?is_vip=false&token=1790533955-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-df13aca7cbd8cf25e21bd3123fcd8861"
+        },
+        {
+          "display_name": "gb - 6",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 6",
+          "stream_link": "https://www.rtmpcdn.com/live/344c9b8d-42c0-4c31-85c6-35df66357b6e.m3u8",
+          "url": "https://www.rtmpcdn.com/live/344c9b8d-42c0-4c31-85c6-35df66357b6e.m3u8"
         }
       ],
-      "logo1": "https://img.sofascore.com/api/v1/team/4708/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4759/image",
-      "matchDate": "26/09/2026",
-      "matchFormat": "",
-      "matchTime": "10:00 PM",
-      "noti_sent": true,
-      "sportCategory": "Football",
-      "team1": "Iceland",
-      "team2": "Estonia",
-      "visibility": "public"
-    },
-    {
-      "id": "955",
+      "hotMatch": "no",
       "league": "Football | UEFA Nations League",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
-      "logo1": "https://img.sofascore.com/api/v1/team/4714/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4715/image",
-      "matchDate": "27/09/2026",
-      "matchTime": "12:45 AM",
-      "sportCategory": "Football",
-      "team1": "Czechia",
-      "team2": "Croatia",
-      "visibility": "public"
-    },
-    {
-      "id": "956",
-      "hotMatch": "yes",
-      "league": "Football | UEFA Nations League",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
-      "league_name": "Football | UEFA Nations League",
-      "localteam_name": "England",
-      "logo1": "https://img.sofascore.com/api/v1/team/4713/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4698/image",
-      "matchDate": "27/09/2026",
-      "matchFormat": "",
-      "matchTime": "12:45 AM",
-      "name": "England vs Spain",
-      "sportCategory": "Football",
-      "team1": "England",
-      "team2": "Spain",
-      "visibility": "public",
-      "visitorteam_name": "Spain"
-    },
-    {
-      "id": "957",
-      "league": "Football | UEFA Nations League",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
+      "link_live": [
+        {
+          "display_name": "sonyliv-aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2609/ENG/master.m3u8?hdnea=exp=1790490038~acl=/*~id=58376343107197139481593502871829~hmac=4a70986e55354ce0acfa0b9c8e99e1cdeaf13bd1d79f541a6c57bbc3c0531772",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2609/ENG/master.m3u8?hdnea=exp=1790490038~acl=/*~id=58376343107197139481593502871829~hmac=4a70986e55354ce0acfa0b9c8e99e1cdeaf13bd1d79f541a6c57bbc3c0531772"
+        },
+        {
+          "display_name": "Tapmad - Aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Tapmad - Aq",
+          "stream_link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
+        {
+          "display_name": "gb - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 1",
+          "stream_link": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001790428046-0-0-fe40c05ed3f22bd0303ac68f960636ff",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001790428046-0-0-fe40c05ed3f22bd0303ac68f960636ff"
+        },
+        {
+          "display_name": "gb - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 2",
+          "stream_link": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1790436424-0-0-7325797b657cfd94bbb2e05839bf75f7",
+          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1790436424-0-0-7325797b657cfd94bbb2e05839bf75f7"
+        },
+        {
+          "display_name": "gb - 3",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 3",
+          "stream_link": "https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=85ec414a14054470d7bb1c3de7c77823&txTime=6ab82a98",
+          "url": "https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=85ec414a14054470d7bb1c3de7c77823&txTime=6ab82a98"
+        },
+        {
+          "display_name": "gb - 4",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 4",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a2-hd/chunks.m3u8?is_vip=false&token=1790533954-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b42927ac0222c8af642dca8b1a714645",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a2-hd/chunks.m3u8?is_vip=false&token=1790533954-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b42927ac0222c8af642dca8b1a714645"
+        },
+        {
+          "display_name": "gb - 5",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 5",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a2/chunks.m3u8?is_vip=false&token=1790533955-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-df13aca7cbd8cf25e21bd3123fcd8861",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a2/chunks.m3u8?is_vip=false&token=1790533955-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-df13aca7cbd8cf25e21bd3123fcd8861"
+        },
+        {
+          "display_name": "gb - 6",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 6",
+          "stream_link": "https://www.rtmpcdn.com/live/344c9b8d-42c0-4c31-85c6-35df66357b6e.m3u8",
+          "url": "https://www.rtmpcdn.com/live/344c9b8d-42c0-4c31-85c6-35df66357b6e.m3u8"
+        }
+      ],
       "logo1": "https://img.sofascore.com/api/v1/team/4777/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4699/image",
       "matchDate": "27/09/2026",
+      "matchFormat": "",
       "matchTime": "12:45 AM",
+      "noti_sent": true,
       "sportCategory": "Football",
       "team1": "North Macedonia",
       "team2": "Switzerland",
@@ -1403,12 +1087,271 @@
     },
     {
       "id": "958",
+      "buttons": [
+        {
+          "display_name": "sonyliv-aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2609/ENG/master.m3u8?hdnea=exp=1790490038~acl=/*~id=58376343107197139481593502871829~hmac=4a70986e55354ce0acfa0b9c8e99e1cdeaf13bd1d79f541a6c57bbc3c0531772",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2609/ENG/master.m3u8?hdnea=exp=1790490038~acl=/*~id=58376343107197139481593502871829~hmac=4a70986e55354ce0acfa0b9c8e99e1cdeaf13bd1d79f541a6c57bbc3c0531772"
+        },
+        {
+          "display_name": "tapmad-aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "stream_link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+        },
+        {
+          "display_name": "gb - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 1",
+          "stream_link": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001790428087-0-0-e7de6007c7742bf8f0e782241b00cd1c",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001790428087-0-0-e7de6007c7742bf8f0e782241b00cd1c"
+        },
+        {
+          "display_name": "gb - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 2",
+          "stream_link": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1790430604-0-0-f54d4a9383cccf636a5083ebb9ac00bb",
+          "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1790430604-0-0-f54d4a9383cccf636a5083ebb9ac00bb"
+        },
+        {
+          "display_name": "gb - 3",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 3",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a4-hd/chunks.m3u8?is_vip=false&token=1790533961-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-81d4f14eadc59bd2a1ef5fe8e0780953",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a4-hd/chunks.m3u8?is_vip=false&token=1790533961-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-81d4f14eadc59bd2a1ef5fe8e0780953"
+        },
+        {
+          "display_name": "gb - 4",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 4",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a4/chunks.m3u8?is_vip=false&token=1790533961-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-554d81c3f87f558bb45ce5d77d0ecca9",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a4/chunks.m3u8?is_vip=false&token=1790533961-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-554d81c3f87f558bb45ce5d77d0ecca9"
+        },
+        {
+          "display_name": "gb - 5",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 5",
+          "stream_link": "https://www.rtmpcdn.com/live/6d627e06-f3d1-4122-8b5f-27dd422abf46.m3u8",
+          "url": "https://www.rtmpcdn.com/live/6d627e06-f3d1-4122-8b5f-27dd422abf46.m3u8"
+        }
+      ],
+      "hotMatch": "no",
       "league": "Football | UEFA Nations League",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
+      "link_live": [
+        {
+          "display_name": "sonyliv-aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2609/ENG/master.m3u8?hdnea=exp=1790490038~acl=/*~id=58376343107197139481593502871829~hmac=4a70986e55354ce0acfa0b9c8e99e1cdeaf13bd1d79f541a6c57bbc3c0531772",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2609/ENG/master.m3u8?hdnea=exp=1790490038~acl=/*~id=58376343107197139481593502871829~hmac=4a70986e55354ce0acfa0b9c8e99e1cdeaf13bd1d79f541a6c57bbc3c0531772"
+        },
+        {
+          "display_name": "tapmad-aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "stream_link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+        },
+        {
+          "display_name": "gb - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 1",
+          "stream_link": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001790428087-0-0-e7de6007c7742bf8f0e782241b00cd1c",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001790428087-0-0-e7de6007c7742bf8f0e782241b00cd1c"
+        },
+        {
+          "display_name": "gb - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 2",
+          "stream_link": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1790430604-0-0-f54d4a9383cccf636a5083ebb9ac00bb",
+          "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1790430604-0-0-f54d4a9383cccf636a5083ebb9ac00bb"
+        },
+        {
+          "display_name": "gb - 3",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 3",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a4-hd/chunks.m3u8?is_vip=false&token=1790533961-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-81d4f14eadc59bd2a1ef5fe8e0780953",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a4-hd/chunks.m3u8?is_vip=false&token=1790533961-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-81d4f14eadc59bd2a1ef5fe8e0780953"
+        },
+        {
+          "display_name": "gb - 4",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 4",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a4/chunks.m3u8?is_vip=false&token=1790533961-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-554d81c3f87f558bb45ce5d77d0ecca9",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a4/chunks.m3u8?is_vip=false&token=1790533961-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-554d81c3f87f558bb45ce5d77d0ecca9"
+        },
+        {
+          "display_name": "gb - 5",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 5",
+          "stream_link": "https://www.rtmpcdn.com/live/6d627e06-f3d1-4122-8b5f-27dd422abf46.m3u8",
+          "url": "https://www.rtmpcdn.com/live/6d627e06-f3d1-4122-8b5f-27dd422abf46.m3u8"
+        }
+      ],
       "logo1": "https://img.sofascore.com/api/v1/team/4690/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4743/image",
       "matchDate": "27/09/2026",
+      "matchFormat": "",
       "matchTime": "12:45 AM",
+      "noti_sent": true,
       "sportCategory": "Football",
       "team1": "Albania",
       "team2": "Belarus",
@@ -1416,12 +1359,307 @@
     },
     {
       "id": "959",
+      "buttons": [
+        {
+          "display_name": "sonyliv-aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2609/ENG/master.m3u8?hdnea=exp=1790490076~acl=/*~id=03328180222528380526153890951572~hmac=d4685294d0af220c96c0a854c7bbe63082528aff7c0878da09b92bf35ff0f777",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2609/ENG/master.m3u8?hdnea=exp=1790490076~acl=/*~id=03328180222528380526153890951572~hmac=d4685294d0af220c96c0a854c7bbe63082528aff7c0878da09b92bf35ff0f777"
+        },
+        {
+          "display_name": "Tapmad - Aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Tapmad - Aq",
+          "stream_link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
+        {
+          "display_name": "gb - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 1",
+          "stream_link": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001790428155-0-0-3c44be4cee4775c62a39717f48aad076",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001790428155-0-0-3c44be4cee4775c62a39717f48aad076"
+        },
+        {
+          "display_name": "gb - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 2",
+          "stream_link": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1790430604-0-0-92b5b0a6ec7e83aaed5894779960010c",
+          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1790430604-0-0-92b5b0a6ec7e83aaed5894779960010c"
+        },
+        {
+          "display_name": "gb - 3",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 3",
+          "stream_link": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1790430603-0-0-c25cb2a864168cfe515f886e200b10ad",
+          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1790430603-0-0-c25cb2a864168cfe515f886e200b10ad"
+        },
+        {
+          "display_name": "gb - 4",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 4",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a3-hd/chunks.m3u8?is_vip=false&token=1790533958-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2e48406220e866cd35e9cd85068a80ee",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a3-hd/chunks.m3u8?is_vip=false&token=1790533958-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2e48406220e866cd35e9cd85068a80ee"
+        },
+        {
+          "display_name": "gb - 5",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 5",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a3/chunks.m3u8?is_vip=false&token=1790533958-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ee2f60d0144bf2c5f44b53e4270f0466",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a3/chunks.m3u8?is_vip=false&token=1790533958-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ee2f60d0144bf2c5f44b53e4270f0466"
+        },
+        {
+          "display_name": "gb - 6",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 6",
+          "stream_link": "https://www.rtmpcdn.com/live/41fee358-5701-4d6f-83c9-5f82eb0700eb.m3u8",
+          "url": "https://www.rtmpcdn.com/live/41fee358-5701-4d6f-83c9-5f82eb0700eb.m3u8"
+        }
+      ],
+      "hotMatch": "no",
       "league": "Football | UEFA Nations League",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
+      "link_live": [
+        {
+          "display_name": "sonyliv-aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2609/ENG/master.m3u8?hdnea=exp=1790490076~acl=/*~id=03328180222528380526153890951572~hmac=d4685294d0af220c96c0a854c7bbe63082528aff7c0878da09b92bf35ff0f777",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2609/ENG/master.m3u8?hdnea=exp=1790490076~acl=/*~id=03328180222528380526153890951572~hmac=d4685294d0af220c96c0a854c7bbe63082528aff7c0878da09b92bf35ff0f777"
+        },
+        {
+          "display_name": "Tapmad - Aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Tapmad - Aq",
+          "stream_link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
+        {
+          "display_name": "gb - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 1",
+          "stream_link": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001790428155-0-0-3c44be4cee4775c62a39717f48aad076",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001790428155-0-0-3c44be4cee4775c62a39717f48aad076"
+        },
+        {
+          "display_name": "gb - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 2",
+          "stream_link": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1790430604-0-0-92b5b0a6ec7e83aaed5894779960010c",
+          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1790430604-0-0-92b5b0a6ec7e83aaed5894779960010c"
+        },
+        {
+          "display_name": "gb - 3",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 3",
+          "stream_link": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1790430603-0-0-c25cb2a864168cfe515f886e200b10ad",
+          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1790430603-0-0-c25cb2a864168cfe515f886e200b10ad"
+        },
+        {
+          "display_name": "gb - 4",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 4",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a3-hd/chunks.m3u8?is_vip=false&token=1790533958-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2e48406220e866cd35e9cd85068a80ee",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a3-hd/chunks.m3u8?is_vip=false&token=1790533958-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2e48406220e866cd35e9cd85068a80ee"
+        },
+        {
+          "display_name": "gb - 5",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://iframe.rumsport8.live/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 5",
+          "stream_link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a3/chunks.m3u8?is_vip=false&token=1790533958-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ee2f60d0144bf2c5f44b53e4270f0466",
+          "url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba6a3/chunks.m3u8?is_vip=false&token=1790533958-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ee2f60d0144bf2c5f44b53e4270f0466"
+        },
+        {
+          "display_name": "gb - 6",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 6",
+          "stream_link": "https://www.rtmpcdn.com/live/41fee358-5701-4d6f-83c9-5f82eb0700eb.m3u8",
+          "url": "https://www.rtmpcdn.com/live/41fee358-5701-4d6f-83c9-5f82eb0700eb.m3u8"
+        }
+      ],
       "logo1": "https://img.sofascore.com/api/v1/team/4697/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4782/image",
       "matchDate": "27/09/2026",
+      "matchFormat": "",
       "matchTime": "12:45 AM",
+      "noti_sent": true,
       "sportCategory": "Football",
       "team1": "Slovakia",
       "team2": "Moldova",
@@ -2887,7 +3125,7 @@
       "sportCategory": "Football",
       "team1": "Greece",
       "team2": "Netherlands",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1074",
@@ -2900,7 +3138,7 @@
       "sportCategory": "Football",
       "team1": "Germany",
       "team2": "Serbia",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1075",
@@ -2913,7 +3151,7 @@
       "sportCategory": "Football",
       "team1": "Malta",
       "team2": "Gibraltar",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1076",
@@ -2926,7 +3164,7 @@
       "sportCategory": "Football",
       "team1": "Kazakhstan",
       "team2": "Moldova",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1077",
@@ -2939,7 +3177,7 @@
       "sportCategory": "Football",
       "team1": "Cyprus",
       "team2": "Armenia",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1078",
@@ -2952,7 +3190,7 @@
       "sportCategory": "Football",
       "team1": "Latvia",
       "team2": "Montenegro",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1079",
@@ -2965,7 +3203,7 @@
       "sportCategory": "Football",
       "team1": "South Korea",
       "team2": "Venezuela",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1080",
@@ -2978,6 +3216,77 @@
       "sportCategory": "Football",
       "team1": "Seattle Sounders",
       "team2": "Sporting KC",
+      "visibility": "public"
+    },
+    {
+      "952": {
+        "data": {
+          "buttons": [
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "Alkass Sports - aq",
+              "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "Oman Sports - aq",
+              "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "http://www.fawanews.sc/",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "gb - 1",
+              "url": "https://www.rtmpcdn.com/live/135291f5-fda8-46b5-af7a-d422e9cd725a.m3u8"
+            }
+          ],
+          "hotMatch": "no",
+          "id": "952",
+          "league": "Football | Arabian Gulf Cup",
+          "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v15/Competitions/light/5452",
+          "logo1": "https://img.sofascore.com/api/v1/team/4787/image",
+          "logo2": "https://img.sofascore.com/api/v1/team/4834/image",
+          "matchDate": "27/09/2026",
+          "matchFormat": "",
+          "matchTime": "12:00 AM",
+          "sportCategory": "Football",
+          "team1": "Oman",
+          "team2": "Saudi Arabia"
+        },
+        "deletedAt": 1790453006334
+      },
+      "id": "trash",
       "visibility": "unpublic"
     }
   ]
