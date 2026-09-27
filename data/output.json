@@ -1,8 +1,8 @@
 {
-  "last_updated": "28 September 2026, 01:53:18 AM",
-  "last_updated_iso": "2026-09-27T19:53:18.337Z",
-  "new_since_last_sync": 32,
-  "total_events": 120,
+  "last_updated": "28 September 2026, 04:41:17 AM",
+  "last_updated_iso": "2026-09-27T22:41:17.385Z",
+  "new_since_last_sync": 1,
+  "total_events": 116,
   "events": [
     {
       "id": "2",
@@ -124,615 +124,59 @@
       "visibility": "unpublic"
     },
     {
-      "id": "995",
-      "buttons": [
-        {
-          "display_name": "Alkass Sports - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Alkass Sports - aq",
-          "stream_link": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
-          "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8"
-        },
-        {
-          "display_name": "Oman Sports - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Oman Sports - aq",
-          "stream_link": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
-          "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
-        },
-        {
-          "display_name": "gb - 1",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 1",
-          "stream_link": "https://www.rtmpcdn.com/live/de74482c-fbfe-462a-93f7-c684e5f97785.m3u8",
-          "url": "https://www.rtmpcdn.com/live/de74482c-fbfe-462a-93f7-c684e5f97785.m3u8"
-        },
-        {
-          "display_name": "gb - 2",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 2",
-          "stream_link": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
-          "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
-        }
-      ],
-      "hotMatch": "no",
-      "league": "Football | Arabian Gulf Cup",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v15/Competitions/light/5452",
-      "link_live": [
-        {
-          "display_name": "Alkass Sports - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Alkass Sports - aq",
-          "stream_link": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
-          "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8"
-        },
-        {
-          "display_name": "Oman Sports - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Oman Sports - aq",
-          "stream_link": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
-          "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
-        },
-        {
-          "display_name": "gb - 1",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 1",
-          "stream_link": "https://www.rtmpcdn.com/live/de74482c-fbfe-462a-93f7-c684e5f97785.m3u8",
-          "url": "https://www.rtmpcdn.com/live/de74482c-fbfe-462a-93f7-c684e5f97785.m3u8"
-        },
-        {
-          "display_name": "gb - 2",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 2",
-          "stream_link": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
-          "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
-        }
-      ],
-      "logo1": "https://img.sofascore.com/api/v1/team/5161/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4727/image",
-      "matchDate": "28/09/2026",
-      "matchFormat": "",
-      "matchTime": "12:00 AM",
-      "noti_sent": true,
-      "sportCategory": "Football",
-      "team1": "Bahrain",
-      "team2": "UAE",
-      "visibility": "public"
-    },
-    {
-      "id": "996",
-      "buttons": [
-        {
-          "display_name": "sonyliv-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "sonyliv-aq",
-          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120303/unl_isra2709/ENG/master.m3u8?hdnea=exp=1790576459~acl=/*~id=17083404964175380512329029288193~hmac=824e0a8a5aa4782384858d34be13374ead783b3439a45b6fe694e25bb5e91a03",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120303/unl_isra2709/ENG/master.m3u8?hdnea=exp=1790576459~acl=/*~id=17083404964175380512329029288193~hmac=824e0a8a5aa4782384858d34be13374ead783b3439a45b6fe694e25bb5e91a03"
-        },
-        {
-          "display_name": "tapmad-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "https://www.tapmad.com",
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "tapmad-aq",
-          "stream_link": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-        }
-      ],
-      "hotMatch": "no",
-      "league": "Football | UEFA Nations League",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
-      "link_live": [
-        {
-          "display_name": "sonyliv-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "sonyliv-aq",
-          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120303/unl_isra2709/ENG/master.m3u8?hdnea=exp=1790576459~acl=/*~id=17083404964175380512329029288193~hmac=824e0a8a5aa4782384858d34be13374ead783b3439a45b6fe694e25bb5e91a03",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120303/unl_isra2709/ENG/master.m3u8?hdnea=exp=1790576459~acl=/*~id=17083404964175380512329029288193~hmac=824e0a8a5aa4782384858d34be13374ead783b3439a45b6fe694e25bb5e91a03"
-        },
-        {
-          "display_name": "tapmad-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "https://www.tapmad.com",
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "tapmad-aq",
-          "stream_link": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-        }
-      ],
-      "logo1": "https://img.sofascore.com/api/v1/team/4480/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4693/image",
-      "matchDate": "28/09/2026",
-      "matchFormat": "",
-      "matchTime": "12:45 AM",
-      "noti_sent": true,
-      "sportCategory": "Football",
-      "team1": "Israel",
-      "team2": "Ireland",
-      "visibility": "public"
-    },
-    {
-      "id": "997",
-      "buttons": [
-        {
-          "display_name": "sonyliv-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "sonyliv-aq",
-          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/unl_norw2709/ENG/master.m3u8?hdnea=exp=1790576442~acl=/*~id=30505081718288822240968826553507~hmac=805eed643bc3923c8c1c932618c5fa540c7e6266e6d7784b64ee0b5cd381edc2",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/unl_norw2709/ENG/master.m3u8?hdnea=exp=1790576442~acl=/*~id=30505081718288822240968826553507~hmac=805eed643bc3923c8c1c932618c5fa540c7e6266e6d7784b64ee0b5cd381edc2"
-        },
-        {
-          "display_name": "tapmad-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "https://www.tapmad.com",
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "tapmad-aq",
-          "stream_link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-        },
-        {
-          "display_name": "gb - 1",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "https://bhalocast.pro",
-            "Referer": "https://bhalocast.pro/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 1",
-          "stream_link": "https://dz5.bhalocast.pro:7059/hls/spch41.m3u8?md5=8D_sdh87KT0aqm23WpDWyw&expires=1790538925&ch=spch41&s=94e944f714e584c2e84aaf49c80e67d4",
-          "url": "https://dz5.bhalocast.pro:7059/hls/spch41.m3u8?md5=8D_sdh87KT0aqm23WpDWyw&expires=1790538925&ch=spch41&s=94e944f714e584c2e84aaf49c80e67d4"
-        },
-        {
-          "display_name": "gb - 2",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 2",
-          "stream_link": "https://www.rtmpcdn.com/live/81d8e571-51b9-406b-a087-47b23c479c6b.m3u8",
-          "url": "https://www.rtmpcdn.com/live/81d8e571-51b9-406b-a087-47b23c479c6b.m3u8"
-        }
-      ],
-      "hotMatch": "yes",
-      "league": "Football | UEFA Nations League",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
-      "link_live": [
-        {
-          "display_name": "sonyliv-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "sonyliv-aq",
-          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/unl_norw2709/ENG/master.m3u8?hdnea=exp=1790576442~acl=/*~id=30505081718288822240968826553507~hmac=805eed643bc3923c8c1c932618c5fa540c7e6266e6d7784b64ee0b5cd381edc2",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/unl_norw2709/ENG/master.m3u8?hdnea=exp=1790576442~acl=/*~id=30505081718288822240968826553507~hmac=805eed643bc3923c8c1c932618c5fa540c7e6266e6d7784b64ee0b5cd381edc2"
-        },
-        {
-          "display_name": "tapmad-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "https://www.tapmad.com",
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "tapmad-aq",
-          "stream_link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-          "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-        },
-        {
-          "display_name": "gb - 1",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "https://bhalocast.pro",
-            "Referer": "https://bhalocast.pro/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 1",
-          "stream_link": "https://dz5.bhalocast.pro:7059/hls/spch41.m3u8?md5=8D_sdh87KT0aqm23WpDWyw&expires=1790538925&ch=spch41&s=94e944f714e584c2e84aaf49c80e67d4",
-          "url": "https://dz5.bhalocast.pro:7059/hls/spch41.m3u8?md5=8D_sdh87KT0aqm23WpDWyw&expires=1790538925&ch=spch41&s=94e944f714e584c2e84aaf49c80e67d4"
-        },
-        {
-          "display_name": "gb - 2",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 2",
-          "stream_link": "https://www.rtmpcdn.com/live/81d8e571-51b9-406b-a087-47b23c479c6b.m3u8",
-          "url": "https://www.rtmpcdn.com/live/81d8e571-51b9-406b-a087-47b23c479c6b.m3u8"
-        }
-      ],
-      "logo1": "https://img.sofascore.com/api/v1/team/4475/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4704/image",
-      "matchDate": "28/09/2026",
-      "matchFormat": "",
-      "matchTime": "12:45 AM",
-      "noti_sent": true,
-      "sportCategory": "Football",
-      "team1": "Norway",
-      "team2": "Portugal",
-      "visibility": "public"
-    },
-    {
-      "id": "998",
-      "buttons": [
-        {
-          "display_name": "sonyliv-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "sonyliv-aq",
-          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2709/ENG/master.m3u8?hdnea=exp=1790576450~acl=/*~id=16422133955778319088885742792734~hmac=fad424ff6a6cf905966f1b4ea7f922c728a884246b19c8f697ebe97c0bd73781",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2709/ENG/master.m3u8?hdnea=exp=1790576450~acl=/*~id=16422133955778319088885742792734~hmac=fad424ff6a6cf905966f1b4ea7f922c728a884246b19c8f697ebe97c0bd73781"
-        },
-        {
-          "display_name": "tapmad-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "https://www.tapmad.com",
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "tapmad-aq",
-          "stream_link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-          "display_name": "gb - 1",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "https://bhalocast.pro",
-            "Referer": "https://bhalocast.pro/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 1",
-          "stream_link": "https://dz5.bhalocast.pro:7059/hls/spch72.m3u8?md5=m3NyfMmtMmLw-9cYZDpFzQ&expires=1790539006&ch=spch72&s=8f318a96ab13538d8317907cd55de660",
-          "url": "https://dz5.bhalocast.pro:7059/hls/spch72.m3u8?md5=m3NyfMmtMmLw-9cYZDpFzQ&expires=1790539006&ch=spch72&s=8f318a96ab13538d8317907cd55de660"
-        },
-        {
-          "display_name": "gb - 2",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 2",
-          "stream_link": "https://www.rtmpcdn.com/live/e399291f-4101-4589-8541-709f40a2b170.m3u8",
-          "url": "https://www.rtmpcdn.com/live/e399291f-4101-4589-8541-709f40a2b170.m3u8"
-        }
-      ],
-      "hotMatch": "yes",
-      "league": "Football | UEFA Nations League",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
-      "link_live": [
-        {
-          "display_name": "sonyliv-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "sonyliv-aq",
-          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2709/ENG/master.m3u8?hdnea=exp=1790576450~acl=/*~id=16422133955778319088885742792734~hmac=fad424ff6a6cf905966f1b4ea7f922c728a884246b19c8f697ebe97c0bd73781",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2709/ENG/master.m3u8?hdnea=exp=1790576450~acl=/*~id=16422133955778319088885742792734~hmac=fad424ff6a6cf905966f1b4ea7f922c728a884246b19c8f697ebe97c0bd73781"
-        },
-        {
-          "display_name": "tapmad-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "https://www.tapmad.com",
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "tapmad-aq",
-          "stream_link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-          "display_name": "gb - 1",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "https://bhalocast.pro",
-            "Referer": "https://bhalocast.pro/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 1",
-          "stream_link": "https://dz5.bhalocast.pro:7059/hls/spch72.m3u8?md5=m3NyfMmtMmLw-9cYZDpFzQ&expires=1790539006&ch=spch72&s=8f318a96ab13538d8317907cd55de660",
-          "url": "https://dz5.bhalocast.pro:7059/hls/spch72.m3u8?md5=m3NyfMmtMmLw-9cYZDpFzQ&expires=1790539006&ch=spch72&s=8f318a96ab13538d8317907cd55de660"
-        },
-        {
-          "display_name": "gb - 2",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "gb - 2",
-          "stream_link": "https://www.rtmpcdn.com/live/e399291f-4101-4589-8541-709f40a2b170.m3u8",
-          "url": "https://www.rtmpcdn.com/live/e399291f-4101-4589-8541-709f40a2b170.m3u8"
-        }
-      ],
-      "logo1": "https://img.sofascore.com/api/v1/team/4711/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4710/image",
-      "matchDate": "28/09/2026",
-      "matchFormat": "",
-      "matchTime": "12:45 AM",
-      "noti_sent": true,
-      "sportCategory": "Football",
-      "team1": "Germany",
-      "team2": "Greece",
-      "visibility": "public"
-    },
-    {
-      "id": "999",
-      "league": "Football | LaLiga 2",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "logo1": "https://img.sofascore.com/api/v1/team/2851/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2852/image",
-      "matchDate": "28/09/2026",
-      "matchTime": "1:00 AM",
-      "noti_sent": true,
-      "sportCategory": "Football",
-      "team1": "Real Oviedo",
-      "team2": "Sporting Gijon",
-      "visibility": "public"
-    },
-    {
       "id": "1000",
+      "buttons": [
+        {
+          "display_name": "gb - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 1",
+          "stream_link": "https://live1.dyrur1.com/live/74297872_f60380e1e5b16a3fbd58f00e3f00aa9d_540p.m3u8?auth_key=1790556030-0-0-ac1a203288792ccde074432067ac6967",
+          "url": "https://live1.dyrur1.com/live/74297872_f60380e1e5b16a3fbd58f00e3f00aa9d_540p.m3u8?auth_key=1790556030-0-0-ac1a203288792ccde074432067ac6967"
+        }
+      ],
+      "hotMatch": "no",
       "league": "Football | Friendly International",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "link_live": [
+        {
+          "display_name": "gb - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 1",
+          "stream_link": "https://live1.dyrur1.com/live/74297872_f60380e1e5b16a3fbd58f00e3f00aa9d_540p.m3u8?auth_key=1790556030-0-0-ac1a203288792ccde074432067ac6967",
+          "url": "https://live1.dyrur1.com/live/74297872_f60380e1e5b16a3fbd58f00e3f00aa9d_540p.m3u8?auth_key=1790556030-0-0-ac1a203288792ccde074432067ac6967"
+        }
+      ],
       "logo1": "https://img.sofascore.com/api/v1/team/4746/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4789/image",
       "matchDate": "28/09/2026",
+      "matchFormat": "",
       "matchTime": "2:30 AM",
       "sportCategory": "Football",
       "team1": "Bolivia",
       "team2": "Paraguay",
-      "visibility": "public"
+      "visibility": "unpublic"
     },
     {
       "id": "1001",
@@ -2135,6 +1579,361 @@
       "sportCategory": "Football",
       "team1": "Tunisia",
       "team2": "Mali",
+      "visibility": "unpublic"
+    },
+    {
+      "995": {
+        "data": {
+          "buttons": [
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "Alkass Sports - aq",
+              "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "Oman Sports - aq",
+              "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "gb - 1",
+              "url": "https://www.rtmpcdn.com/live/de74482c-fbfe-462a-93f7-c684e5f97785.m3u8"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "gb - 2",
+              "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
+            }
+          ],
+          "hotMatch": "no",
+          "id": "995",
+          "league": "Football | Arabian Gulf Cup",
+          "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v15/Competitions/light/5452",
+          "logo1": "https://img.sofascore.com/api/v1/team/5161/image",
+          "logo2": "https://img.sofascore.com/api/v1/team/4727/image",
+          "matchDate": "28/09/2026",
+          "matchFormat": "",
+          "matchTime": "12:00 AM",
+          "sportCategory": "Football",
+          "team1": "Bahrain",
+          "team2": "UAE"
+        },
+        "deletedAt": 1790541660887
+      },
+      "996": {
+        "data": {
+          "buttons": [
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "sonyliv-aq",
+              "url": "https://sonydaimenew.akamaized.net/hls/live/2120303/unl_isra2709/ENG/master.m3u8?hdnea=exp=1790576459~acl=/*~id=17083404964175380512329029288193~hmac=824e0a8a5aa4782384858d34be13374ead783b3439a45b6fe694e25bb5e91a03"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "https://www.tapmad.com",
+                "Referer": "https://www.tapmad.com/",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "tapmad-aq",
+              "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+            }
+          ],
+          "hotMatch": "no",
+          "id": "996",
+          "league": "Football | UEFA Nations League",
+          "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
+          "logo1": "https://img.sofascore.com/api/v1/team/4480/image",
+          "logo2": "https://img.sofascore.com/api/v1/team/4693/image",
+          "matchDate": "28/09/2026",
+          "matchFormat": "",
+          "matchTime": "12:45 AM",
+          "sportCategory": "Football",
+          "team1": "Motherfucker",
+          "team2": "Ireland"
+        },
+        "deletedAt": 1790542055782
+      },
+      "997": {
+        "data": {
+          "buttons": [
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "sonyliv-aq",
+              "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/unl_norw2709/ENG/master.m3u8?hdnea=exp=1790576442~acl=/*~id=30505081718288822240968826553507~hmac=805eed643bc3923c8c1c932618c5fa540c7e6266e6d7784b64ee0b5cd381edc2"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "https://www.tapmad.com",
+                "Referer": "https://www.tapmad.com/",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "tapmad-aq",
+              "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "https://bhalocast.pro",
+                "Referer": "https://bhalocast.pro/",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "gb - 1",
+              "url": "https://dz5.bhalocast.pro:7059/hls/spch41.m3u8?md5=8D_sdh87KT0aqm23WpDWyw&expires=1790538925&ch=spch41&s=94e944f714e584c2e84aaf49c80e67d4"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "http://www.fawanews.sc/",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "gb - 2",
+              "url": "https://www.rtmpcdn.com/live/81d8e571-51b9-406b-a087-47b23c479c6b.m3u8"
+            }
+          ],
+          "hotMatch": "yes",
+          "id": "997",
+          "league": "Football | UEFA Nations League",
+          "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
+          "logo1": "https://img.sofascore.com/api/v1/team/4475/image",
+          "logo2": "https://img.sofascore.com/api/v1/team/4704/image",
+          "matchDate": "28/09/2026",
+          "matchFormat": "",
+          "matchTime": "12:45 AM",
+          "sportCategory": "Football",
+          "team1": "Norway",
+          "team2": "Portugal"
+        },
+        "deletedAt": 1790542060412
+      },
+      "998": {
+        "data": {
+          "buttons": [
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "sonyliv-aq",
+              "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2709/ENG/master.m3u8?hdnea=exp=1790576450~acl=/*~id=16422133955778319088885742792734~hmac=fad424ff6a6cf905966f1b4ea7f922c728a884246b19c8f697ebe97c0bd73781"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "https://www.tapmad.com",
+                "Referer": "https://www.tapmad.com/",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "tapmad-aq",
+              "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "https://bhalocast.pro",
+                "Referer": "https://bhalocast.pro/",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "gb - 1",
+              "url": "https://dz5.bhalocast.pro:7059/hls/spch72.m3u8?md5=m3NyfMmtMmLw-9cYZDpFzQ&expires=1790539006&ch=spch72&s=8f318a96ab13538d8317907cd55de660"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "http://www.fawanews.sc/",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "gb - 2",
+              "url": "https://www.rtmpcdn.com/live/e399291f-4101-4589-8541-709f40a2b170.m3u8"
+            }
+          ],
+          "hotMatch": "yes",
+          "id": "998",
+          "league": "Football | UEFA Nations League",
+          "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
+          "logo1": "https://img.sofascore.com/api/v1/team/4711/image",
+          "logo2": "https://img.sofascore.com/api/v1/team/4710/image",
+          "matchDate": "28/09/2026",
+          "matchFormat": "",
+          "matchTime": "12:45 AM",
+          "sportCategory": "Football",
+          "team1": "Germany",
+          "team2": "Greece"
+        },
+        "deletedAt": 1790542064985
+      },
+      "999": {
+        "data": {
+          "buttons": [
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "https://iframe.rumsport8.live/",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "gb - 1",
+              "url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a9841276b72017e628ba735-fancode%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "https://iframe.rumsport8.live/",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "gb - 2",
+              "url": "https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0fac4127d44dbee691470a&url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a9841276b72017e628ba735%2Fchunks.m3u8&verify=1790532000-MuCcXw9uaFFZUVCHHhx6kqDNoy%2BVTFrJfQNRuqpnIUg%3D"
+            }
+          ],
+          "hotMatch": "no",
+          "id": "999",
+          "league": "Football | LaLiga 2",
+          "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
+          "logo1": "https://img.sofascore.com/api/v1/team/2851/image",
+          "logo2": "https://img.sofascore.com/api/v1/team/2852/image",
+          "matchDate": "28/09/2026",
+          "matchFormat": "",
+          "matchTime": "1:00 AM",
+          "sportCategory": "Football",
+          "team1": "Real Oviedo",
+          "team2": "Sporting Gijon"
+        },
+        "deletedAt": 1790542225065
+      },
+      "id": "trash",
       "visibility": "unpublic"
     }
   ]
