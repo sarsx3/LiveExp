@@ -1,8 +1,8 @@
 {
-  "last_updated": "28 September 2026, 12:53:14 PM",
-  "last_updated_iso": "2026-09-28T06:53:14.651Z",
-  "new_since_last_sync": 0,
-  "total_events": 111,
+  "last_updated": "28 September 2026, 08:42:19 PM",
+  "last_updated_iso": "2026-09-28T14:42:19.765Z",
+  "new_since_last_sync": 13,
+  "total_events": 121,
   "events": [
     {
       "id": "2",
@@ -61,15 +61,19 @@
       "hotMatch": "yes",
       "league": "Football | FIFA ASEAN Cup 2026",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/37824/image",
+      "league_name": "Football | FIFA ASEAN Cup 2026",
+      "localteam_name": "Indonesia",
       "logo1": "https://img.sofascore.com/api/v1/team/4829/image",
       "logo2": "https://img.sofascore.com/api/v1/team/6080/image",
       "matchDate": "01/10/2026",
       "matchFormat": "",
       "matchTime": "6:30 PM",
+      "name": "Indonesia vs Bangladesh",
       "sportCategory": "Football",
       "team1": "Indonesia",
       "team2": "Bangladesh",
-      "visibility": "public"
+      "visibility": "public",
+      "visitorteam_name": "Bangladesh"
     },
     {
       "id": "7",
@@ -121,32 +125,6 @@
       "sportCategory": "Football",
       "team1": "TBC",
       "team2": "TBC",
-      "visibility": "public"
-    },
-    {
-      "id": "1004",
-      "league": "Football | Friendly International",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "logo1": "https://img.sofascore.com/api/v1/team/4770/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4722/image",
-      "matchDate": "28/09/2026",
-      "matchTime": "4:25 PM",
-      "sportCategory": "Football",
-      "team1": "Japan",
-      "team2": "Venezuela",
-      "visibility": "public"
-    },
-    {
-      "id": "1005",
-      "league": "Football | Friendly International",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "logo1": "https://img.sofascore.com/api/v1/team/4735/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4725/image",
-      "matchDate": "28/09/2026",
-      "matchTime": "5:00 PM",
-      "sportCategory": "Football",
-      "team1": "South Korea",
-      "team2": "Uruguay",
       "visibility": "public"
     },
     {
@@ -228,28 +206,236 @@
       "visibility": "public"
     },
     {
-      "id": "1018",
-      "hotMatch": "yes",
-      "league": "Football | FIFA ASEAN Cup 2026",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/37824/image",
-      "logo1": "https://img.sofascore.com/api/v1/team/4738/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/6080/image",
-      "matchDate": "28/09/2026",
-      "matchFormat": "",
-      "matchTime": "3:00 PM",
-      "sportCategory": "Football",
-      "team1": "Singapore",
-      "team2": "Bangladesh",
-      "visibility": "public"
-    },
-    {
       "id": "1019",
+      "buttons": [
+        {
+          "display_name": "gb - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 1",
+          "stream_link": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1790596444-0-0-2cb95a2ac8c1c32d93129fc3254e62ad",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1790596444-0-0-2cb95a2ac8c1c32d93129fc3254e62ad"
+        },
+        {
+          "display_name": "gb - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 2",
+          "stream_link": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=683ae3b565e829e700530122c419ad5c&txTime=6aba9bac",
+          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=683ae3b565e829e700530122c419ad5c&txTime=6aba9bac"
+        },
+        {
+          "display_name": "bd - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://toffeelive.com",
+            "Referer": "https://toffeelive.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "bd - 1",
+          "stream_link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/0/master_2500.m3u8?hdntl=Expires=1790684648~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZPodiY5vhqB4XsqsvO8C9lN7kKt5HJueKZblvIeqsFPjCdcQ72TzkhFLMlNZBClaRn4Sp8DHfnjLMrYHwB_SiIE&nocache=1790598258981",
+          "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/0/master_2500.m3u8?hdntl=Expires=1790684648~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZPodiY5vhqB4XsqsvO8C9lN7kKt5HJueKZblvIeqsFPjCdcQ72TzkhFLMlNZBClaRn4Sp8DHfnjLMrYHwB_SiIE&nocache=1790598258981"
+        },
+        {
+          "display_name": "bd - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://toffeelive.com",
+            "Referer": "https://toffeelive.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "bd - 2",
+          "stream_link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/1/master_1800.m3u8?hdntl=Expires=1790684648~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZPodiY5vhqB4XsqsvO8C9lN7kKt5HJueKZblvIeqsFPjCdcQ72TzkhFLMlNZBClaRn4Sp8DHfnjLMrYHwB_SiIE&nocache=1790598262129",
+          "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/1/master_1800.m3u8?hdntl=Expires=1790684648~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZPodiY5vhqB4XsqsvO8C9lN7kKt5HJueKZblvIeqsFPjCdcQ72TzkhFLMlNZBClaRn4Sp8DHfnjLMrYHwB_SiIE&nocache=1790598262129"
+        },
+        {
+          "display_name": "bd - 3",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://toffeelive.com",
+            "Referer": "https://toffeelive.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "bd - 3",
+          "stream_link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/2/master_1300.m3u8?hdntl=Expires=1790684648~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZPodiY5vhqB4XsqsvO8C9lN7kKt5HJueKZblvIeqsFPjCdcQ72TzkhFLMlNZBClaRn4Sp8DHfnjLMrYHwB_SiIE&nocache=1790598265778",
+          "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/2/master_1300.m3u8?hdntl=Expires=1790684648~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZPodiY5vhqB4XsqsvO8C9lN7kKt5HJueKZblvIeqsFPjCdcQ72TzkhFLMlNZBClaRn4Sp8DHfnjLMrYHwB_SiIE&nocache=1790598265778"
+        },
+        {
+          "display_name": "t sports",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "t sports",
+          "stream_link": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
+          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
+        }
+      ],
+      "hotMatch": "no",
       "league": "Football | FIFA ASEAN Cup 2026",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/37824/image",
+      "link_live": [
+        {
+          "display_name": "gb - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 1",
+          "stream_link": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1790596444-0-0-2cb95a2ac8c1c32d93129fc3254e62ad",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1790596444-0-0-2cb95a2ac8c1c32d93129fc3254e62ad"
+        },
+        {
+          "display_name": "gb - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 2",
+          "stream_link": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=683ae3b565e829e700530122c419ad5c&txTime=6aba9bac",
+          "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=683ae3b565e829e700530122c419ad5c&txTime=6aba9bac"
+        },
+        {
+          "display_name": "bd - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://toffeelive.com",
+            "Referer": "https://toffeelive.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "bd - 1",
+          "stream_link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/0/master_2500.m3u8?hdntl=Expires=1790684648~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZPodiY5vhqB4XsqsvO8C9lN7kKt5HJueKZblvIeqsFPjCdcQ72TzkhFLMlNZBClaRn4Sp8DHfnjLMrYHwB_SiIE&nocache=1790598258981",
+          "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/0/master_2500.m3u8?hdntl=Expires=1790684648~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZPodiY5vhqB4XsqsvO8C9lN7kKt5HJueKZblvIeqsFPjCdcQ72TzkhFLMlNZBClaRn4Sp8DHfnjLMrYHwB_SiIE&nocache=1790598258981"
+        },
+        {
+          "display_name": "bd - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://toffeelive.com",
+            "Referer": "https://toffeelive.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "bd - 2",
+          "stream_link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/1/master_1800.m3u8?hdntl=Expires=1790684648~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZPodiY5vhqB4XsqsvO8C9lN7kKt5HJueKZblvIeqsFPjCdcQ72TzkhFLMlNZBClaRn4Sp8DHfnjLMrYHwB_SiIE&nocache=1790598262129",
+          "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/1/master_1800.m3u8?hdntl=Expires=1790684648~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZPodiY5vhqB4XsqsvO8C9lN7kKt5HJueKZblvIeqsFPjCdcQ72TzkhFLMlNZBClaRn4Sp8DHfnjLMrYHwB_SiIE&nocache=1790598262129"
+        },
+        {
+          "display_name": "bd - 3",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://toffeelive.com",
+            "Referer": "https://toffeelive.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "bd - 3",
+          "stream_link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/2/master_1300.m3u8?hdntl=Expires=1790684648~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZPodiY5vhqB4XsqsvO8C9lN7kKt5HJueKZblvIeqsFPjCdcQ72TzkhFLMlNZBClaRn4Sp8DHfnjLMrYHwB_SiIE&nocache=1790598265778",
+          "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/2/master_1300.m3u8?hdntl=Expires=1790684648~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZPodiY5vhqB4XsqsvO8C9lN7kKt5HJueKZblvIeqsFPjCdcQ72TzkhFLMlNZBClaRn4Sp8DHfnjLMrYHwB_SiIE&nocache=1790598265778"
+        },
+        {
+          "display_name": "t sports",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "t sports",
+          "stream_link": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
+          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
+        }
+      ],
       "logo1": "https://img.sofascore.com/api/v1/team/6912/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4829/image",
       "matchDate": "28/09/2026",
+      "matchFormat": "",
       "matchTime": "6:30 PM",
+      "noti_sent": true,
       "sportCategory": "Football",
       "team1": "Malaysia",
       "team2": "Indonesia",
@@ -352,11 +538,13 @@
     },
     {
       "id": "1027",
+      "hotMatch": "no",
       "league": "Cricket | Asian Games 2026 - 3rd Quarter-Final",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11158/image",
       "logo1": "https://img.sofascore.com/api/v1/team/187756/image",
-      "logo2": "",
+      "logo2": "https://img.sofascore.com/api/v1/team/23489/image",
       "matchDate": "29/09/2026",
+      "matchFormat": "",
       "matchTime": "6:00 AM",
       "sportCategory": "Cricket",
       "team1": "Sri Lanka",
@@ -381,17 +569,22 @@
     {
       "id": "1029",
       "hotMatch": "yes",
+      "is_hot": true,
       "league": "Football | Friendly International",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "league_name": "Football | Friendly International",
+      "localteam_name": "Australia",
       "logo1": "https://img.sofascore.com/api/v1/team/4741/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4748/image",
       "matchDate": "29/09/2026",
       "matchFormat": "",
       "matchTime": "4:00 PM",
+      "name": "Australia vs Brazil",
       "sportCategory": "Football",
       "team1": "Australia",
       "team2": "Brazil",
-      "visibility": "public"
+      "visibility": "public",
+      "visitorteam_name": "Brazil"
     },
     {
       "id": "1030",
@@ -1363,17 +1556,22 @@
     {
       "id": "1103",
       "hotMatch": "yes",
+      "is_hot": true,
       "league": "Football | Friendly International",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "league_name": "Football | Friendly International",
+      "localteam_name": "India",
       "logo1": "https://img.sofascore.com/api/v1/team/4828/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4748/image",
       "matchDate": "03/10/2026",
       "matchFormat": "",
       "matchTime": "8:00 PM",
+      "name": "India vs Brazil",
       "sportCategory": "Football",
       "team1": "India",
       "team2": "Brazil",
-      "visibility": "public"
+      "visibility": "public",
+      "visitorteam_name": "Brazil"
     },
     {
       "id": "1104",
@@ -1480,6 +1678,177 @@
       "team1": "Tunisia",
       "team2": "Mali",
       "visibility": "public"
+    },
+    {
+      "id": "1112",
+      "league": "Football | Friendly International",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "logo1": "https://img.sofascore.com/api/v1/team/4752/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4790/image",
+      "matchDate": "04/10/2026",
+      "matchTime": "12:00 AM",
+      "sportCategory": "Football",
+      "team1": "Canada",
+      "team2": "Peru",
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1113",
+      "league": "Football | UEFA Nations League",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
+      "logo1": "https://img.sofascore.com/api/v1/team/4699/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4484/image",
+      "matchDate": "04/10/2026",
+      "matchTime": "12:45 AM",
+      "sportCategory": "Football",
+      "team1": "Switzerland",
+      "team2": "Slovenia",
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1114",
+      "league": "Football | UEFA Nations League",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
+      "logo1": "https://img.sofascore.com/api/v1/team/4777/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4695/image",
+      "matchDate": "04/10/2026",
+      "matchTime": "12:45 AM",
+      "sportCategory": "Football",
+      "team1": "North Macedonia",
+      "team2": "Scotland",
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1115",
+      "league": "Football | UEFA Nations League",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
+      "logo1": "https://img.sofascore.com/api/v1/team/4698/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4714/image",
+      "matchDate": "04/10/2026",
+      "matchTime": "12:45 AM",
+      "sportCategory": "Football",
+      "team1": "Spain",
+      "team2": "Czechia",
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1116",
+      "hotMatch": "yes",
+      "league": "Football | Friendly International",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "logo1": "https://img.sofascore.com/api/v1/team/4819/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4749/image",
+      "matchDate": "04/10/2026",
+      "matchFormat": "",
+      "matchTime": "5:00 AM",
+      "sportCategory": "Football",
+      "team1": "Argentina",
+      "team2": "Burkina Faso",
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1117",
+      "league": "Football | Friendly International",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "logo1": "https://img.sofascore.com/api/v1/team/4724/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4781/image",
+      "matchDate": "04/10/2026",
+      "matchTime": "8:00 AM",
+      "sportCategory": "Football",
+      "team1": "USA",
+      "team2": "Mexico",
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1118",
+      "league": "Football | LaLiga 2",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
+      "logo1": "https://img.sofascore.com/api/v1/team/24360/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/33779/image",
+      "matchDate": "04/10/2026",
+      "matchTime": "6:00 PM",
+      "sportCategory": "Football",
+      "team1": "Real Sociedad B",
+      "team2": "Granada",
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1119",
+      "league": "Football | UEFA Nations League",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
+      "logo1": "https://img.sofascore.com/api/v1/team/4742/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4776/image",
+      "matchDate": "04/10/2026",
+      "matchTime": "7:00 PM",
+      "sportCategory": "Football",
+      "team1": "Azerbaijan",
+      "team2": "Lithuania",
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1120",
+      "league": "Football | LaLiga 2",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
+      "logo1": "https://img.sofascore.com/api/v1/team/2852/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/24336/image",
+      "matchDate": "04/10/2026",
+      "matchTime": "8:15 PM",
+      "sportCategory": "Football",
+      "team1": "Sporting Gijon",
+      "team2": "Celta Vigo B",
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1121",
+      "league": "Football | UEFA Nations League",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
+      "logo1": "https://img.sofascore.com/api/v1/team/154426/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4718/image",
+      "matchDate": "04/10/2026",
+      "matchTime": "10:00 PM",
+      "sportCategory": "Football",
+      "team1": "Kosovo",
+      "team2": "Austria",
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1122",
+      "league": "Football | UEFA Nations League",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
+      "logo1": "https://img.sofascore.com/api/v1/team/4483/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4818/image",
+      "matchDate": "04/10/2026",
+      "matchTime": "10:00 PM",
+      "sportCategory": "Football",
+      "team1": "Malta",
+      "team2": "Andorra",
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1123",
+      "league": "Football | LaLiga 2",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
+      "logo1": "https://img.sofascore.com/api/v1/team/5067/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2869/image",
+      "matchDate": "04/10/2026",
+      "matchTime": "10:30 PM",
+      "sportCategory": "Football",
+      "team1": "Castellon",
+      "team2": "AD Ceuta",
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1124",
+      "league": "Football | LaLiga 2",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
+      "logo1": "https://img.sofascore.com/api/v1/team/6577/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2831/image",
+      "matchDate": "04/10/2026",
+      "matchTime": "10:30 PM",
+      "sportCategory": "Football",
+      "team1": "Las Palmas",
+      "team2": "Valladolid",
+      "visibility": "unpublic"
     }
   ]
 }
