@@ -1,8 +1,8 @@
 {
-  "last_updated": "28 September 2026, 07:11:17 AM",
-  "last_updated_iso": "2026-09-28T01:11:17.355Z",
+  "last_updated": "28 September 2026, 12:53:14 PM",
+  "last_updated_iso": "2026-09-28T06:53:14.651Z",
   "new_since_last_sync": 0,
-  "total_events": 114,
+  "total_events": 111,
   "events": [
     {
       "id": "2",
@@ -121,113 +121,6 @@
       "sportCategory": "Football",
       "team1": "TBC",
       "team2": "TBC",
-      "visibility": "unpublic"
-    },
-    {
-      "id": "1001",
-      "buttons": [
-        {
-          "display_name": "Server - 1",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "https://10.boomstreaming.com",
-            "Referer": "https://10.boomstreaming.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Server - 1",
-          "stream_link": "https://hello.boomstreaming.com/my-hls/111/index.m3u8?expires=1790559864&token=1a3b24672421d7fc012a6a0447825e63",
-          "url": "https://hello.boomstreaming.com/my-hls/111/index.m3u8?expires=1790559864&token=1a3b24672421d7fc012a6a0447825e63"
-        },
-        {
-          "display_name": "Server - 2",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Server - 2",
-          "stream_link": "https://live2.dyrur1.com/live/66299608_7561acbb502df4fbf2baac1f3fdfe01e_540p.m3u8?auth_key=1790564070-0-0-068d159cae177fc277878c0bf0fd8797",
-          "url": "https://live2.dyrur1.com/live/66299608_7561acbb502df4fbf2baac1f3fdfe01e_540p.m3u8?auth_key=1790564070-0-0-068d159cae177fc277878c0bf0fd8797"
-        }
-      ],
-      "hotMatch": "yes",
-      "league": "Football | MLS",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "link_live": [
-        {
-          "display_name": "Server - 1",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "https://10.boomstreaming.com",
-            "Referer": "https://10.boomstreaming.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Server - 1",
-          "stream_link": "https://hello.boomstreaming.com/my-hls/111/index.m3u8?expires=1790559864&token=1a3b24672421d7fc012a6a0447825e63",
-          "url": "https://hello.boomstreaming.com/my-hls/111/index.m3u8?expires=1790559864&token=1a3b24672421d7fc012a6a0447825e63"
-        },
-        {
-          "display_name": "Server - 2",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "http://www.fawanews.sc/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Server - 2",
-          "stream_link": "https://live2.dyrur1.com/live/66299608_7561acbb502df4fbf2baac1f3fdfe01e_540p.m3u8?auth_key=1790564070-0-0-068d159cae177fc277878c0bf0fd8797",
-          "url": "https://live2.dyrur1.com/live/66299608_7561acbb502df4fbf2baac1f3fdfe01e_540p.m3u8?auth_key=1790564070-0-0-068d159cae177fc277878c0bf0fd8797"
-        }
-      ],
-      "logo1": "https://img.sofascore.com/api/v1/team/2504/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/337602/image",
-      "matchDate": "28/09/2026",
-      "matchFormat": "",
-      "matchTime": "5:00 AM",
-      "noti_sent": true,
-      "sportCategory": "Football",
-      "team1": "Columbus Crew",
-      "team2": "Inter Miami",
-      "visibility": "public"
-    },
-    {
-      "id": "1003",
-      "hotMatch": "yes",
-      "league": "Cricket | Asian Games 2026 - 2nd Quarter-Final",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Rwjbq5VVfjjL5FcKHR_Y1vJHFsf8EOKZdmDQyql4kA&s=10",
-      "logo1": "https://img.sofascore.com/api/v1/team/187765/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187575/image",
-      "matchDate": "28/09/2026",
-      "matchFormat": "",
-      "matchTime": "10:30 AM",
-      "sportCategory": "Cricket",
-      "team1": "India",
-      "team2": "A2",
       "visibility": "public"
     },
     {
@@ -1186,7 +1079,7 @@
       "sportCategory": "Football",
       "team1": "CD Eldense",
       "team2": "Real Oviedo",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1082",
@@ -1199,7 +1092,7 @@
       "sportCategory": "Football",
       "team1": "Poland",
       "team2": "Romania",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1083",
@@ -1212,7 +1105,7 @@
       "sportCategory": "Football",
       "team1": "Bosnia & Herzegovina",
       "team2": "Sweden",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1084",
@@ -1225,7 +1118,7 @@
       "sportCategory": "Football",
       "team1": "Ukraine",
       "team2": "N. Ireland",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1085",
@@ -1238,7 +1131,7 @@
       "sportCategory": "Football",
       "team1": "Hungary",
       "team2": "Georgia",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1086",
@@ -1253,7 +1146,7 @@
       "sportCategory": "Football",
       "team1": "France",
       "team2": "Italy",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1087",
@@ -1268,7 +1161,7 @@
       "sportCategory": "Football",
       "team1": "Belgium",
       "team2": "Turkey",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1088",
@@ -1281,7 +1174,7 @@
       "sportCategory": "Football",
       "team1": "Faroe Islands",
       "team2": "Slovakia",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1089",
@@ -1294,7 +1187,7 @@
       "sportCategory": "Football",
       "team1": "Colombia",
       "team2": "Paraguay",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1090",
@@ -1307,7 +1200,7 @@
       "sportCategory": "Cricket",
       "team1": "TBC",
       "team2": "TBC",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1091",
@@ -1320,7 +1213,7 @@
       "sportCategory": "Cricket",
       "team1": "TBC",
       "team2": "TBC",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1092",
@@ -1335,7 +1228,7 @@
       "sportCategory": "Cricket",
       "team1": "India",
       "team2": "West Indies",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1093",
@@ -1348,7 +1241,7 @@
       "sportCategory": "Football",
       "team1": "Albacete",
       "team2": "Eibar",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1094",
@@ -1361,7 +1254,7 @@
       "sportCategory": "Football",
       "team1": "Finland",
       "team2": "Albania",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1095",
@@ -1374,7 +1267,7 @@
       "sportCategory": "Football",
       "team1": "Wigan",
       "team2": "Mansfield",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1096",
@@ -1387,7 +1280,7 @@
       "sportCategory": "Football",
       "team1": "Reading",
       "team2": "Bradford",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1097",
@@ -1400,7 +1293,7 @@
       "sportCategory": "Football",
       "team1": "Peterborough",
       "team2": "Notts County",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1098",
@@ -1413,7 +1306,7 @@
       "sportCategory": "Football",
       "team1": "Leyton Orient",
       "team2": "Plymouth",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1099",
@@ -1426,7 +1319,7 @@
       "sportCategory": "Football",
       "team1": "Burton",
       "team2": "Huddersfield",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1100",
@@ -1439,7 +1332,7 @@
       "sportCategory": "Football",
       "team1": "Bromley",
       "team2": "Wycombe",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1101",
@@ -1452,7 +1345,7 @@
       "sportCategory": "Football",
       "team1": "Barnsley",
       "team2": "MK Dons",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1102",
@@ -1465,7 +1358,7 @@
       "sportCategory": "Football",
       "team1": "AFC Wimbledon",
       "team2": "Stevenage",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1103",
@@ -1480,7 +1373,7 @@
       "sportCategory": "Football",
       "team1": "India",
       "team2": "Brazil",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1104",
@@ -1493,7 +1386,7 @@
       "sportCategory": "Football",
       "team1": "Almeria",
       "team2": "Burgos",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1105",
@@ -1508,7 +1401,7 @@
       "sportCategory": "Football",
       "team1": "Croatia",
       "team2": "England",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1106",
@@ -1521,7 +1414,7 @@
       "sportCategory": "Football",
       "team1": "Iceland",
       "team2": "Bulgaria",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1107",
@@ -1534,7 +1427,7 @@
       "sportCategory": "Football",
       "team1": "Belarus",
       "team2": "San Marino",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1108",
@@ -1547,7 +1440,7 @@
       "sportCategory": "Football",
       "team1": "Estonia",
       "team2": "Luxembourg",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1109",
@@ -1560,7 +1453,7 @@
       "sportCategory": "Football",
       "team1": "Cadiz",
       "team2": "Leganés",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1110",
@@ -1573,7 +1466,7 @@
       "sportCategory": "Football",
       "team1": "Sabadell",
       "team2": "Andorra",
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1111",
@@ -1586,62 +1479,7 @@
       "sportCategory": "Football",
       "team1": "Tunisia",
       "team2": "Mali",
-      "visibility": "unpublic"
-    },
-    {
-      "1002": {
-        "data": {
-          "buttons": [
-            {
-              "drmLicenseUrl": "4a2e91842dcb199f01178ea0c3d63b03:482194761e3cb8c3e37d09f246a3aa72",
-              "drmScheme": "clearkey",
-              "headers": {
-                "Accept": "*/*",
-                "Accept-Encoding": "gzip, deflate, br, zstd",
-                "Accept-Language": "en-US,en;q=0.9",
-                "Connection": "keep-alive",
-                "Cookie": "",
-                "Origin": "",
-                "Referer": "",
-                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-              },
-              "name": "willow-aq",
-              "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/thgxqyztyu/out/v1/4f530bd9dae64942b85a2ddc080823c4/cenc.mpd"
-            },
-            {
-              "drmLicenseUrl": "4a2e91842dcb199f01178ea0c3d63b03:482194761e3cb8c3e37d09f246a3aa72",
-              "drmScheme": "clearkey",
-              "headers": {
-                "Accept": "*/*",
-                "Accept-Encoding": "gzip, deflate, br, zstd",
-                "Accept-Language": "en-US,en;q=0.9",
-                "Connection": "keep-alive",
-                "Cookie": "",
-                "Origin": "",
-                "Referer": "",
-                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-              },
-              "name": "willow-alt",
-              "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/thgxqyztyu/out/v1/4f530bd9dae64942b85a2ddc080823c4/cenc.mpd"
-            }
-          ],
-          "hotMatch": "no",
-          "id": "1002",
-          "league": "Cricket | Asian Games 2026 - 1st Quarter-Final",
-          "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Rwjbq5VVfjjL5FcKHR_Y1vJHFsf8EOKZdmDQyql4kA&s=10",
-          "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
-          "logo2": "https://img.sofascore.com/api/v1/team/187774/image",
-          "matchDate": "28/09/2026",
-          "matchFormat": "",
-          "matchTime": "6:00 AM",
-          "sportCategory": "Cricket",
-          "team1": "Pakistan",
-          "team2": "Hong Kong, China"
-        },
-        "deletedAt": 1790553786505
-      },
-      "id": "trash",
-      "visibility": "unpublic"
+      "visibility": "public"
     }
   ]
 }
