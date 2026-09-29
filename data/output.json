@@ -1,30 +1,204 @@
 {
-  "last_updated": "29 September 2026, 12:10:47 PM",
-  "last_updated_iso": "2026-09-29T06:10:47.408Z",
-  "new_since_last_sync": 0,
-  "total_events": 105,
+  "last_updated": "29 September 2026, 06:50:57 PM",
+  "last_updated_iso": "2026-09-29T12:50:57.486Z",
+  "new_since_last_sync": 1,
+  "total_events": 103,
   "events": [
     {
-      "id": "2",
-      "league": "Football | FIFA ASEAN Cup",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/37824/image",
-      "logo1": "https://img.sofascore.com/api/v1/team/4791/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/6081/image",
-      "matchDate": "29/09/2026",
-      "matchTime": "3:00 PM",
-      "sportCategory": "Football",
-      "team1": "Philippines",
-      "team2": "Pakistan",
-      "visibility": "public"
-    },
-    {
       "id": "3",
+      "buttons": [
+        {
+          "display_name": "gb - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 1",
+          "stream_link": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790671452-0-0-328e06b8ded86a0ddd8cf2e8f9d90ab8",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790671452-0-0-328e06b8ded86a0ddd8cf2e8f9d90ab8"
+        },
+        {
+          "display_name": "gb - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 2",
+          "stream_link": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1790680024-0-0-62bbeb00ac56f532bce646f5a1ffe761",
+          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1790680024-0-0-62bbeb00ac56f532bce646f5a1ffe761"
+        },
+        {
+          "display_name": "bd - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://toffeelive.com",
+            "Referer": "https://toffeelive.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "bd - 1",
+          "stream_link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/0/master_2500.m3u8?hdntl=Expires=1790771347~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZMHjja9h9s7xg6VqLbJtGsriDbyRNg6b4Pg6CSI8Cw071ETXBrz8g36ypyodwgElRwX1v_b3tvKGUcus2S3vFkA&nocache=1790684962257",
+          "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/0/master_2500.m3u8?hdntl=Expires=1790771347~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZMHjja9h9s7xg6VqLbJtGsriDbyRNg6b4Pg6CSI8Cw071ETXBrz8g36ypyodwgElRwX1v_b3tvKGUcus2S3vFkA&nocache=1790684962257"
+        },
+        {
+          "display_name": "bd - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://toffeelive.com",
+            "Referer": "https://toffeelive.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "bd - 2",
+          "stream_link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/1/master_1800.m3u8?hdntl=Expires=1790771347~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZMHjja9h9s7xg6VqLbJtGsriDbyRNg6b4Pg6CSI8Cw071ETXBrz8g36ypyodwgElRwX1v_b3tvKGUcus2S3vFkA&nocache=1790684962529",
+          "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/1/master_1800.m3u8?hdntl=Expires=1790771347~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZMHjja9h9s7xg6VqLbJtGsriDbyRNg6b4Pg6CSI8Cw071ETXBrz8g36ypyodwgElRwX1v_b3tvKGUcus2S3vFkA&nocache=1790684962529"
+        },
+        {
+          "display_name": "bd - 3",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://toffeelive.com",
+            "Referer": "https://toffeelive.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "bd - 3",
+          "stream_link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/2/master_1300.m3u8?hdntl=Expires=1790771347~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZMHjja9h9s7xg6VqLbJtGsriDbyRNg6b4Pg6CSI8Cw071ETXBrz8g36ypyodwgElRwX1v_b3tvKGUcus2S3vFkA&nocache=1790684965557",
+          "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/2/master_1300.m3u8?hdntl=Expires=1790771347~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZMHjja9h9s7xg6VqLbJtGsriDbyRNg6b4Pg6CSI8Cw071ETXBrz8g36ypyodwgElRwX1v_b3tvKGUcus2S3vFkA&nocache=1790684965557"
+        }
+      ],
+      "hotMatch": "no",
       "league": "Football | FIFA ASEAN Cup",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/37824/image",
+      "link_live": [
+        {
+          "display_name": "gb - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 1",
+          "stream_link": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790671452-0-0-328e06b8ded86a0ddd8cf2e8f9d90ab8",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790671452-0-0-328e06b8ded86a0ddd8cf2e8f9d90ab8"
+        },
+        {
+          "display_name": "gb - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 2",
+          "stream_link": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1790680024-0-0-62bbeb00ac56f532bce646f5a1ffe761",
+          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1790680024-0-0-62bbeb00ac56f532bce646f5a1ffe761"
+        },
+        {
+          "display_name": "bd - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://toffeelive.com",
+            "Referer": "https://toffeelive.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "bd - 1",
+          "stream_link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/0/master_2500.m3u8?hdntl=Expires=1790771347~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZMHjja9h9s7xg6VqLbJtGsriDbyRNg6b4Pg6CSI8Cw071ETXBrz8g36ypyodwgElRwX1v_b3tvKGUcus2S3vFkA&nocache=1790684962257",
+          "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/0/master_2500.m3u8?hdntl=Expires=1790771347~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZMHjja9h9s7xg6VqLbJtGsriDbyRNg6b4Pg6CSI8Cw071ETXBrz8g36ypyodwgElRwX1v_b3tvKGUcus2S3vFkA&nocache=1790684962257"
+        },
+        {
+          "display_name": "bd - 2",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://toffeelive.com",
+            "Referer": "https://toffeelive.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "bd - 2",
+          "stream_link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/1/master_1800.m3u8?hdntl=Expires=1790771347~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZMHjja9h9s7xg6VqLbJtGsriDbyRNg6b4Pg6CSI8Cw071ETXBrz8g36ypyodwgElRwX1v_b3tvKGUcus2S3vFkA&nocache=1790684962529",
+          "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/1/master_1800.m3u8?hdntl=Expires=1790771347~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZMHjja9h9s7xg6VqLbJtGsriDbyRNg6b4Pg6CSI8Cw071ETXBrz8g36ypyodwgElRwX1v_b3tvKGUcus2S3vFkA&nocache=1790684962529"
+        },
+        {
+          "display_name": "bd - 3",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://toffeelive.com",
+            "Referer": "https://toffeelive.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "bd - 3",
+          "stream_link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/2/master_1300.m3u8?hdntl=Expires=1790771347~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZMHjja9h9s7xg6VqLbJtGsriDbyRNg6b4Pg6CSI8Cw071ETXBrz8g36ypyodwgElRwX1v_b3tvKGUcus2S3vFkA&nocache=1790684965557",
+          "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-ASEAN-2/2/master_1300.m3u8?hdntl=Expires=1790771347~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGFmYTRmMmEtYjk4Mi00MWNlLThkZTYtOGM1NzYwZGE0ZTNmIn0~Signature=AdoksZMHjja9h9s7xg6VqLbJtGsriDbyRNg6b4Pg6CSI8Cw071ETXBrz8g36ypyodwgElRwX1v_b3tvKGUcus2S3vFkA&nocache=1790684965557"
+        }
+      ],
       "logo1": "https://img.sofascore.com/api/v1/team/4730/image",
       "logo2": "https://img.sofascore.com/api/v1/team/7050/image",
       "matchDate": "29/09/2026",
+      "matchFormat": "",
       "matchTime": "6:30 PM",
+      "noti_sent": true,
       "sportCategory": "Football",
       "team1": "Thailand",
       "team2": "Vietnam",
@@ -129,46 +303,55 @@
       "visibility": "public"
     },
     {
-      "id": "1029",
-      "hotMatch": "yes",
-      "is_hot": true,
-      "league": "Football | Friendly International",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "league_name": "Football | Friendly International",
-      "localteam_name": "Australia",
-      "logo1": "https://img.sofascore.com/api/v1/team/4741/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4748/image",
-      "matchDate": "29/09/2026",
-      "matchFormat": "",
-      "matchTime": "4:00 PM",
-      "name": "Australia vs Brazil",
-      "sportCategory": "Football",
-      "team1": "Australia",
-      "team2": "Brazil",
-      "visibility": "public",
-      "visitorteam_name": "Brazil"
-    },
-    {
-      "id": "1030",
-      "league": "Football | Africa Cup of Nations Qualification",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-      "logo1": "https://img.sofascore.com/api/v1/team/23494/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4832/image",
-      "matchDate": "29/09/2026",
-      "matchTime": "5:00 PM",
-      "sportCategory": "Football",
-      "team1": "Comoros",
-      "team2": "Namibia",
-      "visibility": "public"
-    },
-    {
       "id": "1031",
+      "buttons": [
+        {
+          "display_name": "bein sports - aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "bein sports - aq",
+          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        }
+      ],
+      "hotMatch": "no",
       "league": "Football | Africa Cup of Nations Qualification",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
+      "link_live": [
+        {
+          "display_name": "bein sports - aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "bein sports - aq",
+          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        }
+      ],
       "logo1": "https://img.sofascore.com/api/v1/team/88508/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4758/image",
       "matchDate": "29/09/2026",
-      "matchTime": "6:00 PM",
+      "matchFormat": "",
+      "matchTime": "7:00 PM",
       "sportCategory": "Football",
       "team1": "South Sudan",
       "team2": "Egypt",
@@ -176,11 +359,53 @@
     },
     {
       "id": "1032",
+      "buttons": [
+        {
+          "display_name": "bein sports - aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "bein sports - aq",
+          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd??|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd??|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        }
+      ],
+      "hotMatch": "no",
       "league": "Football | Africa Cup of Nations Qualification",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
+      "link_live": [
+        {
+          "display_name": "bein sports - aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "bein sports - aq",
+          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd??|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd??|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        }
+      ],
       "logo1": "https://img.sofascore.com/api/v1/team/8033/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4778/image",
       "matchDate": "29/09/2026",
+      "matchFormat": "",
       "matchTime": "7:00 PM",
       "sportCategory": "Football",
       "team1": "Lesotho",
@@ -1417,6 +1642,158 @@
       "team1": "Las Palmas",
       "team2": "Valladolid",
       "visibility": "public"
+    },
+    {
+      "1029": {
+        "data": {
+          "buttons": [
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "sportv - aq",
+              "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd?|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "https://bhalocast.pro",
+                "Referer": "https://bhalocast.pro/",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "hd - server",
+              "url": "https://dz5.bhalocast.pro:7059/hls/sptv1br.m3u8?md5=UggVfR5FMQwe8P2mqsqsJg&expires=1790679822&ch=sptv1br&s=dbece7a976bf9c2280300b984575d53a"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "https://stream0.org",
+                "Referer": "https://stream0.org/",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "low-sever",
+              "url": "https://n220.ys.football/online/Zmm0tgoCmlbn9f7ZMSqp1A/1790679315/sportv_480.m3u8"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "http://www.fawanews.sc/",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "gb - 1",
+              "url": "https://www.rtmpcdn.com/live/2306a6cf-768f-47fc-9883-ccc8f9856224.m3u8?"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "https://xlz.domainkqt.cc/",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "gb - 2",
+              "url": "https://live2.zundrixmediapipeline.com/live/channel8.m3u8?"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "gb - 3",
+              "url": "https://live4.dyrur1.com/live/73685552_1a6bc98940d353f3d4b0911f1b0d3440_h540p.m3u8"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "gb - 4",
+              "url": "https://www.rtmpcdn.com/live/2306a6cf-768f-47fc-9883-ccc8f9856224.m3u8"
+            }
+          ],
+          "hotMatch": "yes",
+          "id": "1029",
+          "league": "Football | Friendly International",
+          "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+          "logo1": "https://img.sofascore.com/api/v1/team/4741/image",
+          "logo2": "https://img.sofascore.com/api/v1/team/4748/image",
+          "matchDate": "29/09/2026",
+          "matchFormat": "",
+          "matchTime": "4:00 PM",
+          "sportCategory": "Football",
+          "team1": "Australia",
+          "team2": "Brazil"
+        },
+        "deletedAt": 1790685938245
+      },
+      "1030": {
+        "data": {
+          "hotMatch": "no",
+          "id": "1030",
+          "league": "Football | Africa Cup of Nations Qualification",
+          "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
+          "logo1": "https://img.sofascore.com/api/v1/team/23494/image",
+          "logo2": "https://img.sofascore.com/api/v1/team/4832/image",
+          "matchDate": "29/09/2026",
+          "matchFormat": "",
+          "matchTime": "6:00 PM",
+          "sportCategory": "Football",
+          "team1": "Comoros",
+          "team2": "Namibia"
+        },
+        "deletedAt": 1790682755138
+      },
+      "id": "trash",
+      "visibility": "unpublic"
     }
   ]
 }
