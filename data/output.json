@@ -1,6 +1,6 @@
 {
-  "last_updated": "30 September 2026, 04:24:54 AM",
-  "last_updated_iso": "2026-09-29T22:24:54.086Z",
+  "last_updated": "30 September 2026, 07:23:36 AM",
+  "last_updated_iso": "2026-09-30T01:23:36.889Z",
   "new_since_last_sync": 0,
   "total_events": 84,
   "events": [
@@ -182,6 +182,7 @@
       "matchDate": "30/09/2026",
       "matchFormat": "",
       "matchTime": "6:00 AM",
+      "noti_sent": true,
       "sportCategory": "Football",
       "team1": "USA",
       "team2": "Chile",
