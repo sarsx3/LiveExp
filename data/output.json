@@ -1,8 +1,8 @@
 {
-  "last_updated": "01 October 2026, 12:29:12 AM",
-  "last_updated_iso": "2026-09-30T18:29:12.862Z",
-  "new_since_last_sync": 15,
-  "total_events": 94,
+  "last_updated": "01 October 2026, 04:31:08 AM",
+  "last_updated_iso": "2026-09-30T22:31:08.197Z",
+  "new_since_last_sync": 0,
+  "total_events": 91,
   "events": [
     {
       "id": "6",
@@ -201,497 +201,6 @@
       "team2": "Bolivia",
       "visibility": "public",
       "visitorteam_name": "Bolivia"
-    },
-    {
-      "id": "1063",
-      "buttons": [
-        {
-          "display_name": "tapmad-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "https://www.tapmad.com",
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "tapmad-aq",
-          "stream_link": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8"
-        },
-        {
-          "display_name": "fancode-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "fancode-aq",
-          "stream_link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "display_name": "willow-aq",
-          "drmLicenseUrl": "a863373d1894da249fd9b4333b7e3815:34ea0cb8018cc4f6a014eb0c171ee486",
-          "drmScheme": "clearkey",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "willow-aq",
-          "stream_link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fypvfpflqm/out/v1/b6cb13281be94421ab1afbc159361745/cenc.mpd",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fypvfpflqm/out/v1/b6cb13281be94421ab1afbc159361745/cenc.mpd"
-        },
-        {
-          "display_name": "willow-alt",
-          "drmLicenseUrl": "a863373d1894da249fd9b4333b7e3815:34ea0cb8018cc4f6a014eb0c171ee486",
-          "drmScheme": "clearkey",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "willow-alt",
-          "stream_link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fypvfpflqm/out/v1/b6cb13281be94421ab1afbc159361745/cenc.mpd",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fypvfpflqm/out/v1/b6cb13281be94421ab1afbc159361745/cenc.mpd"
-        }
-      ],
-      "hotMatch": "no",
-      "league": "Cricket | SA vs AUS – 3rd ODI",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11191/image",
-      "link_live": [
-        {
-          "display_name": "tapmad-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "https://www.tapmad.com",
-            "Referer": "https://www.tapmad.com/",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "tapmad-aq",
-          "stream_link": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8"
-        },
-        {
-          "display_name": "fancode-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "fancode-aq",
-          "stream_link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "display_name": "willow-aq",
-          "drmLicenseUrl": "a863373d1894da249fd9b4333b7e3815:34ea0cb8018cc4f6a014eb0c171ee486",
-          "drmScheme": "clearkey",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "willow-aq",
-          "stream_link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fypvfpflqm/out/v1/b6cb13281be94421ab1afbc159361745/cenc.mpd",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fypvfpflqm/out/v1/b6cb13281be94421ab1afbc159361745/cenc.mpd"
-        },
-        {
-          "display_name": "willow-alt",
-          "drmLicenseUrl": "a863373d1894da249fd9b4333b7e3815:34ea0cb8018cc4f6a014eb0c171ee486",
-          "drmScheme": "clearkey",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "willow-alt",
-          "stream_link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fypvfpflqm/out/v1/b6cb13281be94421ab1afbc159361745/cenc.mpd",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fypvfpflqm/out/v1/b6cb13281be94421ab1afbc159361745/cenc.mpd"
-        }
-      ],
-      "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187746/image",
-      "matchDate": "30/09/2026",
-      "matchFormat": "ODI",
-      "matchTime": "5:30 PM",
-      "sportCategory": "Cricket",
-      "team1": "South Africa",
-      "team2": "Australia",
-      "visibility": "public"
-    },
-    {
-      "id": "1065",
-      "buttons": [
-        {
-          "display_name": "Oman Mubashir - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Oman Mubashir - aq",
-          "stream_link": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8",
-          "url": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8"
-        },
-        {
-          "display_name": "Bahrain SPORTS",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Bahrain SPORTS",
-          "stream_link": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
-          "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
-        },
-        {
-          "display_name": "alkas sports - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "hd-server",
-          "stream_link": "https://www.rtmpcdn.com/live/53748f68-2816-45ad-850e-98c10968c7a6.m3u8",
-          "url": "https://www.rtmpcdn.com/live/53748f68-2816-45ad-850e-98c10968c7a6.m3u8"
-        }
-      ],
-      "hotMatch": "no",
-      "league": "Football | Arabian Gulf Cup",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v15/Competitions/light/5452",
-      "link_live": [
-        {
-          "display_name": "Oman Mubashir - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Oman Mubashir - aq",
-          "stream_link": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8",
-          "url": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8"
-        },
-        {
-          "display_name": "Bahrain SPORTS",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "Bahrain SPORTS",
-          "stream_link": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
-          "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
-        },
-        {
-          "display_name": "alkas sports - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "hd-server",
-          "stream_link": "https://www.rtmpcdn.com/live/53748f68-2816-45ad-850e-98c10968c7a6.m3u8",
-          "url": "https://www.rtmpcdn.com/live/53748f68-2816-45ad-850e-98c10968c7a6.m3u8"
-        }
-      ],
-      "logo1": "https://img.sofascore.com/api/v1/team/5161/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4721/image",
-      "matchDate": "30/09/2026",
-      "matchFormat": "",
-      "matchTime": "11:30 PM",
-      "noti_sent": true,
-      "sportCategory": "Football",
-      "team1": "Bahrain",
-      "team2": "Yemen",
-      "visibility": "public"
-    },
-    {
-      "id": "1066",
-      "buttons": [
-        {
-          "display_name": "oman sports - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "oman sports - aq",
-          "stream_link": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/index.m3u8",
-          "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/index.m3u8"
-        },
-        {
-          "display_name": "alkas sports - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "SportDigital Fussball",
-          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
-        },
-        {
-          "display_name": "SportDigital Fussball",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "AD1 SPORTS",
-          "stream_link": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd?|drmScheme=clearkey&drmLicense=e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a",
-          "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd?|drmScheme=clearkey&drmLicense=e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a"
-        },
-        {
-          "display_name": "AD1 SPORTS",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "alkas sports - aq",
-          "stream_link": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
-          "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8"
-        },
-        {
-          "display_name": "hd-server",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "hd-server",
-          "stream_link": "https://www.rtmpcdn.com/live/5a7e7fdf-dc4a-4fa5-8f74-e6a535d10934.m3u8",
-          "url": "https://www.rtmpcdn.com/live/5a7e7fdf-dc4a-4fa5-8f74-e6a535d10934.m3u8"
-        }
-      ],
-      "hotMatch": "no",
-      "league": "Football | Arabian Gulf Cup",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v15/Competitions/light/5452",
-      "link_live": [
-        {
-          "display_name": "oman sports - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "oman sports - aq",
-          "stream_link": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/index.m3u8",
-          "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/index.m3u8"
-        },
-        {
-          "display_name": "alkas sports - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "SportDigital Fussball",
-          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
-        },
-        {
-          "display_name": "SportDigital Fussball",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "AD1 SPORTS",
-          "stream_link": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd?|drmScheme=clearkey&drmLicense=e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a",
-          "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd?|drmScheme=clearkey&drmLicense=e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a"
-        },
-        {
-          "display_name": "AD1 SPORTS",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "alkas sports - aq",
-          "stream_link": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
-          "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8"
-        },
-        {
-          "display_name": "hd-server",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "hd-server",
-          "stream_link": "https://www.rtmpcdn.com/live/5a7e7fdf-dc4a-4fa5-8f74-e6a535d10934.m3u8",
-          "url": "https://www.rtmpcdn.com/live/5a7e7fdf-dc4a-4fa5-8f74-e6a535d10934.m3u8"
-        }
-      ],
-      "logo1": "https://img.sofascore.com/api/v1/team/4727/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4792/image",
-      "matchDate": "30/09/2026",
-      "matchFormat": "",
-      "matchTime": "11:30 PM",
-      "noti_sent": true,
-      "sportCategory": "Football",
-      "team1": "UAE",
-      "team2": "Qatar",
-      "visibility": "public"
     },
     {
       "id": "1067",
@@ -1829,7 +1338,90 @@
       "visitorteam_name": "Bolivia"
     },
     {
-      "1064": {
+      "1063": {
+        "data": {
+          "buttons": [
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "https://www.tapmad.com",
+                "Referer": "https://www.tapmad.com/",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "tapmad-aq",
+              "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "fancode-aq",
+              "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+            },
+            {
+              "drmLicenseUrl": "a863373d1894da249fd9b4333b7e3815:34ea0cb8018cc4f6a014eb0c171ee486",
+              "drmScheme": "clearkey",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "willow-aq",
+              "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fypvfpflqm/out/v1/b6cb13281be94421ab1afbc159361745/cenc.mpd"
+            },
+            {
+              "drmLicenseUrl": "a863373d1894da249fd9b4333b7e3815:34ea0cb8018cc4f6a014eb0c171ee486",
+              "drmScheme": "clearkey",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "willow-alt",
+              "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fypvfpflqm/out/v1/b6cb13281be94421ab1afbc159361745/cenc.mpd"
+            }
+          ],
+          "hotMatch": "no",
+          "id": "1063",
+          "league": "Cricket | SA vs AUS – 3rd ODI",
+          "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11191/image",
+          "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
+          "logo2": "https://img.sofascore.com/api/v1/team/187746/image",
+          "matchDate": "30/09/2026",
+          "matchFormat": "ODI",
+          "matchTime": "5:30 PM",
+          "sportCategory": "Cricket",
+          "team1": "South Africa",
+          "team2": "Australia"
+        },
+        "deletedAt": 1790797627545
+      },
+      "1065": {
         "data": {
           "buttons": [
             {
@@ -1845,8 +1437,8 @@
                 "Referer": "",
                 "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
               },
-              "name": "BEIN SPORTS - aq",
-              "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+              "name": "Oman Mubashir - aq",
+              "url": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8"
             },
             {
               "drmLicenseUrl": "",
@@ -1861,24 +1453,8 @@
                 "Referer": "",
                 "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
               },
-              "name": "low-server",
-              "url": "https://cdn.syria-player.info/proxy.php?stream=YmVpbjNfMzYwcC5tM3U4"
-            },
-            {
-              "drmLicenseUrl": "",
-              "drmScheme": "widevine",
-              "headers": {
-                "Accept": "*/*",
-                "Accept-Encoding": "gzip, deflate, br, zstd",
-                "Accept-Language": "en-US,en;q=0.9",
-                "Connection": "keep-alive",
-                "Cookie": "",
-                "Origin": "https://cdn.syria-player.info/bein3",
-                "Referer": "https://cdn.syria-player.info/bein3",
-                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-              },
-              "name": "Server - 1",
-              "url": "https://cdn.syria-player.info/proxy.php?stream=YmVpbjNfMzYwcC5tM3U4"
+              "name": "Bahrain SPORTS",
+              "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
             },
             {
               "drmLicenseUrl": "",
@@ -1894,23 +1470,122 @@
                 "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
               },
               "name": "hd-server",
-              "url": "https://www.rtmpcdn.com/live/fe1a5231-259c-4e5d-b330-fc952d9264d9.m3u8"
+              "url": "https://www.rtmpcdn.com/live/53748f68-2816-45ad-850e-98c10968c7a6.m3u8"
             }
           ],
           "hotMatch": "no",
-          "id": "1064",
-          "league": "Football | Africa Cup of Nations Qualification",
-          "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png/v2/Competitions/light/588",
-          "logo1": "https://img.sofascore.com/api/v1/team/8041/image",
-          "logo2": "https://img.sofascore.com/api/v1/team/4736/image",
+          "id": "1065",
+          "league": "Football | Arabian Gulf Cup",
+          "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v15/Competitions/light/5452",
+          "logo1": "https://img.sofascore.com/api/v1/team/5161/image",
+          "logo2": "https://img.sofascore.com/api/v1/team/4721/image",
           "matchDate": "30/09/2026",
           "matchFormat": "",
-          "matchTime": "10:00 PM",
+          "matchTime": "11:30 PM",
           "sportCategory": "Football",
-          "team1": "Eritrea",
-          "team2": "South Africa"
+          "team1": "Bahrain",
+          "team2": "Yemen"
         },
-        "deletedAt": 1790791719400
+        "deletedAt": 1790797150793
+      },
+      "1066": {
+        "data": {
+          "buttons": [
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "oman sports - aq",
+              "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/index.m3u8"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "SportDigital Fussball",
+              "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "AD1 SPORTS",
+              "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd?|drmScheme=clearkey&drmLicense=e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "alkas sports - aq",
+              "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "hd-server",
+              "url": "https://www.rtmpcdn.com/live/5a7e7fdf-dc4a-4fa5-8f74-e6a535d10934.m3u8"
+            }
+          ],
+          "hotMatch": "no",
+          "id": "1066",
+          "league": "Football | Arabian Gulf Cup",
+          "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v15/Competitions/light/5452",
+          "logo1": "https://img.sofascore.com/api/v1/team/4727/image",
+          "logo2": "https://img.sofascore.com/api/v1/team/4792/image",
+          "matchDate": "30/09/2026",
+          "matchFormat": "",
+          "matchTime": "11:30 PM",
+          "sportCategory": "Football",
+          "team1": "UAE",
+          "team2": "Qatar"
+        },
+        "deletedAt": 1790797156036
       },
       "id": "trash",
       "visibility": "unpublic"
