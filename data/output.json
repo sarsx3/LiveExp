@@ -1,16 +1,58 @@
 {
-  "last_updated": "02 October 2026, 08:32:20 AM",
-  "last_updated_iso": "2026-10-02T02:32:20.928Z",
-  "new_since_last_sync": 1,
-  "total_events": 83,
+  "last_updated": "02 October 2026, 02:55:27 PM",
+  "last_updated_iso": "2026-10-02T08:55:27.288Z",
+  "new_since_last_sync": 0,
+  "total_events": 82,
   "events": [
     {
       "id": "8",
+      "buttons": [
+        {
+          "display_name": "Server - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 1",
+          "stream_link": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790909878-0-0-33cbcd2ed705169d1cf9fc1a4e9a4aec",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790909878-0-0-33cbcd2ed705169d1cf9fc1a4e9a4aec"
+        }
+      ],
+      "hotMatch": "no",
       "league": "Football | FIFA ASEAN Cup 2026",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/37824/image",
+      "link_live": [
+        {
+          "display_name": "Server - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 1",
+          "stream_link": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790909878-0-0-33cbcd2ed705169d1cf9fc1a4e9a4aec",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790909878-0-0-33cbcd2ed705169d1cf9fc1a4e9a4aec"
+        }
+      ],
       "logo1": "https://img.sofascore.com/api/v1/team/7050/image",
       "logo2": "https://img.sofascore.com/api/v1/team/6081/image",
       "matchDate": "02/10/2026",
+      "matchFormat": "",
       "matchTime": "3:00 PM",
       "sportCategory": "Football",
       "team1": "Vietnam",
@@ -19,11 +61,53 @@
     },
     {
       "id": "9",
+      "buttons": [
+        {
+          "display_name": "Server - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 1",
+          "stream_link": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001790910053-0-0-13c29739a37f5c02dd9aed12e3518396",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001790910053-0-0-13c29739a37f5c02dd9aed12e3518396"
+        }
+      ],
+      "hotMatch": "no",
       "league": "Football | FIFA ASEAN Cup 2026",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/37824/image",
+      "link_live": [
+        {
+          "display_name": "Server - 1",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Server - 1",
+          "stream_link": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001790910053-0-0-13c29739a37f5c02dd9aed12e3518396",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001790910053-0-0-13c29739a37f5c02dd9aed12e3518396"
+        }
+      ],
       "logo1": "https://img.sofascore.com/api/v1/team/4730/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4791/image",
       "matchDate": "02/10/2026",
+      "matchFormat": "",
       "matchTime": "3:00 PM",
       "sportCategory": "Football",
       "team1": "Thailand",
@@ -1120,25 +1204,6 @@
       "team1": "Chicago Fire",
       "team2": "Vancouver Whitecaps",
       "visibility": "public"
-    },
-    {
-      "1080": {
-        "data": {
-          "id": "1080",
-          "league": "Football | MLS",
-          "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-          "logo1": "https://img.sofascore.com/api/v1/team/22009/image",
-          "logo2": "https://img.sofascore.com/api/v1/team/2509/image",
-          "matchDate": "02/10/2026",
-          "matchTime": "7:30 AM",
-          "sportCategory": "Football",
-          "team1": "Seattle Sounders",
-          "team2": "Sporting KC"
-        },
-        "deletedAt": 1790904529451
-      },
-      "id": "trash",
-      "visibility": "unpublic"
     }
   ]
 }
