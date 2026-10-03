@@ -1,24 +1,9 @@
 {
-  "last_updated": "03 October 2026, 02:18:10 PM",
-  "last_updated_iso": "2026-10-03T08:18:10.986Z",
-  "new_since_last_sync": 1,
-  "total_events": 101,
+  "last_updated": "03 October 2026, 07:29:58 PM",
+  "last_updated_iso": "2026-10-03T13:29:58.869Z",
+  "new_since_last_sync": 0,
+  "total_events": 97,
   "events": [
-    {
-      "id": "10",
-      "hotMatch": "no",
-      "league": "Football | FIFA ASEAN Cup 2026",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/37824/image",
-      "logo1": "https://img.sofascore.com/api/v1/team/4765/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/7929/image",
-      "matchDate": "03/10/2026",
-      "matchFormat": "",
-      "matchTime": "4:00 PM",
-      "sportCategory": "Football",
-      "team1": "TBC",
-      "team2": "TBC",
-      "visibility": "public"
-    },
     {
       "id": "50",
       "league": "Baseball | MLB",
@@ -30,6 +15,7 @@
       "sportCategory": "Baseball",
       "team1": "Chicago White Sox",
       "team2": "Cleveland Guardians",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -43,6 +29,7 @@
       "sportCategory": "Baseball",
       "team1": "Atlanta Braves",
       "team2": "Los Angeles Dodgers",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -56,6 +43,7 @@
       "sportCategory": "Baseball",
       "team1": "New York Yankees",
       "team2": "Tampa Bay Rays",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -69,6 +57,7 @@
       "sportCategory": "Baseball",
       "team1": "San Diego Padres",
       "team2": "Milwaukee Brewers",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -82,6 +71,7 @@
       "sportCategory": "Baseball",
       "team1": "San Diego Padres",
       "team2": "Milwaukee Brewers",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -95,6 +85,7 @@
       "sportCategory": "Baseball",
       "team1": "Atlanta Braves",
       "team2": "Los Angeles Dodgers",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -108,6 +99,7 @@
       "sportCategory": "Baseball",
       "team1": "Chicago White Sox",
       "team2": "Cleveland Guardians",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -121,6 +113,7 @@
       "sportCategory": "Baseball",
       "team1": "New York Yankees",
       "team2": "Tampa Bay Rays",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -134,6 +127,7 @@
       "sportCategory": "Baseball",
       "team1": "Los Angeles Dodgers",
       "team2": "Atlanta Braves",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -147,6 +141,7 @@
       "sportCategory": "Baseball",
       "team1": "Milwaukee Brewers",
       "team2": "San Diego Padres",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -160,170 +155,7 @@
       "sportCategory": "Formula 1",
       "team1": "Race",
       "team2": "Bahrain Grand Prix",
-      "visibility": "public"
-    },
-    {
-      "id": "65",
-      "buttons": [
-        {
-          "display_name": "FANCODE - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "FANCODE - aq",
-          "stream_link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "display_name": "TNT2 SPORTS - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "TNT2 SPORTS - aq",
-          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "display_name": "SPOTV - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "SPOTV - aq",
-          "stream_link": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd?|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
-          "url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd?|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed"
-        },
-        {
-          "display_name": "MotoGP - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "MotoGP - aq",
-          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd?|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd?|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
-        }
-      ],
-      "hotMatch": "no",
-      "league": "Motorsport | MotoGP Japanese GP",
-      "leagueLogo": "https://img.sofascore.com/api/v1/category/1325/image",
-      "link_live": [
-        {
-          "display_name": "FANCODE - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "FANCODE - aq",
-          "stream_link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "display_name": "TNT2 SPORTS - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "TNT2 SPORTS - aq",
-          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "display_name": "SPOTV - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "SPOTV - aq",
-          "stream_link": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd?|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
-          "url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd?|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed"
-        },
-        {
-          "display_name": "MotoGP - aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "MotoGP - aq",
-          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd?|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd?|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
-        }
-      ],
-      "logo1": "https://img.sofascore.com/api/v1/category/1325/image",
-      "logo2": "https://img.sofascore.com/api/v1/category/1325/image",
-      "matchDate": "03/10/2026",
-      "matchFormat": "",
-      "matchTime": "12:00 PM",
-      "noti_sent": true,
-      "sportCategory": "Motorsport",
-      "team1": "MotoGP",
-      "team2": "Sprint",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -337,6 +169,7 @@
       "sportCategory": "Motorsport",
       "team1": "MotoGP",
       "team2": "Race",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -350,6 +183,7 @@
       "sportCategory": "Motorsport",
       "team1": "Moto2",
       "team2": "Race",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -363,6 +197,7 @@
       "sportCategory": "Motorsport",
       "team1": "Moto3",
       "team2": "Race",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -376,6 +211,7 @@
       "sportCategory": "Motorsport",
       "team1": "NASCAR O'Reilly Auto Parts Series",
       "team2": "Focused Health 302",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -393,6 +229,7 @@
       "sportCategory": "Motorsport",
       "team1": "NASCAR Cup Series",
       "team2": "South Point 400",
+      "updatedAt": 1791031290721,
       "visibility": "public",
       "visitorteam_name": "South Point 400"
     },
@@ -411,20 +248,101 @@
       "sportCategory": "Boxing",
       "team1": "Ben Whittaker",
       "team2": "Conor Wallace",
+      "updatedAt": 1791031290721,
       "visibility": "public",
       "visitorteam_name": "Conor Wallace"
     },
     {
       "id": "101",
+      "buttons": [
+        {
+          "display_name": "willow-aq",
+          "drmLicenseUrl": "e8dfce98828222c090e14a5f39f5bf33:ad47b761acd8ba42ee10390a3775e0e7",
+          "drmScheme": "clearkey",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "willow-aq",
+          "stream_link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pbidfsvt6s/out/v1/fa36ffe7709740a08bda86c6a3281782/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pbidfsvt6s/out/v1/fa36ffe7709740a08bda86c6a3281782/cenc.mpd"
+        },
+        {
+          "display_name": "willow-alt",
+          "drmLicenseUrl": "e8dfce98828222c090e14a5f39f5bf33:ad47b761acd8ba42ee10390a3775e0e7",
+          "drmScheme": "clearkey",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "willow-alt",
+          "stream_link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pbidfsvt6s/out/v1/fa36ffe7709740a08bda86c6a3281782/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pbidfsvt6s/out/v1/fa36ffe7709740a08bda86c6a3281782/cenc.mpd"
+        }
+      ],
+      "hotMatch": "no",
       "league": "Cricket | World Championship of Legends",
       "leagueLogo": "https://cricketvectors.akamaized.net/Series/2MS.png",
+      "link_live": [
+        {
+          "display_name": "willow-aq",
+          "drmLicenseUrl": "e8dfce98828222c090e14a5f39f5bf33:ad47b761acd8ba42ee10390a3775e0e7",
+          "drmScheme": "clearkey",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "willow-aq",
+          "stream_link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pbidfsvt6s/out/v1/fa36ffe7709740a08bda86c6a3281782/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pbidfsvt6s/out/v1/fa36ffe7709740a08bda86c6a3281782/cenc.mpd"
+        },
+        {
+          "display_name": "willow-alt",
+          "drmLicenseUrl": "e8dfce98828222c090e14a5f39f5bf33:ad47b761acd8ba42ee10390a3775e0e7",
+          "drmScheme": "clearkey",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "willow-alt",
+          "stream_link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pbidfsvt6s/out/v1/fa36ffe7709740a08bda86c6a3281782/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pbidfsvt6s/out/v1/fa36ffe7709740a08bda86c6a3281782/cenc.mpd"
+        }
+      ],
       "logo1": "https://cricketvectors.akamaized.net/Teams/VJ.png",
       "logo2": "https://cricketvectors.akamaized.net/Teams/VK.png",
       "matchDate": "03/10/2026",
+      "matchFormat": "T20",
       "matchTime": "5:30 PM",
+      "noti_sent": true,
       "sportCategory": "Cricket",
       "team1": "India Champions",
       "team2": "Australia Champions",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -438,6 +356,7 @@
       "sportCategory": "Cricket",
       "team1": "Pakistan Champions",
       "team2": "Bangladesh Champions",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -451,6 +370,7 @@
       "sportCategory": "Cricket",
       "team1": "South Africa Champions",
       "team2": "West Indies Champions",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -464,6 +384,7 @@
       "sportCategory": "Cricket",
       "team1": "India Champions",
       "team2": "England Champions",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -477,6 +398,7 @@
       "sportCategory": "Cricket",
       "team1": "Australia Champions",
       "team2": "Pakistan Champions",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -490,6 +412,7 @@
       "sportCategory": "Cricket",
       "team1": "Bangladesh Champions",
       "team2": "England Champions",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -503,6 +426,7 @@
       "sportCategory": "Cricket",
       "team1": "India Champions",
       "team2": "South Africa Champions",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -516,152 +440,7 @@
       "sportCategory": "Cricket",
       "team1": "Pakistan Champions",
       "team2": "West Indies Champions",
-      "visibility": "public"
-    },
-    {
-      "id": "1091",
-      "buttons": [
-        {
-          "display_name": "willow-alt",
-          "drmLicenseUrl": "e2f0d4bbcead5d0b26b654d9f2bd0b73:0819905841d515ef09147d3a436d370d",
-          "drmScheme": "clearkey",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "willow-alt",
-          "stream_link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cmfpvuwoyv/out/v1/94c214cd527c4b5592de7eb9c9a10028/cenc.mpd",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cmfpvuwoyv/out/v1/94c214cd527c4b5592de7eb9c9a10028/cenc.mpd"
-        },
-        {
-          "display_name": "willow-aq",
-          "drmLicenseUrl": "e2f0d4bbcead5d0b26b654d9f2bd0b73:0819905841d515ef09147d3a436d370d",
-          "drmScheme": "clearkey",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "willow-aq",
-          "stream_link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cmfpvuwoyv/out/v1/94c214cd527c4b5592de7eb9c9a10028/cenc.mpd",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cmfpvuwoyv/out/v1/94c214cd527c4b5592de7eb9c9a10028/cenc.mpd"
-        },
-        {
-          "display_name": "sonyliv-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "sonyliv-aq",
-          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/master.m3u8?hdnea=exp=1791040837~acl=/*~id=84012445627073631830832636064491~hmac=663cceff79a96579c065d3ec51baac34f140e457907080916be464252363e1c4",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/master.m3u8?hdnea=exp=1791040837~acl=/*~id=84012445627073631830832636064491~hmac=663cceff79a96579c065d3ec51baac34f140e457907080916be464252363e1c4"
-        }
-      ],
-      "hotMatch": "yes",
-      "league": "Cricket | Asian Games 2026 - Final",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11158/image",
-      "link_live": [
-        {
-          "display_name": "willow-alt",
-          "drmLicenseUrl": "e2f0d4bbcead5d0b26b654d9f2bd0b73:0819905841d515ef09147d3a436d370d",
-          "drmScheme": "clearkey",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "willow-alt",
-          "stream_link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cmfpvuwoyv/out/v1/94c214cd527c4b5592de7eb9c9a10028/cenc.mpd",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cmfpvuwoyv/out/v1/94c214cd527c4b5592de7eb9c9a10028/cenc.mpd"
-        },
-        {
-          "display_name": "willow-aq",
-          "drmLicenseUrl": "e2f0d4bbcead5d0b26b654d9f2bd0b73:0819905841d515ef09147d3a436d370d",
-          "drmScheme": "clearkey",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "willow-aq",
-          "stream_link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cmfpvuwoyv/out/v1/94c214cd527c4b5592de7eb9c9a10028/cenc.mpd",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cmfpvuwoyv/out/v1/94c214cd527c4b5592de7eb9c9a10028/cenc.mpd"
-        },
-        {
-          "display_name": "sonyliv-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "sonyliv-aq",
-          "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/master.m3u8?hdnea=exp=1791040837~acl=/*~id=84012445627073631830832636064491~hmac=663cceff79a96579c065d3ec51baac34f140e457907080916be464252363e1c4",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/master.m3u8?hdnea=exp=1791040837~acl=/*~id=84012445627073631830832636064491~hmac=663cceff79a96579c065d3ec51baac34f140e457907080916be464252363e1c4"
-        },
-        {
-          "display_name": "ten sports 1",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "ten sports 1",
-          "stream_link": "https://stream.ottplus.live/live/ten_1_hd_abr/playlist.m3u8",
-          "url": "https://stream.ottplus.live/live/ten_1_hd_abr/playlist.m3u8"
-        }
-      ],
-      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187765/image",
-      "matchDate": "03/10/2026",
-      "matchFormat": "ODI",
-      "matchTime": "10:30 AM",
-      "noti_sent": true,
-      "sportCategory": "Cricket",
-      "team1": "Pakistan",
-      "team2": "India",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -682,12 +461,12 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "tapmad-aq",
-          "stream_link": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+          "stream_link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
         },
         {
           "display_name": "willow-alt",
-          "drmLicenseUrl": "",
+          "drmLicenseUrl": "465e30cbfd3748843f54933153276ed8:0f9351d5b352b8f7939bd6695e38afe3",
           "drmScheme": "clearkey",
           "headers": {
             "Accept": "*/*",
@@ -700,11 +479,12 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "willow-alt",
-          "url": ""
+          "stream_link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd"
         },
         {
           "display_name": "willow-aq",
-          "drmLicenseUrl": "",
+          "drmLicenseUrl": "465e30cbfd3748843f54933153276ed8:0f9351d5b352b8f7939bd6695e38afe3",
           "drmScheme": "clearkey",
           "headers": {
             "Accept": "*/*",
@@ -717,7 +497,8 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "willow-aq",
-          "url": ""
+          "stream_link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd"
         },
         {
           "display_name": "TNT SPORTS-aq",
@@ -759,12 +540,12 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "tapmad-aq",
-          "stream_link": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
-          "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+          "stream_link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
+          "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
         },
         {
           "display_name": "willow-alt",
-          "drmLicenseUrl": "",
+          "drmLicenseUrl": "465e30cbfd3748843f54933153276ed8:0f9351d5b352b8f7939bd6695e38afe3",
           "drmScheme": "clearkey",
           "headers": {
             "Accept": "*/*",
@@ -777,11 +558,12 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "willow-alt",
-          "url": ""
+          "stream_link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd"
         },
         {
           "display_name": "willow-aq",
-          "drmLicenseUrl": "",
+          "drmLicenseUrl": "465e30cbfd3748843f54933153276ed8:0f9351d5b352b8f7939bd6695e38afe3",
           "drmScheme": "clearkey",
           "headers": {
             "Accept": "*/*",
@@ -794,7 +576,8 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "willow-aq",
-          "url": ""
+          "stream_link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd"
         },
         {
           "display_name": "TNT SPORTS-aq",
@@ -819,39 +602,214 @@
       "logo1": "https://img.sofascore.com/api/v1/team/187765/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187760/image",
       "matchDate": "03/10/2026",
-      "matchFormat": "",
+      "matchFormat": "ODI",
       "matchTime": "2:30 PM",
       "name": "India vs West Indies",
+      "noti_sent": true,
       "sportCategory": "Cricket",
       "team1": "India",
       "team2": "West Indies",
+      "updatedAt": 1791031290721,
       "visibility": "public",
       "visitorteam_name": "West Indies"
     },
     {
-      "id": "1093",
-      "league": "Football | LaLiga 2",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "logo1": "https://img.sofascore.com/api/v1/team/2848/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2839/image",
-      "matchDate": "03/10/2026",
-      "matchTime": "6:00 PM",
-      "sportCategory": "Football",
-      "team1": "Albacete",
-      "team2": "Eibar",
-      "visibility": "public"
-    },
-    {
       "id": "1094",
+      "buttons": [
+        {
+          "display_name": "sonyliv-aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "display_name": "tapmad-aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "stream_link": "https://seriealeague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
+          "url": "https://seriealeague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
+        },
+        {
+          "display_name": "BEIN SPORTS-aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "BEIN SPORTS-aq",
+          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "display_name": "ESPN ARGENTINA",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "ESPN ARGENTINA",
+          "stream_link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd?|drmScheme=clearkey&drmLicense=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
+          "url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd?|drmScheme=clearkey&drmLicense=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185"
+        },
+        {
+          "display_name": "hd-server",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://streame.center",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "hd-server",
+          "stream_link": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8",
+          "url": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8"
+        }
+      ],
+      "hotMatch": "yes",
       "league": "Football | UEFA Nations League",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
+      "link_live": [
+        {
+          "display_name": "sonyliv-aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "display_name": "tapmad-aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "stream_link": "https://seriealeague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
+          "url": "https://seriealeague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
+        },
+        {
+          "display_name": "BEIN SPORTS-aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "BEIN SPORTS-aq",
+          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "display_name": "ESPN ARGENTINA",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "ESPN ARGENTINA",
+          "stream_link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd?|drmScheme=clearkey&drmLicense=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
+          "url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd?|drmScheme=clearkey&drmLicense=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185"
+        },
+        {
+          "display_name": "hd-server",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://streame.center",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "hd-server",
+          "stream_link": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8",
+          "url": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8"
+        }
+      ],
       "logo1": "https://img.sofascore.com/api/v1/team/4712/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4690/image",
       "matchDate": "03/10/2026",
+      "matchFormat": "",
       "matchTime": "7:00 PM",
+      "noti_sent": true,
       "sportCategory": "Football",
       "team1": "Finland",
       "team2": "Albania",
+      "updatedAt": 1791032241102,
       "visibility": "public"
     },
     {
@@ -865,6 +823,7 @@
       "sportCategory": "Football",
       "team1": "Wigan",
       "team2": "Mansfield",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -878,6 +837,7 @@
       "sportCategory": "Football",
       "team1": "Reading",
       "team2": "Bradford",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -891,6 +851,7 @@
       "sportCategory": "Football",
       "team1": "Peterborough",
       "team2": "Notts County",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -904,6 +865,7 @@
       "sportCategory": "Football",
       "team1": "Leyton Orient",
       "team2": "Plymouth",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -917,6 +879,7 @@
       "sportCategory": "Football",
       "team1": "Burton",
       "team2": "Huddersfield",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -930,6 +893,7 @@
       "sportCategory": "Football",
       "team1": "Bromley",
       "team2": "Wycombe",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -943,6 +907,7 @@
       "sportCategory": "Football",
       "team1": "Barnsley",
       "team2": "MK Dons",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -956,6 +921,7 @@
       "sportCategory": "Football",
       "team1": "AFC Wimbledon",
       "team2": "Stevenage",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -975,6 +941,7 @@
       "sportCategory": "Football",
       "team1": "India",
       "team2": "Brazil",
+      "updatedAt": 1791031290721,
       "visibility": "public",
       "visitorteam_name": "Brazil"
     },
@@ -989,6 +956,7 @@
       "sportCategory": "Football",
       "team1": "Almeria",
       "team2": "Burgos",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1004,6 +972,7 @@
       "sportCategory": "Football",
       "team1": "Croatia",
       "team2": "England",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1017,6 +986,7 @@
       "sportCategory": "Football",
       "team1": "Iceland",
       "team2": "Bulgaria",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1030,6 +1000,7 @@
       "sportCategory": "Football",
       "team1": "Belarus",
       "team2": "San Marino",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1043,6 +1014,7 @@
       "sportCategory": "Football",
       "team1": "Estonia",
       "team2": "Luxembourg",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1056,6 +1028,7 @@
       "sportCategory": "Football",
       "team1": "Cadiz",
       "team2": "Leganés",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1069,6 +1042,7 @@
       "sportCategory": "Football",
       "team1": "Sabadell",
       "team2": "Andorra",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1082,6 +1056,7 @@
       "sportCategory": "Football",
       "team1": "Tunisia",
       "team2": "Mali",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1095,6 +1070,7 @@
       "sportCategory": "Football",
       "team1": "Canada",
       "team2": "Peru",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1108,6 +1084,7 @@
       "sportCategory": "Football",
       "team1": "Switzerland",
       "team2": "Slovenia",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1121,6 +1098,7 @@
       "sportCategory": "Football",
       "team1": "North Macedonia",
       "team2": "Scotland",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1138,6 +1116,7 @@
       "sportCategory": "Football",
       "team1": "Spain",
       "team2": "Czechia",
+      "updatedAt": 1791031290721,
       "visibility": "public",
       "visitorteam_name": "Czechia"
     },
@@ -1154,6 +1133,7 @@
       "sportCategory": "Football",
       "team1": "Argentina",
       "team2": "Burkina Faso",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1167,6 +1147,7 @@
       "sportCategory": "Football",
       "team1": "USA",
       "team2": "Mexico",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1180,6 +1161,7 @@
       "sportCategory": "Football",
       "team1": "Real Sociedad B",
       "team2": "Granada",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1193,6 +1175,7 @@
       "sportCategory": "Football",
       "team1": "Azerbaijan",
       "team2": "Lithuania",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1206,6 +1189,7 @@
       "sportCategory": "Football",
       "team1": "Sporting Gijon",
       "team2": "Celta Vigo B",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1219,6 +1203,7 @@
       "sportCategory": "Football",
       "team1": "Kosovo",
       "team2": "Austria",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1232,6 +1217,7 @@
       "sportCategory": "Football",
       "team1": "Malta",
       "team2": "Andorra",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1245,6 +1231,7 @@
       "sportCategory": "Football",
       "team1": "Castellon",
       "team2": "AD Ceuta",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1258,6 +1245,7 @@
       "sportCategory": "Football",
       "team1": "Las Palmas",
       "team2": "Valladolid",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1271,6 +1259,7 @@
       "sportCategory": "Football",
       "team1": "Egypt",
       "team2": "South Africa",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1284,6 +1273,7 @@
       "sportCategory": "Football",
       "team1": "Morocco",
       "team2": "Ghana",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1297,6 +1287,7 @@
       "sportCategory": "Football",
       "team1": "Wales",
       "team2": "Denmark",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1312,6 +1303,7 @@
       "sportCategory": "Football",
       "team1": "Ireland",
       "team2": "Motherfucker",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1331,6 +1323,7 @@
       "sportCategory": "Football",
       "team1": "Portugal",
       "team2": "Norway",
+      "updatedAt": 1791031290721,
       "visibility": "public",
       "visitorteam_name": "Norway"
     },
@@ -1345,6 +1338,7 @@
       "sportCategory": "Football",
       "team1": "Netherlands",
       "team2": "Serbia",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1358,6 +1352,7 @@
       "sportCategory": "Football",
       "team1": "Greece",
       "team2": "Germany",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1371,6 +1366,7 @@
       "sportCategory": "Football",
       "team1": "Girona",
       "team2": "Mallorca",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1384,6 +1380,7 @@
       "sportCategory": "Football",
       "team1": "Cyprus",
       "team2": "Latvia",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1397,6 +1394,7 @@
       "sportCategory": "Football",
       "team1": "Cordoba",
       "team2": "Tenerife",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1410,6 +1408,7 @@
       "sportCategory": "Football",
       "team1": "Romania",
       "team2": "Sweden",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1423,6 +1422,7 @@
       "sportCategory": "Football",
       "team1": "Bosnia & Herzegovina",
       "team2": "Poland",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1436,6 +1436,7 @@
       "sportCategory": "Football",
       "team1": "Ukraine",
       "team2": "Hungary",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1449,6 +1450,7 @@
       "sportCategory": "Football",
       "team1": "N. Ireland",
       "team2": "Georgia",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1462,6 +1464,7 @@
       "sportCategory": "Football",
       "team1": "Italy",
       "team2": "Turkey",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1475,6 +1478,7 @@
       "sportCategory": "Football",
       "team1": "Montenegro",
       "team2": "Armenia",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1490,6 +1494,7 @@
       "sportCategory": "Football",
       "team1": "France",
       "team2": "Belgium",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1503,6 +1508,7 @@
       "sportCategory": "Football",
       "team1": "Jordan",
       "team2": "Venezuela",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1518,6 +1524,7 @@
       "sportCategory": "Cricket",
       "team1": "India",
       "team2": "West Indies",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1531,6 +1538,7 @@
       "sportCategory": "Football",
       "team1": "Kazakhstan",
       "team2": "Faroe Islands",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1546,6 +1554,7 @@
       "sportCategory": "Football",
       "team1": "India",
       "team2": "Uruguay",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1559,6 +1568,7 @@
       "sportCategory": "Football",
       "team1": "Russia",
       "team2": "Nigeria",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1572,6 +1582,7 @@
       "sportCategory": "Football",
       "team1": "Chicago Fire",
       "team2": "Vancouver Whitecaps",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1585,6 +1596,7 @@
       "sportCategory": "Football",
       "team1": "Angola",
       "team2": "Malawi",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1598,6 +1610,7 @@
       "sportCategory": "Football",
       "team1": "Switzerland",
       "team2": "North Macedonia",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1611,6 +1624,7 @@
       "sportCategory": "Football",
       "team1": "Scotland",
       "team2": "Slovenia",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1624,6 +1638,7 @@
       "sportCategory": "Football",
       "team1": "England",
       "team2": "Czechia",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1639,6 +1654,7 @@
       "sportCategory": "Football",
       "team1": "Croatia",
       "team2": "Spain",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1652,6 +1668,7 @@
       "sportCategory": "Football",
       "team1": "Estonia",
       "team2": "Iceland",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1665,6 +1682,7 @@
       "sportCategory": "Football",
       "team1": "Moldova",
       "team2": "Slovakia",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1678,6 +1696,7 @@
       "sportCategory": "Football",
       "team1": "Belarus",
       "team2": "Finland",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1691,6 +1710,7 @@
       "sportCategory": "Football",
       "team1": "Albania",
       "team2": "San Marino",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1704,6 +1724,7 @@
       "sportCategory": "Football",
       "team1": "Luxembourg",
       "team2": "Bulgaria",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1717,6 +1738,7 @@
       "sportCategory": "Football",
       "team1": "Algeria",
       "team2": "Niger",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1732,6 +1754,7 @@
       "sportCategory": "Football",
       "team1": "Argentina",
       "team2": "Benin",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1745,6 +1768,7 @@
       "sportCategory": "Football",
       "team1": "Mexico",
       "team2": "Chile",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1758,6 +1782,7 @@
       "sportCategory": "Football",
       "team1": "Colombia",
       "team2": "Peru",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1771,6 +1796,7 @@
       "sportCategory": "Cricket",
       "team1": "Australia Champions",
       "team2": "Bangladesh Champions",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
@@ -1784,23 +1810,27 @@
       "sportCategory": "Cricket",
       "team1": "England Champions",
       "team2": "West Indies Champions",
+      "updatedAt": 1791031290721,
       "visibility": "public"
     },
     {
-      "63": {
+      "100": {
         "data": {
-          "id": "63",
-          "league": "Formula 1 | Bahrain Grand Prix",
-          "leagueLogo": "https://img.sofascore.com/api/v1/category/36/image",
-          "logo1": "https://img.sofascore.com/api/v1/category/36/image",
-          "logo2": "https://img.sofascore.com/api/v1/category/36/image",
-          "matchDate": "03/10/2026",
-          "matchTime": "2:00 PM",
-          "sportCategory": "Formula 1",
-          "team1": "Qualifying",
-          "team2": "Bahrain Grand Prix"
+          "hotMatch": "no",
+          "id": "100",
+          "league": "Boxing | Matchroom Boxing",
+          "leagueLogo": "https://img.sofascore.com/api/v1/team/4712/image",
+          "logo1": "https://img.sofascore.com/api/v1/team/4712/image",
+          "logo2": "https://img.sofascore.com/api/v1/team/4712/image",
+          "matchDate": "04/10/2026",
+          "matchFormat": "",
+          "matchTime": "12:00 AM",
+          "sportCategory": "Boxing",
+          "team1": "Ben Whittaker",
+          "team2": "Conor Wallace",
+          "updatedAt": 1791031852225
         },
-        "deletedAt": 1791013336911
+        "deletedAt": 1791031926802
       },
       "id": "trash",
       "visibility": "unpublic"
