@@ -1,117 +1,11 @@
 {
-  "last_updated": "04 October 2026, 04:59:57 AM",
-  "last_updated_iso": "2026-10-03T22:59:57.401Z",
-  "new_since_last_sync": 1,
-  "total_events": 69,
+  "last_updated": "04 October 2026, 08:30:55 AM",
+  "last_updated_iso": "2026-10-04T02:30:55.635Z",
+  "new_since_last_sync": 0,
+  "total_events": 67,
   "events": [
     {
-      "id": "52",
-      "buttons": [
-        {
-          "display_name": "TNT4UK SPORTS FHD",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "TNT4UK SPORTS FHD",
-          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "display_name": "STREAM TV + HD",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://streame.center",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "STREAM TV + HD",
-          "stream_link": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8",
-          "url": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8"
-        }
-      ],
-      "hotMatch": "no",
-      "league": "Baseball | MLB",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-      "link_live": [
-        {
-          "display_name": "TNT4UK SPORTS FHD",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "TNT4UK SPORTS FHD",
-          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "display_name": "STREAM TV + HD",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://streame.center",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "STREAM TV + HD",
-          "stream_link": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8",
-          "url": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8"
-        }
-      ],
-      "logo1": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-      "logo2": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-      "matchDate": "04/10/2026",
-      "matchFormat": "",
-      "matchTime": "4:30 AM",
-      "sportCategory": "Baseball",
-      "team1": "New York Yankees",
-      "team2": "Tampa Bay Rays",
-      "updatedAt": 1791064755921,
-      "visibility": "unpublic"
-    },
-    {
       "id": "53",
-      "league": "Baseball | MLB",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-      "logo1": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-      "logo2": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-      "matchDate": "04/10/2026",
-      "matchTime": "6:30 AM",
-      "sportCategory": "Baseball",
-      "team1": "San Diego Padres",
-      "team2": "Milwaukee Brewers",
-      "updatedAt": 1791053543345,
-      "visibility": "public"
-    },
-    {
-      "id": "54",
       "buttons": [
         {
           "display_name": "FOX1 SPORTS FHD",
@@ -225,34 +119,18 @@
           "name": "STREAM TV + HD",
           "stream_link": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8",
           "url": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8"
-        },
-        {
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "bd - 1",
-          "url": ""
         }
       ],
       "logo1": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
       "logo2": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
       "matchDate": "04/10/2026",
       "matchFormat": "",
-      "matchTime": "4:00 AM",
+      "matchTime": "6:30 AM",
       "noti_sent": true,
       "sportCategory": "Baseball",
       "team1": "San Diego Padres",
       "team2": "Milwaukee Brewers",
-      "updatedAt": 1791064956286,
+      "updatedAt": 1791073421885,
       "visibility": "public"
     },
     {
@@ -355,16 +233,166 @@
     },
     {
       "id": "67",
+      "buttons": [
+        {
+          "display_name": "FANCODE",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "FANCODE",
+          "stream_link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "display_name": "TNT2 SPORTS",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "TNT2 SPORTS",
+          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "display_name": "SPOTV",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "SPOTV",
+          "stream_link": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd?|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
+          "url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd?|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed"
+        },
+        {
+          "display_name": "MotoGP hd",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "MotoGP hd",
+          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd?|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd?|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
+        }
+      ],
+      "hotMatch": "no",
       "league": "Motorsport | MotoGP Japanese GP",
       "leagueLogo": "https://img.sofascore.com/api/v1/category/1325/image",
+      "link_live": [
+        {
+          "display_name": "FANCODE",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "FANCODE",
+          "stream_link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "display_name": "TNT2 SPORTS",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "TNT2 SPORTS",
+          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "display_name": "SPOTV",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "SPOTV",
+          "stream_link": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd?|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
+          "url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd?|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed"
+        },
+        {
+          "display_name": "MotoGP hd",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "MotoGP hd",
+          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd?|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd?|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
+        }
+      ],
       "logo1": "https://img.sofascore.com/api/v1/category/1325/image",
       "logo2": "https://img.sofascore.com/api/v1/category/1325/image",
       "matchDate": "04/10/2026",
+      "matchFormat": "",
       "matchTime": "9:15 AM",
       "sportCategory": "Motorsport",
       "team1": "Moto2",
       "team2": "Race",
-      "updatedAt": 1791053543345,
+      "updatedAt": 1791077933100,
       "visibility": "public"
     },
     {
@@ -375,6 +403,7 @@
       "logo2": "https://img.sofascore.com/api/v1/category/1325/image",
       "matchDate": "04/10/2026",
       "matchTime": "8:00 AM",
+      "noti_sent": true,
       "sportCategory": "Motorsport",
       "team1": "Moto3",
       "team2": "Race",
@@ -383,16 +412,167 @@
     },
     {
       "id": "69",
+      "buttons": [
+        {
+          "display_name": "fancode - Aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "fancode - Aq",
+          "stream_link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "display_name": "TNT2 SPORTS-aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "TNT2 SPORTS-aq",
+          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "display_name": "SPOTV",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "SPOTV",
+          "stream_link": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd?|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
+          "url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd?|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed"
+        },
+        {
+          "display_name": "MotoGP",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "MotoGP",
+          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd?|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd?|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
+        }
+      ],
+      "hotMatch": "no",
       "league": "Motorsport | NASCAR Las Vegas",
       "leagueLogo": "https://img.sofascore.com/api/v1/category/1325/image",
+      "link_live": [
+        {
+          "display_name": "fancode - Aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "fancode - Aq",
+          "stream_link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "display_name": "TNT2 SPORTS-aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "TNT2 SPORTS-aq",
+          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "display_name": "SPOTV",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "SPOTV",
+          "stream_link": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd?|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
+          "url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd?|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed"
+        },
+        {
+          "display_name": "MotoGP",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "MotoGP",
+          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd?|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd?|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
+        }
+      ],
       "logo1": "https://img.sofascore.com/api/v1/category/1325/image",
       "logo2": "https://img.sofascore.com/api/v1/category/1325/image",
       "matchDate": "04/10/2026",
+      "matchFormat": "",
       "matchTime": "5:30 AM",
+      "noti_sent": true,
       "sportCategory": "Motorsport",
       "team1": "NASCAR O'Reilly Auto Parts Series",
       "team2": "Focused Health 302",
-      "updatedAt": 1791053543345,
+      "updatedAt": 1791072371573,
       "visibility": "public"
     },
     {
@@ -502,7 +682,6 @@
       "id": "1116",
       "buttons": [
         {
-          "display_name": "BEIN3 SPORTS-aq",
           "drmLicenseUrl": "",
           "drmScheme": "widevine",
           "headers": {
@@ -516,11 +695,9 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "BEIN3 SPORTS-aq",
-          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
         },
         {
-          "display_name": "PREMIERE2 SPORTS-aq",
           "drmLicenseUrl": "",
           "drmScheme": "widevine",
           "headers": {
@@ -534,51 +711,28 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
           "name": "PREMIERE2 SPORTS-aq",
-          "stream_link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "hd-server",
+          "url": "https://www.rtmpcdn.com/live/2904f0af-b164-4b7f-b5e1-fbac6a1e0caa.m3u8"
         }
       ],
       "hotMatch": "yes",
       "league": "Football | Friendly International",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
-      "link_live": [
-        {
-          "display_name": "BEIN3 SPORTS-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "BEIN3 SPORTS-aq",
-          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "display_name": "PREMIERE2 SPORTS-aq",
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "PREMIERE2 SPORTS-aq",
-          "stream_link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        }
-      ],
       "logo1": "https://img.sofascore.com/api/v1/team/4819/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4749/image",
       "matchDate": "04/10/2026",
@@ -587,21 +741,172 @@
       "sportCategory": "Football",
       "team1": "Argentina",
       "team2": "Burkina Faso",
-      "updatedAt": 1791054586779,
-      "visibility": "public"
+      "updatedAt": 1791072222809,
+      "visibility": "unpublic"
     },
     {
       "id": "1117",
+      "buttons": [
+        {
+          "display_name": "CANAL5 SPORTS",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "CANAL5 SPORTS",
+          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd?|drmScheme=clearkey&drmLicense=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd?|drmScheme=clearkey&drmLicense=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+        },
+        {
+          "display_name": "TUDN MEXICO",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "TUDN MEXICO",
+          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd?|drmScheme=clearkey&drmLicense=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd?|drmScheme=clearkey&drmLicense=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        },
+        {
+          "display_name": "NBC UNIVERSO",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "NBC UNIVERSO",
+          "stream_link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd?|drmScheme=clearkey&drmLicense=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+          "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd?|drmScheme=clearkey&drmLicense=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f"
+        },
+        {
+          "display_name": "ESPN2 ARGENTINA",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "ESPN2 ARGENTINA",
+          "stream_link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd?|drmScheme=clearkey&drmLicense=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
+          "url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd?|drmScheme=clearkey&drmLicense=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185"
+        }
+      ],
+      "hotMatch": "no",
       "league": "Football | Friendly International",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "link_live": [
+        {
+          "display_name": "CANAL5 SPORTS",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "CANAL5 SPORTS",
+          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd?|drmScheme=clearkey&drmLicense=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd?|drmScheme=clearkey&drmLicense=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+        },
+        {
+          "display_name": "TUDN MEXICO",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "TUDN MEXICO",
+          "stream_link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd?|drmScheme=clearkey&drmLicense=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd?|drmScheme=clearkey&drmLicense=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        },
+        {
+          "display_name": "NBC UNIVERSO",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "NBC UNIVERSO",
+          "stream_link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd?|drmScheme=clearkey&drmLicense=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+          "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd?|drmScheme=clearkey&drmLicense=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f"
+        },
+        {
+          "display_name": "ESPN2 ARGENTINA",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "ESPN2 ARGENTINA",
+          "stream_link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd?|drmScheme=clearkey&drmLicense=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
+          "url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd?|drmScheme=clearkey&drmLicense=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185"
+        }
+      ],
       "logo1": "https://img.sofascore.com/api/v1/team/4724/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4781/image",
       "matchDate": "04/10/2026",
+      "matchFormat": "",
       "matchTime": "8:00 AM",
+      "noti_sent": true,
       "sportCategory": "Football",
       "team1": "USA",
       "team2": "Mexico",
-      "updatedAt": 1791053543345,
+      "updatedAt": 1791077779936,
       "visibility": "public"
     },
     {
@@ -1268,7 +1573,7 @@
       "visibility": "public"
     },
     {
-      "51": {
+      "52": {
         "data": {
           "buttons": [
             {
@@ -1284,8 +1589,60 @@
                 "Referer": "",
                 "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
               },
-              "name": "TNT3 SPORTS",
-              "url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+              "name": "TNT4UK SPORTS FHD",
+              "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "https://streame.center",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "STREAM TV + HD",
+              "url": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8"
+            }
+          ],
+          "hotMatch": "no",
+          "id": "52",
+          "league": "Baseball | MLB",
+          "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
+          "logo1": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
+          "logo2": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
+          "matchDate": "04/10/2026",
+          "matchFormat": "",
+          "matchTime": "4:30 AM",
+          "sportCategory": "Baseball",
+          "team1": "New York Yankees",
+          "team2": "Tampa Bay Rays",
+          "updatedAt": 1791064755921
+        },
+        "deletedAt": 1791077651121
+      },
+      "54": {
+        "data": {
+          "buttons": [
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "FOX1 SPORTS FHD",
+              "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd?|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
             },
             {
               "drmLicenseUrl": "",
@@ -1300,7 +1657,7 @@
                 "Referer": "",
                 "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
               },
-              "name": "FOX DEPORTES",
+              "name": "FOX DEPORTES FHD",
               "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd?|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
             },
             {
@@ -1317,24 +1674,24 @@
                 "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
               },
               "name": "STREAM TV + HD",
-              "url": "https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8"
+              "url": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8"
             }
           ],
           "hotMatch": "no",
-          "id": "51",
+          "id": "54",
           "league": "Baseball | MLB",
           "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
           "logo1": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
           "logo2": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
           "matchDate": "04/10/2026",
           "matchFormat": "",
-          "matchTime": "2:00 AM",
+          "matchTime": "4:00 AM",
           "sportCategory": "Baseball",
-          "team1": "Atlanta Braves",
-          "team2": "Los Angeles Dodgers",
-          "updatedAt": 1791057590641
+          "team1": "San Diego Padres",
+          "team2": "Milwaukee Brewers",
+          "updatedAt": 1791064956286
         },
-        "deletedAt": 1791067555487
+        "deletedAt": 1791077655941
       },
       "id": "trash",
       "visibility": "unpublic"
