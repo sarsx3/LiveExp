@@ -1,6 +1,6 @@
 {
-  "last_updated": "05 October 2026, 03:32:05 AM",
-  "last_updated_iso": "2026-10-04T21:32:05.722Z",
+  "last_updated": "05 October 2026, 06:07:05 AM",
+  "last_updated_iso": "2026-10-05T00:07:05.222Z",
   "new_since_last_sync": 0,
   "total_events": 49,
   "events": [
@@ -26,6 +26,7 @@
       "logo2": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
       "matchDate": "05/10/2026",
       "matchTime": "4:00 AM",
+      "noti_sent": true,
       "sportCategory": "Baseball",
       "team1": "Chicago White Sox",
       "team2": "Cleveland Guardians",
