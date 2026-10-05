@@ -1,8 +1,8 @@
 {
-  "last_updated": "05 October 2026, 06:07:05 AM",
-  "last_updated_iso": "2026-10-05T00:07:05.222Z",
-  "new_since_last_sync": 0,
-  "total_events": 49,
+  "last_updated": "05 October 2026, 11:30:02 AM",
+  "last_updated_iso": "2026-10-05T05:30:02.172Z",
+  "new_since_last_sync": 2,
+  "total_events": 51,
   "events": [
     {
       "id": "55",
@@ -12,6 +12,7 @@
       "logo2": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
       "matchDate": "05/10/2026",
       "matchTime": "8:00 AM",
+      "noti_sent": true,
       "sportCategory": "Baseball",
       "team1": "Atlanta Braves",
       "team2": "Los Angeles Dodgers",
@@ -26,12 +27,11 @@
       "logo2": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
       "matchDate": "05/10/2026",
       "matchTime": "4:00 AM",
-      "noti_sent": true,
       "sportCategory": "Baseball",
       "team1": "Chicago White Sox",
       "team2": "Cleveland Guardians",
       "updatedAt": 1791053543345,
-      "visibility": "public"
+      "visibility": "unpublic"
     },
     {
       "id": "57",
@@ -77,23 +77,17 @@
     },
     {
       "id": "70",
-      "is_hot": false,
       "league": "Motorsport | NASCAR Las Vegas",
       "leagueLogo": "https://img.sofascore.com/api/v1/category/1325/image",
-      "league_name": "Motorsport | NASCAR Las Vegas",
-      "localteam_name": "NASCAR Cup Series",
       "logo1": "https://img.sofascore.com/api/v1/category/1325/image",
       "logo2": "https://img.sofascore.com/api/v1/category/1325/image",
       "matchDate": "05/10/2026",
       "matchTime": "3:30 AM",
-      "name": "NASCAR Cup Series vs South Point 400",
-      "noti_sent": true,
       "sportCategory": "Motorsport",
       "team1": "NASCAR Cup Series",
       "team2": "South Point 400",
       "updatedAt": 1791053543345,
-      "visibility": "public",
-      "visitorteam_name": "South Point 400"
+      "visibility": "unpublic"
     },
     {
       "id": "104",
@@ -217,12 +211,11 @@
       "matchDate": "04/10/2026",
       "matchFormat": "ODI",
       "matchTime": "9:30 PM",
-      "noti_sent": true,
       "sportCategory": "Cricket",
       "team1": "India Champions",
       "team2": "England Champions",
       "updatedAt": 1791127013982,
-      "visibility": "public"
+      "visibility": "unpublic"
     },
     {
       "id": "105",
@@ -366,12 +359,11 @@
       "matchDate": "05/10/2026",
       "matchFormat": "",
       "matchTime": "12:45 AM",
-      "noti_sent": true,
       "sportCategory": "Football",
       "team1": "Wales",
       "team2": "Denmark",
       "updatedAt": 1791138629915,
-      "visibility": "public"
+      "visibility": "unpublic"
     },
     {
       "id": "1128",
@@ -459,12 +451,11 @@
       "matchDate": "05/10/2026",
       "matchFormat": "",
       "matchTime": "12:45 AM",
-      "noti_sent": true,
       "sportCategory": "Football",
       "team1": "Ireland",
       "team2": "Motherfucker",
       "updatedAt": 1791138644268,
-      "visibility": "public"
+      "visibility": "unpublic"
     },
     {
       "id": "1129",
@@ -632,7 +623,7 @@
           "url": "https://n220.ys.football/online/4jpxUKHYI2MKvK2VNkju5w/1791142823/fs2_480.m3u8"
         },
         {
-          "display_name": "test",
+          "display_name": "low-server 2",
           "drmLicenseUrl": "",
           "drmScheme": "widevine",
           "headers": {
@@ -669,10 +660,8 @@
         }
       ],
       "hotMatch": "yes",
-      "is_hot": true,
       "league": "Football | UEFA Nations League",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
-      "league_name": "Football | UEFA Nations League",
       "link_live": [
         {
           "display_name": "sonyliv-aq",
@@ -837,7 +826,7 @@
           "url": "https://n220.ys.football/online/4jpxUKHYI2MKvK2VNkju5w/1791142823/fs2_480.m3u8"
         },
         {
-          "display_name": "test",
+          "display_name": "low-server 2",
           "drmLicenseUrl": "",
           "drmScheme": "widevine",
           "headers": {
@@ -873,20 +862,16 @@
           "url": "https://pull.gosh6.app/live/obs_16944971.m3u8?txSecret=2db3246b67ab51330891ada0300282f4&txTime=6ac5154c"
         }
       ],
-      "localteam_name": "Portugal",
       "logo1": "https://img.sofascore.com/api/v1/team/4704/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4475/image",
       "matchDate": "05/10/2026",
       "matchFormat": "",
       "matchTime": "12:45 AM",
-      "name": "Portugal vs Norway",
-      "noti_sent": true,
       "sportCategory": "Football",
       "team1": "Portugal",
       "team2": "Norway",
       "updatedAt": 1791140667673,
-      "visibility": "public",
-      "visitorteam_name": "Norway"
+      "visibility": "unpublic"
     },
     {
       "id": "1130",
@@ -1082,12 +1067,11 @@
       "matchDate": "05/10/2026",
       "matchFormat": "",
       "matchTime": "12:45 AM",
-      "noti_sent": true,
       "sportCategory": "Football",
       "team1": "Netherlands",
       "team2": "Serbia",
       "updatedAt": 1791140436481,
-      "visibility": "public"
+      "visibility": "unpublic"
     },
     {
       "id": "1131",
@@ -1319,12 +1303,11 @@
       "matchDate": "05/10/2026",
       "matchFormat": "",
       "matchTime": "12:45 AM",
-      "noti_sent": true,
       "sportCategory": "Football",
       "team1": "Greece",
       "team2": "Germany",
       "updatedAt": 1791139304599,
-      "visibility": "public"
+      "visibility": "unpublic"
     },
     {
       "id": "1132",
@@ -1376,12 +1359,11 @@
       "matchDate": "05/10/2026",
       "matchFormat": "",
       "matchTime": "1:00 AM",
-      "noti_sent": true,
       "sportCategory": "Football",
       "team1": "Girona",
       "team2": "Mallorca",
       "updatedAt": 1791141899310,
-      "visibility": "public"
+      "visibility": "unpublic"
     },
     {
       "id": "1133",
@@ -1826,6 +1808,222 @@
       "team2": "West Indies Champions",
       "updatedAt": 1791053543345,
       "visibility": "public"
+    },
+    {
+      "1125": {
+        "data": {
+          "buttons": [
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "on sport - aq",
+              "url": "https://fastly.live.brightcove.com/6386028928112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODYwMjg5MjgxMTIifQ.7pBZHXb93BJ47HBrEiPQvSquoHi92NStYSX3JKYcznQ/playlist-hls.m3u8"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "hd-server",
+              "url": "https://www.rtmpcdn.com/live/cae677b9-3c86-4d1f-8a4a-55627008c54b.m3u8?"
+            }
+          ],
+          "hotMatch": "no",
+          "id": "1125",
+          "league": "Football | Friendly International",
+          "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+          "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/5100",
+          "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/5103",
+          "matchDate": "05/10/2026",
+          "matchFormat": "",
+          "matchTime": "12:00 AM",
+          "sportCategory": "Football",
+          "team1": "Egypt",
+          "team2": "South Africa",
+          "updatedAt": 1791138754290
+        },
+        "deletedAt": 1791144753169
+      },
+      "1126": {
+        "data": {
+          "buttons": [
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "https://snrt.player.easybroadcast.io/",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "Server - 1",
+              "url": "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8?token=OtpMhY7ZXZ4a146WF-gXqQnXiJB35xQWjdZaS1cdVQ8&expires=1791140597&token_path=%2Fabr_corp%2F73_arryadia_k2tgcj0"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "hd-server",
+              "url": "https://www.rtmpcdn.com/live/bf31d277-1715-4960-847c-39e0ca7e754c.m3u8?"
+            }
+          ],
+          "hotMatch": "no",
+          "id": "1126",
+          "league": "Football | Friendly International",
+          "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+          "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5093",
+          "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/5094",
+          "matchDate": "05/10/2026",
+          "matchFormat": "",
+          "matchTime": "12:00 AM",
+          "sportCategory": "Football",
+          "team1": "Morocco",
+          "team2": "Ghana",
+          "updatedAt": 1791138781235
+        },
+        "deletedAt": 1791144757786
+      },
+      "id": "1791171015658598",
+      "visibility": "unpublic"
+    },
+    {
+      "1125": {
+        "data": {
+          "buttons": [
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "on sport - aq",
+              "url": "https://fastly.live.brightcove.com/6386028928112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODYwMjg5MjgxMTIifQ.7pBZHXb93BJ47HBrEiPQvSquoHi92NStYSX3JKYcznQ/playlist-hls.m3u8"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "hd-server",
+              "url": "https://www.rtmpcdn.com/live/cae677b9-3c86-4d1f-8a4a-55627008c54b.m3u8?"
+            }
+          ],
+          "hotMatch": "no",
+          "id": "1125",
+          "league": "Football | Friendly International",
+          "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+          "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/5100",
+          "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/5103",
+          "matchDate": "05/10/2026",
+          "matchFormat": "",
+          "matchTime": "12:00 AM",
+          "sportCategory": "Football",
+          "team1": "Egypt",
+          "team2": "South Africa",
+          "updatedAt": 1791138754290
+        },
+        "deletedAt": 1791144753169
+      },
+      "1126": {
+        "data": {
+          "buttons": [
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "https://snrt.player.easybroadcast.io/",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "Server - 1",
+              "url": "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8?token=OtpMhY7ZXZ4a146WF-gXqQnXiJB35xQWjdZaS1cdVQ8&expires=1791140597&token_path=%2Fabr_corp%2F73_arryadia_k2tgcj0"
+            },
+            {
+              "drmLicenseUrl": "",
+              "drmScheme": "widevine",
+              "headers": {
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Cookie": "",
+                "Origin": "",
+                "Referer": "",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+              },
+              "name": "hd-server",
+              "url": "https://www.rtmpcdn.com/live/bf31d277-1715-4960-847c-39e0ca7e754c.m3u8?"
+            }
+          ],
+          "hotMatch": "no",
+          "id": "1126",
+          "league": "Football | Friendly International",
+          "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+          "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5093",
+          "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/5094",
+          "matchDate": "05/10/2026",
+          "matchFormat": "",
+          "matchTime": "12:00 AM",
+          "sportCategory": "Football",
+          "team1": "Morocco",
+          "team2": "Ghana",
+          "updatedAt": 1791138781235
+        },
+        "deletedAt": 1791144757786
+      },
+      "id": "1791171429645698",
+      "visibility": "unpublic"
     },
     {
       "1125": {
