@@ -1,8 +1,8 @@
 {
-  "last_updated": "06 October 2026, 07:29:03 AM",
-  "last_updated_iso": "2026-10-06T01:29:03.776Z",
-  "new_since_last_sync": 143,
-  "total_events": 171,
+  "last_updated": "06 October 2026, 02:00:44 PM",
+  "last_updated_iso": "2026-10-06T08:00:44.040Z",
+  "new_since_last_sync": 0,
+  "total_events": 170,
   "events": [
     {
       "id": "3",
@@ -21,128 +21,14 @@
       "visibility": "public"
     },
     {
-      "id": "57",
-      "buttons": [
-        {
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "TNT1 SPORTS-aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://streame.center",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "HD QUALITY",
-          "url": "https://edgestream5.pro/hls/eJmauBDCIf.m3u8"
-        },
-        {
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://streame.center",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "STREAM TV + HD",
-          "url": "https://edgestream2.pro/hls/eJmauBDCIf.m3u8"
-        }
-      ],
+      "id": "58",
       "hotMatch": "no",
       "league": "Baseball | MLB",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-      "link_live": [
-        {
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "TNT1 SPORTS-aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://streame.center",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "HD QUALITY",
-          "url": "https://edgestream5.pro/hls/eJmauBDCIf.m3u8"
-        },
-        {
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "https://streame.center",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "STREAM TV + HD",
-          "url": "https://edgestream2.pro/hls/eJmauBDCIf.m3u8"
-        }
-      ],
       "logo1": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
       "logo2": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
       "matchDate": "06/10/2026",
       "matchFormat": "",
-      "matchTime": "7:00 AM",
-      "sportCategory": "Baseball",
-      "team1": "New York Yankees",
-      "team2": "Tampa Bay Rays",
-      "updatedAt": 1791053543345,
-      "visibility": "unpublic"
-    },
-    {
-      "id": "58",
-      "league": "Baseball | MLB",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-      "logo1": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-      "logo2": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-      "matchDate": "06/10/2026",
       "matchTime": "9:00 AM",
       "sportCategory": "Baseball",
       "team1": "Los Angeles Dodgers",
@@ -682,31 +568,51 @@
     },
     {
       "id": "1172",
+      "bd_time": "11:30 AM 09/10/2026",
+      "is_hot": false,
       "league": "Cricket | Afghanistan vs Bangladesh – One-off Test, Day 1",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "league_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "league_name": "Cricket | Afghanistan vs Bangladesh Test Match",
+      "localteam_logo": "https://img.sofascore.com/api/v1/team/187575/image",
+      "localteam_name": "Afghanistan",
       "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
       "matchDate": "09/10/2026",
       "matchTime": "11:30 AM",
+      "name": "Afghanistan vs Bangladesh",
+      "slug": "afghanistan-vs-bangladesh",
       "sportCategory": "Cricket",
       "team1": "Afghanistan",
       "team2": "Bangladesh",
       "updatedAt": 1791217896439,
-      "visibility": "public"
+      "visibility": "public",
+      "visitorteam_logo": "https://img.sofascore.com/api/v1/team/187744/image",
+      "visitorteam_name": "Bangladesh"
     },
     {
       "id": "1173",
+      "bd_time": "1:30 PM 09/10/2026",
+      "is_hot": false,
       "league": "Cricket | South Africa vs Australia – 1st Test, Day 1",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "league_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "league_name": "Cricket | South Africa vs Australia – 1st Test",
+      "localteam_logo": "https://img.sofascore.com/api/v1/team/187747/image",
+      "localteam_name": "South Africa",
       "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187746/image",
       "matchDate": "09/10/2026",
       "matchTime": "1:30 PM",
+      "name": "South Africa vs Australia",
+      "slug": "south-africa-vs-australia",
       "sportCategory": "Cricket",
       "team1": "South Africa",
       "team2": "Australia",
       "updatedAt": 1791217896439,
-      "visibility": "public"
+      "visibility": "public",
+      "visitorteam_logo": "https://img.sofascore.com/api/v1/team/187746/image",
+      "visitorteam_name": "Australia"
     },
     {
       "id": "1174",
@@ -1680,17 +1586,27 @@
     },
     {
       "id": "1243",
+      "bd_time": "11:30 AM 10/10/2026",
+      "is_hot": true,
       "league": "Cricket | AFG vs BAN – One-off Test, Day 2",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "league_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "league_name": "Cricket | AFG vs BAN – One Test, Day 2",
+      "localteam_logo": "https://img.sofascore.com/api/v1/team/187575/image",
+      "localteam_name": "Afghanistan",
       "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
       "matchDate": "10/10/2026",
       "matchTime": "11:30 AM",
+      "name": "Afghanistan vs Bangladesh",
+      "slug": "afghanistan-vs-bangladesh",
       "sportCategory": "Cricket",
       "team1": "Afghanistan",
       "team2": "Bangladesh",
       "updatedAt": 1791217896439,
-      "visibility": "public"
+      "visibility": "public",
+      "visitorteam_logo": "https://img.sofascore.com/api/v1/team/187744/image",
+      "visitorteam_name": "Bangladesh"
     },
     {
       "id": "1244",
@@ -1732,7 +1648,7 @@
       "team1": "Barracas",
       "team2": "Huracan",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1247",
@@ -1746,7 +1662,7 @@
       "team1": "Central Córdoba",
       "team2": "Estudiantes",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1248",
@@ -1760,7 +1676,7 @@
       "team1": "Tigre",
       "team2": "Banfield",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1249",
@@ -1774,7 +1690,7 @@
       "team1": "River",
       "team2": "Estudiantes Río Cuarto",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1250",
@@ -1788,7 +1704,7 @@
       "team1": "San Lorenzo",
       "team2": "Deportivo Riestra",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1251",
@@ -1802,7 +1718,7 @@
       "team1": "Vasco",
       "team2": "Remo",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1252",
@@ -1816,7 +1732,7 @@
       "team1": "São Paulo",
       "team2": "Vitoria",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1253",
@@ -1830,7 +1746,7 @@
       "team1": "Hull City",
       "team2": "Everton",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1254",
@@ -1844,7 +1760,7 @@
       "team1": "Palace",
       "team2": "Forest",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1255",
@@ -1860,7 +1776,7 @@
       "team1": "Liverpool",
       "team2": "Man City",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1256",
@@ -1874,7 +1790,7 @@
       "team1": "Southampton",
       "team2": "Portsmouth",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1257",
@@ -1888,7 +1804,7 @@
       "team1": "PSG",
       "team2": "Le Mans",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1258",
@@ -1902,7 +1818,7 @@
       "team1": "Monaco",
       "team2": "Toulouse",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1259",
@@ -1916,7 +1832,7 @@
       "team1": "Lorient",
       "team2": "Paris FC",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1260",
@@ -1930,7 +1846,7 @@
       "team1": "Brest",
       "team2": "SCO Angers",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1261",
@@ -1944,7 +1860,7 @@
       "team1": "OGC Nice",
       "team2": "Strasbourg",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1262",
@@ -1958,7 +1874,7 @@
       "team1": "Rennes",
       "team2": "Auxerre",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1263",
@@ -1972,7 +1888,7 @@
       "team1": "Köln",
       "team2": "Gladbach",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1264",
@@ -1986,7 +1902,7 @@
       "team1": "Freiburg",
       "team2": "Schalke 04",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1265",
@@ -2000,7 +1916,7 @@
       "team1": "Nurnberg",
       "team2": "Wolfsburg",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1266",
@@ -2014,7 +1930,7 @@
       "team1": "Bochum",
       "team2": "Arminia",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1267",
@@ -2028,7 +1944,7 @@
       "team1": "Hertha BSC",
       "team2": "Furth",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1268",
@@ -2042,7 +1958,7 @@
       "team1": "St. Pauli",
       "team2": "Karlsruher",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1269",
@@ -2056,7 +1972,7 @@
       "team1": "Napoli",
       "team2": "Frosinone",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1270",
@@ -2070,7 +1986,7 @@
       "team1": "Como",
       "team2": "Roma",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1271",
@@ -2084,7 +2000,7 @@
       "team1": "Lecce",
       "team2": "Bologna",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1272",
@@ -2098,7 +2014,7 @@
       "team1": "Lazio",
       "team2": "Monza",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1273",
@@ -2112,7 +2028,7 @@
       "team1": "Sassuolo",
       "team2": "AC Milan",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1274",
@@ -2126,7 +2042,7 @@
       "team1": "Viseu",
       "team2": "Estoril",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1275",
@@ -2140,7 +2056,7 @@
       "team1": "Rio Ave",
       "team2": "Nacional",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1276",
@@ -2154,7 +2070,7 @@
       "team1": "Benfica",
       "team2": "Guimarães",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1277",
@@ -2168,7 +2084,7 @@
       "team1": "Al Hilal",
       "team2": "Al Ittihad",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1278",
@@ -2182,7 +2098,7 @@
       "team1": "Al Feiha",
       "team2": "Al Riyadh",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1279",
@@ -2196,7 +2112,7 @@
       "team1": "Abha Club",
       "team2": "Al Faysaly",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1280",
@@ -2210,7 +2126,7 @@
       "team1": "Real Madrid",
       "team2": "Villarreal",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1281",
@@ -2224,7 +2140,7 @@
       "team1": "Elche",
       "team2": "RC Celta",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1282",
@@ -2238,7 +2154,7 @@
       "team1": "Real Sociedad",
       "team2": "Deportivo",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1283",
@@ -2252,7 +2168,7 @@
       "team1": "Betis",
       "team2": "Osasuna",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1284",
@@ -2266,7 +2182,7 @@
       "team1": "Celta Vigo B",
       "team2": "Real Sociedad B",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1285",
@@ -2280,7 +2196,7 @@
       "team1": "Andorra",
       "team2": "Castellon",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1286",
@@ -2294,7 +2210,7 @@
       "team1": "Almeria",
       "team2": "Leganés",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1287",
@@ -2308,7 +2224,7 @@
       "team1": "Mallorca",
       "team2": "Las Palmas",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1288",
@@ -2322,7 +2238,7 @@
       "team1": "Chicago Fire",
       "team2": "New York City",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1289",
@@ -2336,7 +2252,7 @@
       "team1": "Philadelphia Union",
       "team2": "Real Salt Lake",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1290",
@@ -2350,7 +2266,7 @@
       "team1": "Orlando City",
       "team2": "Columbus Crew",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1291",
@@ -2364,7 +2280,7 @@
       "team1": "New York RB",
       "team2": "San Diego",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1292",
@@ -2378,7 +2294,7 @@
       "team1": "Revolution",
       "team2": "Seattle Sounders",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1293",
@@ -2394,7 +2310,7 @@
       "team1": "Inter Miami",
       "team2": "DC United",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1294",
@@ -2408,7 +2324,7 @@
       "team1": "Charlotte FC",
       "team2": "FC Dallas",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1295",
@@ -2422,7 +2338,7 @@
       "team1": "Atlanta United",
       "team2": "FC Cincinnati",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1296",
@@ -2436,7 +2352,7 @@
       "team1": "Minnesota United",
       "team2": "Houston Dynamo",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1297",
@@ -2450,7 +2366,7 @@
       "team1": "Sporting KC",
       "team2": "Portland",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1298",
@@ -2464,7 +2380,7 @@
       "team1": "Austin",
       "team2": "Nashville SC",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1299",
@@ -2478,7 +2394,7 @@
       "team1": "Colorado Rapids",
       "team2": "San Jose",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1300",
@@ -2492,21 +2408,31 @@
       "team1": "Los Angeles FC",
       "team2": "Vancouver Whitecaps",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1301",
+      "bd_time": "11:30 AM 11/10/2026",
+      "is_hot": false,
       "league": "Cricket | AFG vs BAN – One-off Test, Day 3",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "league_logo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "league_name": "Cricket | AFG vs BAN – Test Match,Day 3",
+      "localteam_logo": "https://img.sofascore.com/api/v1/team/187575/image",
+      "localteam_name": "Afghanistan",
       "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
       "matchDate": "11/10/2026",
       "matchTime": "11:30 AM",
+      "name": "Afghanistan vs Bangladesh",
+      "slug": "afghanistan-vs-bangladesh",
       "sportCategory": "Cricket",
       "team1": "Afghanistan",
       "team2": "Bangladesh",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public",
+      "visitorteam_logo": "https://img.sofascore.com/api/v1/team/187744/image",
+      "visitorteam_name": "Bangladesh"
     },
     {
       "id": "1302",
@@ -2520,7 +2446,7 @@
       "team1": "South Africa",
       "team2": "Australia",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1303",
@@ -2534,7 +2460,7 @@
       "team1": "Australia Champions",
       "team2": "West Indies Champions",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1304",
@@ -2548,7 +2474,7 @@
       "team1": "India Champions",
       "team2": "Bangladesh Champions",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1305",
@@ -2564,7 +2490,7 @@
       "team1": "India",
       "team2": "West Indies",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1306",
@@ -2578,7 +2504,7 @@
       "team1": "Pakistan",
       "team2": "Sri Lanka",
       "updatedAt": 1791231025075,
-      "visibility": "unpublic"
+      "visibility": "public"
     }
   ]
 }
