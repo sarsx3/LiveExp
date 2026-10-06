@@ -1,8 +1,8 @@
 {
-  "last_updated": "06 October 2026, 02:00:44 PM",
-  "last_updated_iso": "2026-10-06T08:00:44.040Z",
-  "new_since_last_sync": 0,
-  "total_events": 170,
+  "last_updated": "06 October 2026, 09:00:54 PM",
+  "last_updated_iso": "2026-10-06T15:00:54.989Z",
+  "new_since_last_sync": 57,
+  "total_events": 226,
   "events": [
     {
       "id": "3",
@@ -51,20 +51,6 @@
       "visibility": "unpublic"
     },
     {
-      "id": "107",
-      "league": "Cricket | World Championship of Legends",
-      "leagueLogo": "https://cricketvectors.akamaized.net/Series/2MS.png",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/VJ.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/VN.png",
-      "matchDate": "06/10/2026",
-      "matchTime": "5:30 PM",
-      "sportCategory": "Cricket",
-      "team1": "India Champions",
-      "team2": "South Africa Champions",
-      "updatedAt": 1791053543345,
-      "visibility": "public"
-    },
-    {
       "id": "108",
       "league": "Cricket | World Championship of Legends",
       "leagueLogo": "https://cricketvectors.akamaized.net/Series/2MS.png",
@@ -79,36 +65,380 @@
       "visibility": "public"
     },
     {
+      "id": "201",
+      "league": "Motorsport | MotoGP Indonesian GP - Practice",
+      "leagueLogo": "https://img.sofascore.com/api/v1/category/1325/image",
+      "logo1": "https://img.sofascore.com/api/v1/category/1325/image",
+      "logo2": "https://img.sofascore.com/api/v1/category/1325/image",
+      "matchDate": "09/10/2026",
+      "matchTime": "1:00 PM",
+      "sportCategory": "Motorsport",
+      "team1": "MotoGP",
+      "team2": "MotoGP",
+      "updatedAt": 1791282365843,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "202",
+      "league": "Motorsport | Formula 1 Singapore GP - Practice 1",
+      "leagueLogo": "https://img.sofascore.com/api/v1/category/36/image",
+      "logo1": "https://img.sofascore.com/api/v1/category/36/image",
+      "logo2": "https://img.sofascore.com/api/v1/category/36/image",
+      "matchDate": "09/10/2026",
+      "matchTime": "2:30 PM",
+      "sportCategory": "Motorsport",
+      "team1": "Formula 1",
+      "team2": "Formula 1",
+      "updatedAt": 1791282365843,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "203",
+      "league": "Motorsport | Formula 1 Singapore GP - Sprint Qualifying",
+      "leagueLogo": "https://img.sofascore.com/api/v1/category/36/image",
+      "logo1": "https://img.sofascore.com/api/v1/category/36/image",
+      "logo2": "https://img.sofascore.com/api/v1/category/36/image",
+      "matchDate": "09/10/2026",
+      "matchTime": "6:30 PM",
+      "sportCategory": "Motorsport",
+      "team1": "Formula 1",
+      "team2": "Formula 1",
+      "updatedAt": 1791282365843,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "204",
+      "league": "Motorsport | MotoGP Indonesian GP - Sprint",
+      "leagueLogo": "https://img.sofascore.com/api/v1/category/1325/image",
+      "logo1": "https://img.sofascore.com/api/v1/category/1325/image",
+      "logo2": "https://img.sofascore.com/api/v1/category/1325/image",
+      "matchDate": "10/10/2026",
+      "matchTime": "1:00 PM",
+      "sportCategory": "Motorsport",
+      "team1": "MotoGP",
+      "team2": "MotoGP",
+      "updatedAt": 1791282365843,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "205",
+      "league": "Motorsport | Formula 1 Singapore GP - Sprint",
+      "leagueLogo": "https://img.sofascore.com/api/v1/category/36/image",
+      "logo1": "https://img.sofascore.com/api/v1/category/36/image",
+      "logo2": "https://img.sofascore.com/api/v1/category/36/image",
+      "matchDate": "10/10/2026",
+      "matchTime": "3:00 PM",
+      "sportCategory": "Motorsport",
+      "team1": "Formula 1",
+      "team2": "Formula 1",
+      "updatedAt": 1791282365843,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "206",
+      "league": "Motorsport | Formula 1 Singapore GP - Qualifying",
+      "leagueLogo": "https://img.sofascore.com/api/v1/category/36/image",
+      "logo1": "https://img.sofascore.com/api/v1/category/36/image",
+      "logo2": "https://img.sofascore.com/api/v1/category/36/image",
+      "matchDate": "10/10/2026",
+      "matchTime": "7:00 PM",
+      "sportCategory": "Motorsport",
+      "team1": "Formula 1",
+      "team2": "Formula 1",
+      "updatedAt": 1791282365843,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "207",
+      "league": "Motorsport | MotoGP Indonesian GP",
+      "leagueLogo": "https://img.sofascore.com/api/v1/category/1325/image",
+      "logo1": "https://img.sofascore.com/api/v1/category/1325/image",
+      "logo2": "https://img.sofascore.com/api/v1/category/1325/image",
+      "matchDate": "11/10/2026",
+      "matchTime": "1:00 PM",
+      "sportCategory": "Motorsport",
+      "team1": "MotoGP",
+      "team2": "MotoGP",
+      "updatedAt": 1791282365843,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "208",
+      "league": "Motorsport | Formula 1 Singapore GP",
+      "leagueLogo": "https://img.sofascore.com/api/v1/category/36/image",
+      "logo1": "https://img.sofascore.com/api/v1/category/36/image",
+      "logo2": "https://img.sofascore.com/api/v1/category/36/image",
+      "matchDate": "11/10/2026",
+      "matchTime": "6:00 PM",
+      "sportCategory": "Motorsport",
+      "team1": "Formula 1",
+      "team2": "Formula 1",
+      "updatedAt": 1791282365843,
+      "visibility": "unpublic"
+    },
+    {
       "id": "1142",
+      "bd_time": "11:00 PM 06/10/2026",
+      "hotMatch": "no",
+      "is_hot": false,
       "league": "Football | Friendly International",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "league_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
+      "league_name": "Football | Friendly International",
+      "localteam_logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5083",
+      "localteam_name": "Jordan",
       "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5083",
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v13/Competitors/5072",
       "matchDate": "06/10/2026",
-      "matchTime": "4:25 PM",
+      "matchFormat": "",
+      "matchTime": "11:00 PM",
+      "name": "Jordan vs Venezuela",
+      "noti_sent": true,
+      "slug": "jordan-vs-venezuela",
       "sportCategory": "Football",
       "team1": "Jordan",
       "team2": "Venezuela",
       "updatedAt": 1791053543345,
-      "visibility": "public"
+      "visibility": "public",
+      "visitorteam_logo": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v13/Competitors/5072",
+      "visitorteam_name": "Venezuela"
     },
     {
       "id": "1143",
       "bd_time": "7:30 PM 06/10/2026",
+      "buttons": [
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Tapmad - Aq",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "TNT1 SPORTS-aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1runwqpk0c/out/v1/0ae93e8fb1534fff812de48245f4516c/cenc.mpd?|drmScheme=clearkey&drmLicense=4a822aaf010c2bd57b138e3733c6a2c0:f8c4fbf1f95f17a91b19250e573e55fe"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "willow-alt",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1runwqpk0c/out/v1/0ae93e8fb1534fff812de48245f4516c/cenc.mpd?|drmScheme=clearkey&drmLicense=4a822aaf010c2bd57b138e3733c6a2c0:f8c4fbf1f95f17a91b19250e573e55fe"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://www.hotstar.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "HOTSTAR HIN (IND)",
+          "url": "https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "willow sports-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "backup-server",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8"
+        }
+      ],
       "hotMatch": "yes",
       "is_hot": true,
       "league": "Cricket | India vs West Indies – 1st T20I",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11190/image",
       "league_logo": "https://img.sofascore.com/api/v1/unique-tournament/11190/image",
       "league_name": "Cricket | India vs West Indies – 1st T20I",
+      "link_live": [
+        {
+          "display_name": "Tapmad - Aq",
+          "drmLicenseUrl": "465e30cbfd3748843f54933153276ed8:0f9351d5b352b8f7939bd6695e38afe3",
+          "drmScheme": "clearkey",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "willow-aq",
+          "stream_link": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8",
+          "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8"
+        },
+        {
+          "display_name": "TNT1 SPORTS-aq",
+          "drmLicenseUrl": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+          "drmScheme": "clearkey",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tnt sports-aq",
+          "stream_link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "display_name": "willow sports-aq",
+          "drmLicenseUrl": "465e30cbfd3748843f54933153276ed8:0f9351d5b352b8f7939bd6695e38afe3",
+          "drmScheme": "clearkey",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "willow-alt",
+          "stream_link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1runwqpk0c/out/v1/0ae93e8fb1534fff812de48245f4516c/cenc.mpd?|drmScheme=clearkey&drmLicense=4a822aaf010c2bd57b138e3733c6a2c0:f8c4fbf1f95f17a91b19250e573e55fe"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "willow-alt",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1runwqpk0c/out/v1/0ae93e8fb1534fff812de48245f4516c/cenc.mpd?|drmScheme=clearkey&drmLicense=4a822aaf010c2bd57b138e3733c6a2c0:f8c4fbf1f95f17a91b19250e573e55fe"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://www.hotstar.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "HOTSTAR HIN (IND)",
+          "url": "https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?"
+        }
+      ],
       "localteam_logo": "https://img.sofascore.com/api/v1/team/187765/image",
       "localteam_name": "India",
       "logo1": "https://img.sofascore.com/api/v1/team/187765/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187760/image",
       "matchDate": "06/10/2026",
-      "matchFormat": "",
+      "matchFormat": "ODI",
       "matchTime": "7:30 PM",
       "name": "India vs West Indies",
+      "noti_sent": true,
       "slug": "india-vs-west-indies",
       "sportCategory": "Cricket",
       "team1": "India",
@@ -120,12 +450,1139 @@
     },
     {
       "id": "1144",
+      "buttons": [
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive0610/ENG/master.m3u8?hdnea=exp=1791336040~acl=/*~id=12437333618821553730941650761285~hmac=dd6482a0cadf4cfb70f1065c55c1f24a512c840b83fa2d0d69a6ecce861023ec"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "FOX2 SPORTS-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd?|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "SPORTV2 BR-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd?|drmScheme=clearkey&drmLicense=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "BEIN2 ARABIC HD",
+          "url": "https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "hd-server",
+          "url": "https://www.rtmpcdn.com/live/4f87846e-9805-4b16-b155-ca452c723b45.m3u8"
+        }
+      ],
+      "hotMatch": "no",
       "league": "Football | UEFA Nations League",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v2/Competitions/light/7016",
+      "link_live": [
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "FOX2 SPORTS-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd?|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "SPORTV2 BR-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd?|drmScheme=clearkey&drmLicense=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "BEIN2 ARABIC HD",
+          "url": "https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": ""
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive0610/ENG/master.m3u8?hdnea=exp=1791336040~acl=/*~id=12437333618821553730941650761285~hmac=dd6482a0cadf4cfb70f1065c55c1f24a512c840b83fa2d0d69a6ecce861023ec"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://www.tapmad.com",
+            "Referer": "https://www.tapmad.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "tapmad-aq",
+          "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "hd-server",
+          "url": "https://www.rtmpcdn.com/live/4f87846e-9805-4b16-b155-ca452c723b45.m3u8"
+        }
+      ],
       "logo1": "https://img.sofascore.com/api/v1/team/4772/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4760/image",
       "matchDate": "06/10/2026",
+      "matchFormat": "",
       "matchTime": "8:00 PM",
+      "noti_sent": true,
       "sportCategory": "Football",
       "team1": "Kazakhstan",
       "team2": "Faroe Islands",
@@ -135,12 +1592,384 @@
     {
       "id": "1145",
       "bd_time": "8:00 PM 06/10/2026",
+      "buttons": [
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-bangla",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/BEN/master.m3u8?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-english",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/ENG/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://bhalocast.pro",
+            "Referer": "https://bhalocast.pro/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 1",
+          "url": "https://www.rtmpcdn.com/live/48290f0f-3e6a-4fe0-a725-9442ca37a4d2.m3u8"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-hindi",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/HIN/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-tamil",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TAM/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-telugu",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TEL/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-kannada",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/KAN/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "hd-server",
+          "url": "https://www.rtmpcdn.com/live/48290f0f-3e6a-4fe0-a725-9442ca37a4d2.m3u8"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://player.online909.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "dazn Bangla",
+          "url": "https://live.vivo155.com/live/sd-1-4650120.m3u8?txSecret=93d56a4e5a46fe92b66ce6477ccdb287&txTime=6AC509F2"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "low-server",
+          "url": "http://193.47.62.41/hls/VUUUAAAAAA.m3u8?"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://www.sonyliv.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 1",
+          "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/Footlive0610/ENG/master.m3u8"
+        }
+      ],
       "hotMatch": "yes",
       "is_hot": true,
       "league": "Football | Friendly International",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "league_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png/v4/Competitions/light/570",
       "league_name": "Football | Friendly International",
+      "link_live": [
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-aq",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/ENG/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-bangla",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/BEN/master.m3u8?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://bhalocast.pro",
+            "Referer": "https://bhalocast.pro/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 1",
+          "url": "https://dz5.bhalocast.pro:7059/hls/yt7c.m3u8?md5=ErE90FyNObiosH3kcckXow&expires=1791299215&ch=yt7c&s=62c7ac544d4fd85f5301b3a036fafdd0"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "https://bhalocast.pro",
+            "Referer": "https://bhalocast.pro/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Global Server - 2",
+          "url": "https://dz5.bhalocast.pro:7059/hls/yt8l.m3u8?md5=tbtTCb-3jgE7fWmombY8MQ&expires=1791299349&ch=yt8l&s=7d25a94137482052b64a9771c7771bdc"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-hindi",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/HIN/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-tamil",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TAM/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-telugu",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TEL/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "sonyliv-kannada",
+          "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/KAN/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "hd-server",
+          "url": "https://www.rtmpcdn.com/live/48290f0f-3e6a-4fe0-a725-9442ca37a4d2.m3u8"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://player.online909.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "dazn Bangla",
+          "url": "https://live.vivo155.com/live/sd-1-4650120.m3u8?txSecret=93d56a4e5a46fe92b66ce6477ccdb287&txTime=6AC509F2"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "http://www.fawanews.sc/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "low-server",
+          "url": "http://193.47.62.41/hls/VUUUAAAAAA.m3u8?"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://www.sonyliv.com/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "gb - 1",
+          "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/Footlive0610/ENG/master.m3u8"
+        }
+      ],
       "localteam_logo": "https://img.sofascore.com/api/v1/team/4828/image",
       "localteam_name": "India",
       "logo1": "https://img.sofascore.com/api/v1/team/4828/image",
@@ -149,6 +1978,7 @@
       "matchFormat": "",
       "matchTime": "8:00 PM",
       "name": "India vs Uruguay",
+      "noti_sent": true,
       "slug": "india-vs-uruguay",
       "sportCategory": "Football",
       "team1": "India",
@@ -2505,6 +4335,692 @@
       "team2": "Sri Lanka",
       "updatedAt": 1791231025075,
       "visibility": "public"
+    },
+    {
+      "id": "1307",
+      "league": "Football | Saudi League",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
+      "logo1": "https://img.sofascore.com/api/v1/team/34313/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/56021/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "12:00 AM",
+      "sportCategory": "Football",
+      "team1": "Al Shabab",
+      "team2": "Al Taawoun",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1308",
+      "league": "Football | Ligue 1",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
+      "logo1": "https://img.sofascore.com/api/v1/team/1652/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1641/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "12:45 AM",
+      "sportCategory": "Football",
+      "team1": "Troyes",
+      "team2": "Marseille",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1309",
+      "league": "Football | Serie A",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
+      "logo1": "https://img.sofascore.com/api/v1/team/2719/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2687/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "12:45 AM",
+      "sportCategory": "Football",
+      "team1": "Cagliari",
+      "team2": "Juventus",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1310",
+      "league": "Football | Brasileirão Série A",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+      "logo1": "https://img.sofascore.com/api/v1/team/1977/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1968/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "1:00 AM",
+      "sportCategory": "Football",
+      "team1": "Atlético-MG",
+      "team2": "Santos",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1311",
+      "league": "Football | LaLiga",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
+      "logo1": "https://img.sofascore.com/api/v1/team/2835/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2828/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "1:00 AM",
+      "sportCategory": "Football",
+      "team1": "Racing Santander",
+      "team2": "Valencia",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1312",
+      "league": "Football | LaLiga 2",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
+      "logo1": "https://img.sofascore.com/api/v1/team/4488/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2852/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "1:00 AM",
+      "sportCategory": "Football",
+      "team1": "Cadiz",
+      "team2": "Sporting Gijon",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1313",
+      "league": "Football | Liga Portugal",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/238/image",
+      "logo1": "https://img.sofascore.com/api/v1/team/25777/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3035/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "1:30 AM",
+      "sportCategory": "Football",
+      "team1": "Arouca",
+      "team2": "Amadora",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1314",
+      "league": "Football | Liga Profesional",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
+      "logo1": "https://img.sofascore.com/api/v1/team/3217/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/36842/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "2:00 AM",
+      "sportCategory": "Football",
+      "team1": "Rosario Central",
+      "team2": "Independiente Rivadavia",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1315",
+      "league": "Football | Liga Profesional",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
+      "logo1": "https://img.sofascore.com/api/v1/team/36837/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3216/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "2:00 AM",
+      "sportCategory": "Football",
+      "team1": "Platense",
+      "team2": "Argentinos Juniors",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1316",
+      "league": "Football | Brasileirão Série A",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+      "logo1": "https://img.sofascore.com/api/v1/team/5926/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1966/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "2:30 AM",
+      "sportCategory": "Football",
+      "team1": "Gremio",
+      "team2": "Internacional",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1317",
+      "league": "Football | Brasileirão Série A",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+      "logo1": "https://img.sofascore.com/api/v1/team/1963/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1957/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "2:30 AM",
+      "sportCategory": "Football",
+      "team1": "Palmeiras",
+      "team2": "Corinthians",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1318",
+      "league": "Football | Brasileirão Série A",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+      "logo1": "https://img.sofascore.com/api/v1/team/5981/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1961/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "2:30 AM",
+      "sportCategory": "Football",
+      "team1": "Flamengo",
+      "team2": "Fluminense",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1319",
+      "league": "Football | Liga Profesional",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
+      "logo1": "https://img.sofascore.com/api/v1/team/3215/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3203/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "4:15 AM",
+      "sportCategory": "Football",
+      "team1": "Racing Club",
+      "team2": "Belgrano",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1320",
+      "league": "Football | Brasileirão Série A",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+      "logo1": "https://img.sofascore.com/api/v1/team/1955/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/21982/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "4:30 AM",
+      "sportCategory": "Football",
+      "team1": "Bahia",
+      "team2": "Mirassol",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1321",
+      "league": "Football | MLS",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
+      "logo1": "https://img.sofascore.com/api/v1/team/407803/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2513/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "5:00 AM",
+      "sportCategory": "Football",
+      "team1": "St. Louis City",
+      "team2": "LA Galaxy",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1322",
+      "league": "Football | Liga Profesional",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
+      "logo1": "https://img.sofascore.com/api/v1/team/3210/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3209/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "6:30 AM",
+      "sportCategory": "Football",
+      "team1": "Talleres",
+      "team2": "Independiente",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1323",
+      "league": "Cricket | AFG vs BAN – One-off Test, Day 4",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "11:30 AM",
+      "sportCategory": "Cricket",
+      "team1": "Afghanistan",
+      "team2": "Bangladesh",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1324",
+      "league": "Cricket | SA vs AUS – 1st Test, Day 4",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18833/image",
+      "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187746/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "1:30 PM",
+      "sportCategory": "Cricket",
+      "team1": "South Africa",
+      "team2": "Australia",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1325",
+      "league": "Football | LaLiga 2",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
+      "logo1": "https://img.sofascore.com/api/v1/team/2831/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2848/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "6:00 PM",
+      "sportCategory": "Football",
+      "team1": "Valladolid",
+      "team2": "Albacete",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1326",
+      "league": "Football | AFC Champions League Elite",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+      "logo1": "https://img.sofascore.com/api/v1/team/34310/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/56027/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "7:45 PM",
+      "sportCategory": "Football",
+      "team1": "Pakhtakor",
+      "team2": "Al Qadsiah",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1327",
+      "league": "Football | LaLiga 2",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
+      "logo1": "https://img.sofascore.com/api/v1/team/2854/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/33779/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "8:15 PM",
+      "sportCategory": "Football",
+      "team1": "Burgos",
+      "team2": "Granada",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1328",
+      "league": "Football | AFC Champions League Elite",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+      "logo1": "https://img.sofascore.com/api/v1/team/53715/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/170366/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "10:00 PM",
+      "sportCategory": "Football",
+      "team1": "Tractor FC",
+      "team2": "Al Shamal",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1329",
+      "league": "Football | AFC Champions League Elite",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+      "logo1": "https://img.sofascore.com/api/v1/team/47674/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/34469/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "10:00 PM",
+      "sportCategory": "Football",
+      "team1": "Al Wasl",
+      "team2": "Al Ahli",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1330",
+      "league": "Football | Serie A",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
+      "logo1": "https://img.sofascore.com/api/v1/team/2686/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2688/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "10:30 PM",
+      "sportCategory": "Football",
+      "team1": "Atalanta",
+      "team2": "Venezia",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1331",
+      "league": "Football | LaLiga 2",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
+      "logo1": "https://img.sofascore.com/api/v1/team/2851/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2839/image",
+      "matchDate": "12/10/2026",
+      "matchTime": "10:30 PM",
+      "sportCategory": "Football",
+      "team1": "Real Oviedo",
+      "team2": "Eibar",
+      "updatedAt": 1791277673735,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1332",
+      "league": "Football | AFC Champions League Elite",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+      "logo1": "https://img.sofascore.com/api/v1/team/213877/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/37082/image",
+      "matchDate": "13/10/2026",
+      "matchTime": "12:15 AM",
+      "sportCategory": "Football",
+      "team1": "Quwa Al Jawiya",
+      "team2": "Al Ain",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1333",
+      "league": "Football | AFC Champions League Elite",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+      "logo1": "https://img.sofascore.com/api/v1/team/23400/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/36256/image",
+      "matchDate": "13/10/2026",
+      "matchTime": "12:15 AM",
+      "sportCategory": "Football",
+      "team1": "Al-Nassr",
+      "team2": "Neftchi Fargona",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1334",
+      "league": "Football | AFC Champions League Elite",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+      "logo1": "https://img.sofascore.com/api/v1/team/34312/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/34316/image",
+      "matchDate": "13/10/2026",
+      "matchTime": "12:15 AM",
+      "sportCategory": "Football",
+      "team1": "Al Gharafa",
+      "team2": "Esteghlal FC Tehran",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1335",
+      "league": "Football | Serie A",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
+      "logo1": "https://img.sofascore.com/api/v1/team/2696/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2695/image",
+      "matchDate": "13/10/2026",
+      "matchTime": "12:45 AM",
+      "sportCategory": "Football",
+      "team1": "Torino",
+      "team2": "Udinese Calcio",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1336",
+      "league": "Football | Premier League",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
+      "logo1": "https://img.sofascore.com/api/v1/team/11/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/39/image",
+      "matchDate": "13/10/2026",
+      "matchTime": "1:00 AM",
+      "sportCategory": "Football",
+      "team1": "Coventry",
+      "team2": "Newcastle United FC",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1337",
+      "league": "Football | LaLiga",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
+      "logo1": "https://img.sofascore.com/api/v1/team/2849/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2833/image",
+      "matchDate": "13/10/2026",
+      "matchTime": "1:00 AM",
+      "sportCategory": "Football",
+      "team1": "Levante",
+      "team2": "Sevilla FC",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1338",
+      "league": "Football | Liga Portugal",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/238/image",
+      "logo1": "https://img.sofascore.com/api/v1/team/49531/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/190328/image",
+      "matchDate": "13/10/2026",
+      "matchTime": "1:15 AM",
+      "sportCategory": "Football",
+      "team1": "Famalicão",
+      "team2": "Alverca",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1339",
+      "league": "Football | Brasileirão Série A",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+      "logo1": "https://img.sofascore.com/api/v1/team/1999/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1954/image",
+      "matchDate": "13/10/2026",
+      "matchTime": "6:00 AM",
+      "sportCategory": "Football",
+      "team1": "Bragantino",
+      "team2": "Cruzeiro - MG",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1340",
+      "league": "Cricket | Afghanistan vs Bangladesh – One-off Test, Day 5",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "logo1": "https://img.sofascore.com/api/v1/team/187575/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
+      "matchDate": "13/10/2026",
+      "matchTime": "11:30 AM",
+      "sportCategory": "Cricket",
+      "team1": "Afghanistan",
+      "team2": "Bangladesh",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1341",
+      "league": "Cricket | South Africa vs Australia – 1st Test, Day 5",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/18833/image",
+      "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187746/image",
+      "matchDate": "13/10/2026",
+      "matchTime": "1:30 PM",
+      "sportCategory": "Cricket",
+      "team1": "South Africa",
+      "team2": "Australia",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1342",
+      "league": "Football | AFC Champions League Elite",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+      "logo1": "https://img.sofascore.com/api/v1/team/2934/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3138/image",
+      "matchDate": "13/10/2026",
+      "matchTime": "1:45 PM",
+      "sportCategory": "Football",
+      "team1": "Newcastle Jets",
+      "team2": "Gamba Osaka",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1343",
+      "league": "Football | AFC Champions League Elite",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+      "logo1": "https://img.sofascore.com/api/v1/team/41537/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/7645/image",
+      "matchDate": "13/10/2026",
+      "matchTime": "4:00 PM",
+      "sportCategory": "Football",
+      "team1": "Shanghai Port",
+      "team2": "Daejeon Hana Citizen",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1344",
+      "league": "Football | AFC Champions League Elite",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+      "logo1": "https://img.sofascore.com/api/v1/team/7650/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3327/image",
+      "matchDate": "13/10/2026",
+      "matchTime": "4:00 PM",
+      "sportCategory": "Football",
+      "team1": "Pohang Steelers",
+      "team2": "Johor Darul Ta’zim",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1345",
+      "league": "Football | AFC Champions League Elite",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+      "logo1": "https://img.sofascore.com/api/v1/team/3149/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/85743/image",
+      "matchDate": "13/10/2026",
+      "matchTime": "4:00 PM",
+      "sportCategory": "Football",
+      "team1": "Kyoto",
+      "team2": "Ratchaburi FC",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1346",
+      "league": "Cricket | World Championship of Legends",
+      "leagueLogo": "https://cricketvectors.akamaized.net/Series/2MS.png",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/VN.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/VL.png",
+      "matchDate": "13/10/2026",
+      "matchTime": "5:30 PM",
+      "sportCategory": "Cricket",
+      "team1": "South Africa Champions",
+      "team2": "England Champions",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1347",
+      "league": "Football | AFC Champions League Elite",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+      "logo1": "https://img.sofascore.com/api/v1/team/34218/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3376/image",
+      "matchDate": "13/10/2026",
+      "matchTime": "6:15 PM",
+      "sportCategory": "Football",
+      "team1": "Buriram United",
+      "team2": "Beijing Guoan",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1348",
+      "league": "Football | AFC Champions League Elite",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+      "logo1": "https://img.sofascore.com/api/v1/team/193616/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3134/image",
+      "matchDate": "13/10/2026",
+      "matchTime": "6:15 PM",
+      "sportCategory": "Football",
+      "team1": "Công An Hà Nội",
+      "team2": "Kashima Antlers",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1349",
+      "league": "Football | AFC Champions League Two",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
+      "logo1": "https://img.sofascore.com/api/v1/team/40655/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/61532/image",
+      "matchDate": "13/10/2026",
+      "matchTime": "7:45 PM",
+      "sportCategory": "Football",
+      "team1": "East Bengal",
+      "team2": "Al Shorta Baghdad",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1350",
+      "league": "Cricket | Pakistan vs Sri Lanka – 3rd T20I",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11191/image",
+      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187756/image",
+      "matchDate": "13/10/2026",
+      "matchTime": "9:00 PM",
+      "sportCategory": "Cricket",
+      "team1": "Pakistan",
+      "team2": "Sri Lanka",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1351",
+      "league": "Cricket | World Championship of Legends",
+      "leagueLogo": "https://cricketvectors.akamaized.net/Series/2MS.png",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/VJ.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/VO.png",
+      "matchDate": "13/10/2026",
+      "matchTime": "9:30 PM",
+      "sportCategory": "Cricket",
+      "team1": "India Champions",
+      "team2": "West Indies Champions",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1352",
+      "league": "Football | AFC Champions League Elite",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+      "logo1": "https://img.sofascore.com/api/v1/team/39733/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/21895/image",
+      "matchDate": "13/10/2026",
+      "matchTime": "10:00 PM",
+      "sportCategory": "Football",
+      "team1": "Al Sadd",
+      "team2": "Al Hilal Riyadh",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1353",
+      "league": "Football | AFC Champions League Two",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
+      "logo1": "https://img.sofascore.com/api/v1/team/71044/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/117204/image",
+      "matchDate": "13/10/2026",
+      "matchTime": "10:00 PM",
+      "sportCategory": "Football",
+      "team1": "Al Seeb SC",
+      "team2": "Al Hussein",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1354",
+      "league": "Football | UEFA Champions League",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+      "logo1": "https://img.sofascore.com/api/v1/team/267828/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2216/image",
+      "matchDate": "13/10/2026",
+      "matchTime": "10:45 PM",
+      "sportCategory": "Football",
+      "team1": "Sabah",
+      "team2": "SK Slavia Praha",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "1355",
+      "league": "Football | UEFA Champions League",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+      "logo1": "https://img.sofascore.com/api/v1/team/1648/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3001/image",
+      "matchDate": "13/10/2026",
+      "matchTime": "10:45 PM",
+      "sportCategory": "Football",
+      "team1": "Lens",
+      "team2": "Sporting Lisbon",
+      "updatedAt": 1791280760204,
+      "visibility": "unpublic"
     }
   ]
 }
