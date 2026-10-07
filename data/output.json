@@ -1,9 +1,269 @@
 {
-  "last_updated": "07 October 2026, 10:40:01 PM",
-  "last_updated_iso": "2026-10-07T16:40:01.959Z",
-  "new_since_last_sync": 71,
-  "total_events": 272,
+  "last_updated": "08 October 2026, 03:35:04 AM",
+  "last_updated_iso": "2026-10-07T21:35:04.525Z",
+  "new_since_last_sync": 4,
+  "total_events": 276,
   "events": [
+    {
+      "id": "1",
+      "buttons": [
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "TNT1 SPORTS-aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://streame.center",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "STREAM TV + HD",
+          "url": "https://edgestream4.pro/hls/24SDAZFcsqnj24.m3u8"
+        }
+      ],
+      "hotMatch": "no",
+      "league": "Baseball | MLB",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
+      "link_live": [
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "TNT1 SPORTS-aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://streame.center",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "STREAM TV + HD",
+          "url": "https://edgestream4.pro/hls/24SDAZFcsqnj24.m3u8"
+        }
+      ],
+      "logo1": "https://img.sofascore.com/api/v1/team/3644/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3650/image",
+      "matchDate": "08/10/2026",
+      "matchFormat": "",
+      "matchTime": "2:00 AM",
+      "sportCategory": "Baseball",
+      "team1": "Chicago White Sox",
+      "team2": "Cleveland Guardians",
+      "updatedAt": 1791392177045,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "2",
+      "buttons": [
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "TNT2 SPORTS-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "FOX1 SPORTS-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd?|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "FOX DEPORTES-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd?|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://streame.center",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "STREAM TV + HD",
+          "url": "https://edgestream3.pro/hls/eJmauBDCIf.m3u8"
+        }
+      ],
+      "hotMatch": "no",
+      "league": "Baseball | MLB",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
+      "link_live": [
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "TNT2 SPORTS-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "FOX1 SPORTS-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd?|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "FOX DEPORTES-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd?|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "https://streame.center",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "STREAM TV + HD",
+          "url": "https://edgestream3.pro/hls/eJmauBDCIf.m3u8"
+        }
+      ],
+      "logo1": "https://img.sofascore.com/api/v1/team/3656/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3638/image",
+      "matchDate": "08/10/2026",
+      "matchFormat": "",
+      "matchTime": "4:00 AM",
+      "sportCategory": "Baseball",
+      "team1": "Atlanta Braves",
+      "team2": "Los Angeles Dodgers",
+      "updatedAt": 1791392177045,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "3",
+      "league": "Baseball | MLB",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
+      "logo1": "https://img.sofascore.com/api/v1/team/3654/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3653/image",
+      "matchDate": "08/10/2026",
+      "matchTime": "6:00 AM",
+      "sportCategory": "Baseball",
+      "team1": "New York Yankees",
+      "team2": "Tampa Bay Rays",
+      "updatedAt": 1791392177045,
+      "visibility": "unpublic"
+    },
+    {
+      "id": "4",
+      "league": "Baseball | MLB",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
+      "logo1": "https://img.sofascore.com/api/v1/team/3636/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3630/image",
+      "matchDate": "08/10/2026",
+      "matchTime": "8:00 AM",
+      "sportCategory": "Baseball",
+      "team1": "San Diego Padres",
+      "team2": "Milwaukee Brewers",
+      "updatedAt": 1791392177045,
+      "visibility": "unpublic"
+    },
     {
       "id": "201",
       "league": "Motorsport | MotoGP Indonesian GP - Practice",
@@ -118,6 +378,7 @@
     },
     {
       "id": "1163",
+      "bd_time": "9:30 PM 07/10/2026",
       "buttons": [
         {
           "drmLicenseUrl": "",
@@ -201,8 +462,142 @@
         }
       ],
       "hotMatch": "no",
+      "is_hot": false,
       "league": "Cricket | World Championship of Legends",
       "leagueLogo": "https://cricketvectors.akamaized.net/Series/2MS.png",
+      "league_logo": "https://cricketvectors.akamaized.net/Series/2MS.png",
+      "league_name": "Cricket | World Championship of Legends",
+      "link_live": [
+        {
+          "display_name": "willow sports-aq",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "willow-aq",
+          "stream_link": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "display_name": "t sports",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "willow sports-aq",
+          "stream_link": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8",
+          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8"
+        },
+        {
+          "display_name": "star sports",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "t sports",
+          "stream_link": "http://198.195.239.50:8095/STAR.SPORTS2.HD/index.m3u8",
+          "url": "http://198.195.239.50:8095/STAR.SPORTS2.HD/index.m3u8"
+        },
+        {
+          "display_name": "WILLOW ALT",
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "star sports",
+          "stream_link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1lstantup9/out/v1/560cf8ceb5f64113ad6ecc40cc7d4244/cenc.mpd?|drmScheme=clearkey&drmLicense=30b90a03c8d0b7204f69d3657165440f:ab02131e8dc12cd9b4daedbcc82c694a",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1lstantup9/out/v1/560cf8ceb5f64113ad6ecc40cc7d4244/cenc.mpd?|drmScheme=clearkey&drmLicense=30b90a03c8d0b7204f69d3657165440f:ab02131e8dc12cd9b4daedbcc82c694a"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "Willow-aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1lstantup9/out/v1/560cf8ceb5f64113ad6ecc40cc7d4244/cenc.mpd?|drmScheme=clearkey&drmLicense=30b90a03c8d0b7204f69d3657165440f:ab02131e8dc12cd9b4daedbcc82c694a"
+        }
+      ],
+      "localteam_logo": "https://cricketvectors.akamaized.net/Teams/VL.png",
+      "localteam_name": "England Champions",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/VL.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/VO.png",
+      "matchDate": "07/10/2026",
+      "matchFormat": "ODI",
+      "matchTime": "9:30 PM",
+      "name": "England Champions vs West Indies Champions",
+      "noti_sent": true,
+      "slug": "england-champions-vs-west-indies-champions",
+      "sportCategory": "Cricket",
+      "team1": "England Champions",
+      "team2": "West Indies Champions",
+      "updatedAt": 1791053543345,
+      "visibility": "public",
+      "visitorteam_logo": "https://cricketvectors.akamaized.net/Teams/VO.png",
+      "visitorteam_name": "West Indies Champions"
+    },
+    {
+      "id": "1164",
+      "buttons": [
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "PREMIERER4-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd?|drmScheme=clearkey&drmLicense=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94"
+        }
+      ],
+      "hotMatch": "no",
+      "league": "Football | Brasileirão Série A",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "link_live": [
         {
           "drmLicenseUrl": "",
@@ -217,93 +612,14 @@
             "Referer": "",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
           },
-          "name": "willow-aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1lstantup9/out/v1/560cf8ceb5f64113ad6ecc40cc7d4244/cenc.mpd?|drmScheme=clearkey&drmLicense=30b90a03c8d0b7204f69d3657165440f:ab02131e8dc12cd9b4daedbcc82c694a"
-        },
-        {
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "willow sports-aq",
-          "url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "t sports",
-          "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8"
-        },
-        {
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "star sports",
-          "url": "http://198.195.239.50:8095/STAR.SPORTS2.HD/index.m3u8"
-        },
-        {
-          "drmLicenseUrl": "",
-          "drmScheme": "widevine",
-          "headers": {
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Connection": "keep-alive",
-            "Cookie": "",
-            "Origin": "",
-            "Referer": "",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-          },
-          "name": "WILLOW ALT",
-          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1lstantup9/out/v1/560cf8ceb5f64113ad6ecc40cc7d4244/cenc.mpd?|drmScheme=clearkey&drmLicense=30b90a03c8d0b7204f69d3657165440f:ab02131e8dc12cd9b4daedbcc82c694a"
+          "name": "PREMIERER4-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd?|drmScheme=clearkey&drmLicense=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94"
         }
       ],
-      "logo1": "https://cricketvectors.akamaized.net/Teams/VL.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/VO.png",
-      "matchDate": "07/10/2026",
-      "matchFormat": "ODI",
-      "matchTime": "9:30 PM",
-      "noti_sent": true,
-      "sportCategory": "Cricket",
-      "team1": "England Champions",
-      "team2": "West Indies Champions",
-      "updatedAt": 1791053543345,
-      "visibility": "public"
-    },
-    {
-      "id": "1164",
-      "league": "Football | Brasileirão Série A",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "logo1": "https://img.sofascore.com/api/v1/team/2012/image",
       "logo2": "https://img.sofascore.com/api/v1/team/5926/image",
       "matchDate": "08/10/2026",
+      "matchFormat": "",
       "matchTime": "4:30 AM",
       "sportCategory": "Football",
       "team1": "Remo",
@@ -313,11 +629,81 @@
     },
     {
       "id": "1165",
+      "buttons": [
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "PREMIERE.. BR-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd?|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "SportDigital Fussball-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        }
+      ],
+      "hotMatch": "no",
       "league": "Football | Brasileirão Série A",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+      "link_live": [
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "PREMIERE.. BR-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd?|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7"
+        },
+        {
+          "drmLicenseUrl": "",
+          "drmScheme": "widevine",
+          "headers": {
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Connection": "keep-alive",
+            "Cookie": "",
+            "Origin": "",
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          },
+          "name": "SportDigital Fussball-aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        }
+      ],
       "logo1": "https://img.sofascore.com/api/v1/team/1966/image",
       "logo2": "https://img.sofascore.com/api/v1/team/1957/image",
       "matchDate": "08/10/2026",
+      "matchFormat": "",
       "matchTime": "4:30 AM",
       "sportCategory": "Football",
       "team1": "Internacional",
@@ -3047,7 +3433,7 @@
       "team1": "Villarreal",
       "team2": "Napoli",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1374",
@@ -3061,7 +3447,7 @@
       "team1": "Viking",
       "team2": "Bayern",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1375",
@@ -3077,7 +3463,7 @@
       "team1": "Atl. Madrid",
       "team2": "Man Utd",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1376",
@@ -3091,7 +3477,7 @@
       "team1": "Inter",
       "team2": "Club Brugge",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1377",
@@ -3105,7 +3491,7 @@
       "team1": "RB Leipzig",
       "team2": "PSV",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1378",
@@ -3119,7 +3505,7 @@
       "team1": "Galatasaray",
       "team2": "Barcelona",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1379",
@@ -3135,7 +3521,7 @@
       "team1": "Arsenal",
       "team2": "Lille",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1380",
@@ -3149,7 +3535,7 @@
       "team1": "LASK",
       "team2": "Liverpool",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1381",
@@ -3163,7 +3549,7 @@
       "team1": "Feyenoord",
       "team2": "Como",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1382",
@@ -3177,7 +3563,7 @@
       "team1": "Al Ittihad",
       "team2": "Shabab Al Ahly",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1383",
@@ -3191,7 +3577,7 @@
       "team1": "Kashiwa Reysol",
       "team2": "Thai Port FC",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1384",
@@ -3205,7 +3591,7 @@
       "team1": "Vissel Kobe",
       "team2": "Jeonbuk Hyundai Motors",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1385",
@@ -3219,7 +3605,7 @@
       "team1": "Melbourne Victory",
       "team2": "FC Seoul",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1386",
@@ -3233,7 +3619,7 @@
       "team1": "Persib Bandung",
       "team2": "Viettel",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1387",
@@ -3247,7 +3633,7 @@
       "team1": "Nasaf",
       "team2": "Wahda Abu Dhabi",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1388",
@@ -3261,7 +3647,7 @@
       "team1": "Al-Taawon",
       "team2": "Al Rayyan",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1389",
@@ -3275,7 +3661,7 @@
       "team1": "Muharraq SC",
       "team2": "Gol Gohar",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1390",
@@ -3289,7 +3675,7 @@
       "team1": "Al-Jazira",
       "team2": "Arkadag",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1391",
@@ -3303,7 +3689,7 @@
       "team1": "Wrexham",
       "team2": "West Brom",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1392",
@@ -3317,7 +3703,7 @@
       "team1": "Wolves",
       "team2": "Bolton",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1393",
@@ -3331,7 +3717,7 @@
       "team1": "Millwall",
       "team2": "Swansea",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1394",
@@ -3345,7 +3731,7 @@
       "team1": "Cardiff",
       "team2": "Watford",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1395",
@@ -3359,7 +3745,7 @@
       "team1": "Burnley",
       "team2": "Charlton",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1396",
@@ -3373,7 +3759,7 @@
       "team1": "Bristol City",
       "team2": "Blackburn",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1397",
@@ -3387,7 +3773,7 @@
       "team1": "Stoke City",
       "team2": "Middlesbrough",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1398",
@@ -3401,7 +3787,7 @@
       "team1": "Birmingham",
       "team2": "Preston",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1399",
@@ -3415,7 +3801,7 @@
       "team1": "England Champions",
       "team2": "Australia Champions",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1400",
@@ -3429,7 +3815,7 @@
       "team1": "Bangladesh Champions",
       "team2": "South Africa Champions",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1401",
@@ -3445,7 +3831,7 @@
       "team1": "India",
       "team2": "West Indies",
       "updatedAt": 1791386571054,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1402",
@@ -3459,7 +3845,7 @@
       "team1": "Slovan Bratislava",
       "team2": "VfB Stuttgart",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1403",
@@ -3473,7 +3859,7 @@
       "team1": "Bodo Glimt",
       "team2": "Borussia Dortmund",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1404",
@@ -3487,7 +3873,7 @@
       "team1": "Shakhtar",
       "team2": "AEK Athens FC",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1405",
@@ -3503,7 +3889,7 @@
       "team1": "Man City",
       "team2": "Paris Saint-Germain",
       "updatedAt": 1791390229158,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1406",
@@ -3519,7 +3905,7 @@
       "team1": "AS Roma",
       "team2": "Real Madrid CF",
       "updatedAt": 1791390223623,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1407",
@@ -3533,7 +3919,7 @@
       "team1": "Betis",
       "team2": "FC Porto",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1408",
@@ -3547,7 +3933,7 @@
       "team1": "Aston Villa",
       "team2": "Fenerbahce Istanbul",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1409",
@@ -3561,7 +3947,7 @@
       "team1": "Sarmiento Junin",
       "team2": "River Plate arg",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1410",
@@ -3575,7 +3961,7 @@
       "team1": "Al Faisaly",
       "team2": "Al Nahda",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1411",
@@ -3589,7 +3975,7 @@
       "team1": "Kuwait SC",
       "team2": "Al Khalidiyah",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1412",
@@ -3603,7 +3989,7 @@
       "team1": "Gangwon FC",
       "team2": "Phnom Penh Crown",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1413",
@@ -3617,7 +4003,7 @@
       "team1": "Tai Po FC",
       "team2": "Lion City",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1414",
@@ -3631,7 +4017,7 @@
       "team1": "Kuching City FC",
       "team2": "Kitchee",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1415",
@@ -3645,7 +4031,7 @@
       "team1": "Tampines Rovers",
       "team2": "Machida Zelvia",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1416",
@@ -3659,7 +4045,7 @@
       "team1": "Svay Rieng",
       "team2": "Shanghai Shenhua FC",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1417",
@@ -3673,7 +4059,7 @@
       "team1": "BG Pathum United",
       "team2": "Adelaide United FC",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1418",
@@ -3687,7 +4073,7 @@
       "team1": "QPR",
       "team2": "Derby County",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1419",
@@ -3701,7 +4087,7 @@
       "team1": "Portsmouth",
       "team2": "Sheffield Utd",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1420",
@@ -3715,7 +4101,7 @@
       "team1": "Norwich",
       "team2": "Southampton FC",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1421",
@@ -3729,7 +4115,7 @@
       "team1": "Lincoln",
       "team2": "West Ham United FC",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1422",
@@ -3743,7 +4129,7 @@
       "team1": "AZ Alkmaar",
       "team2": "Hapoel Be'er Sheva FC",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1423",
@@ -3757,7 +4143,7 @@
       "team1": "St. Gilloise",
       "team2": "Real Sociedad",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1424",
@@ -3771,7 +4157,7 @@
       "team1": "Lech Poznan",
       "team2": "Bayer 04 Leverkusen",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1425",
@@ -3785,7 +4171,7 @@
       "team1": "Torreense",
       "team2": "Sunderland AFC",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1426",
@@ -3799,7 +4185,7 @@
       "team1": "Lyon",
       "team2": "Crystal Palace FC",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1427",
@@ -3813,7 +4199,7 @@
       "team1": "Sparta Praha",
       "team2": "Lillestrom",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1428",
@@ -3827,7 +4213,7 @@
       "team1": "Celje",
       "team2": "Omonia",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1429",
@@ -3841,7 +4227,7 @@
       "team1": "Salzburg",
       "team2": "AC Milan",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1430",
@@ -3855,7 +4241,7 @@
       "team1": "Craiova",
       "team2": "Getafe CF",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1431",
@@ -3869,7 +4255,7 @@
       "team1": "Riga",
       "team2": "FC Kairat Almaty",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1432",
@@ -3883,7 +4269,7 @@
       "team1": "CSKA Sofia",
       "team2": "AS Monaco",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1433",
@@ -3897,7 +4283,7 @@
       "team1": "Panathinaikos",
       "team2": "FK Borac Banja Luka",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1434",
@@ -3911,7 +4297,7 @@
       "team1": "Mjällby AIF",
       "team2": "Inter Club de Escaldes",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1435",
@@ -3925,7 +4311,7 @@
       "team1": "KuPS",
       "team2": "Trabzonspor",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1436",
@@ -3939,7 +4325,7 @@
       "team1": "Gent",
       "team2": "AGF Aarhus",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1437",
@@ -3953,7 +4339,7 @@
       "team1": "KF Egnatia",
       "team2": "FC Midtjylland",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1438",
@@ -3967,7 +4353,7 @@
       "team1": "Hajduk Split",
       "team2": "Ajax Amsterdam",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1439",
@@ -3981,7 +4367,7 @@
       "team1": "Lugano",
       "team2": "FK Crvena zvezda",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1440",
@@ -3995,7 +4381,7 @@
       "team1": "Al Faysaly",
       "team2": "Al-Kholood",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1441",
@@ -4009,7 +4395,7 @@
       "team1": "Al-Khaleej",
       "team2": "Al-Fayha FC",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1442",
@@ -4023,7 +4409,7 @@
       "team1": "Al Hazm",
       "team2": "Al Fateh SC",
       "updatedAt": 1791390182179,
-      "visibility": "unpublic"
+      "visibility": "public"
     },
     {
       "id": "1443",
@@ -4039,7 +4425,7 @@
       "team1": "Inter Miami",
       "team2": "New York City FC",
       "updatedAt": 1791390214386,
-      "visibility": "unpublic"
+      "visibility": "public"
     }
   ]
 }
